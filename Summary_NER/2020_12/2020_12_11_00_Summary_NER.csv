@@ -1,0 +1,6138 @@
+Tweet_ID,NER_Text,Start_Pos,Eng_Pos,NER_Label,Prob
+,michigan,0,8,LOC,0.9997
+,pfizer,39,45,MISC,0.5386
+,fda,72,75,ORG,0.9974
+,detroit free press,87,105,ORG,0.9801
+,pfizer,110,116,ORG,0.9999
+,covid-19,161,169,MISC,0.9234
+,michigan,0,8,LOC,0.9997
+,pfizer,39,45,MISC,0.5387
+,fda,72,75,ORG,0.9974
+,detroit free press,87,105,ORG,0.9802
+,pfizer,110,116,ORG,0.9999
+,covid-19,161,169,MISC,0.9231
+,covid-19,69,77,MISC,0.743
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,fox news,62,70,ORG,0.9663
+,eagles,47,53,ORG,0.9439
+,bipartisan,0,10,MISC,0.6662
+,ppp,43,46,ORG,0.3904
+,cnbc,91,95,ORG,0.9983
+,covid,157,162,MISC,0.96
+,bipartisan,0,10,MISC,0.667
+,ppp,43,46,ORG,0.3861
+,cnbc,91,95,ORG,0.9983
+,covid,157,162,MISC,0.9606
+,sam bright,39,49,PER,0.9922
+,byline,54,60,PER,0.9958
+,hancockâ,62,70,ORG,0.4499
+,canada,47,53,LOC,1.0
+,fauci,21,26,PER,0.9999
+,covid,98,103,MISC,0.9875
+,kizzyphd,116,124,MISC,0.8437
+,republican,53,63,MISC,0.9998
+,house,64,69,ORG,0.9831
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,ri,24,26,LOC,0.5579
+,latinx,45,51,MISC,0.8591
+,covid-19,84,92,MISC,0.9435
+,mechanic,169,177,PER,0.995
+,ppe,43,46,ORG,0.9716
+,ny,0,2,LOC,0.8192
+,covid-19,22,30,MISC,0.9214
+,pcr,94,97,MISC,0.7296
+,maybe sasha,40,51,PER,0.6986
+,mats,53,57,PER,0.9438
+,us,26,28,LOC,0.8284
+,covid,218,223,MISC,0.7045
+,ontario,19,26,LOC,0.9613
+,doug ford,116,125,PER,0.9989
+,lance,56,61,PER,1.0
+,checho,107,113,PER,0.8399
+,colorado,79,87,LOC,0.9999
+,us,60,64,LOC,0.9996
+,covid-19,106,114,MISC,0.6432
+,covid-19,16,24,MISC,0.9441
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,ugur sahin,64,74,PER,0.8925
+,pfizer covid,116,128,MISC,0.8711
+,elkins,76,82,PER,0.9193
+,katy,111,115,PER,0.3809
+,cdc,0,3,ORG,1.0
+,trumpâ€™,81,89,ORG,0.5126
+,lang leav,35,44,PER,0.9606
+,americans,26,35,MISC,0.9921
+,black,50,55,MISC,0.7011
+,native american,57,72,MISC,0.7655
+,americans,41,50,MISC,0.9999
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,s korea,27,34,MISC,0.8566
+,pearl harbor,58,70,LOC,0.9955
+,us,220,222,LOC,0.9993
+,fda,0,3,ORG,1.0
+,pfizer covid-19,33,48,MISC,0.9329
+,vegas,47,52,LOC,0.9986
+,usa,15,18,LOC,0.992
+,anne frank,52,62,PER,0.7882
+,emmett till,109,120,PER,0.9424
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,fox news,62,70,ORG,0.9663
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,china,19,24,LOC,0.9986
+,rebecca heinrichs,92,109,PER,0.9944
+,hudson institute,117,133,ORG,0.9222
+,fda,96,99,ORG,0.9998
+,ellen,29,34,PER,0.999
+,imagine,67,74,PER,0.6856
+,john lennon,78,89,PER,0.9988
+,ca,25,27,ORG,0.4605
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,pa,91,94,LOC,0.9998
+,covid-19,36,44,MISC,0.9411
+,hong kong,52,61,LOC,0.9998
+,klm,68,71,ORG,0.9995
+,trump,24,29,PER,0.9997
+,trump,17,22,PER,0.9999
+,us,0,2,LOC,0.9502
+,pfizerâ€™,39,48,MISC,0.7275
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,newsom,39,45,PER,0.9987
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,biden,71,76,PER,0.9999
+,jim biden,80,89,PER,0.9993
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,florida,13,20,LOC,0.9895
+,nigerian,31,39,MISC,0.9994
+,covid-19,104,112,MISC,0.9793
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,little bitch boy,29,45,MISC,0.8412
+,covid,199,204,PER,0.9846
+,pennsylvanians,88,102,MISC,0.9979
+,covid,126,131,MISC,0.908
+,bc centre for disease controlâ,116,146,ORG,0.939
+,india,17,22,LOC,0.9994
+,trump supporters,32,48,ORG,0.8627
+,conner and akers,29,45,ORG,0.8595
+,conner,93,99,PER,0.9991
+,akers,125,130,PER,0.9998
+,steelers,144,152,ORG,0.9999
+,conner,207,213,PER,1.0
+,covid,276,281,PER,0.9977
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,tokyo,56,61,LOC,0.9958
+,eurasiagroup,93,105,ORG,0.5583
+,idaho,96,101,LOC,1.0
+,ron desantis,38,50,PER,0.9353
+,florida,110,117,LOC,0.9999
+,us,13,17,LOC,0.9918
+,barry mccaffrey,40,55,PER,0.9999
+,florida,65,72,LOC,0.9983
+,ron desantis,78,90,PER,0.9998
+,russian,98,105,MISC,0.9999
+,vladimir putin,116,130,PER,0.9997
+,mexicans,47,55,MISC,0.9995
+,drug war,75,83,MISC,0.9858
+,china,10,15,LOC,1.0
+,newyork,7,14,LOC,0.7609
+,kathleen pike,48,61,PER,0.9894
+,columbia university,63,82,ORG,0.9854
+,covid,71,76,MISC,0.9552
+,australian,116,126,MISC,0.7328
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,covid-19,52,60,MISC,0.9634
+,fda,28,31,ORG,0.9999
+,pfizerâ€™,52,61,MISC,0.8349
+,charlie baker,23,36,PER,0.9997
+,covid-19,78,86,MISC,0.9855
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,pfizer,50,56,ORG,0.9947
+,ellen degeneres,21,36,PER,0.9989
+,giuliani,96,104,PER,1.0
+,regeneron,120,129,MISC,0.9056
+,boeingâ€™,64,73,MISC,0.5676
+,mission-ethiopian airlines cargo and logistics services,12,67,ORG,0.9163
+,ga,125,127,LOC,0.9657
+,biden,21,26,PER,1.0
+,us,42,44,LOC,0.9998
+,wearamask,94,103,ORG,0.5457
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,fda,28,31,ORG,0.9999
+,pfizerâ€™,52,61,MISC,0.8349
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,covid-19,30,38,MISC,0.9723
+,bbcqt,66,71,ORG,0.915
+,brexit,92,98,ORG,0.7244
+,covid,108,113,MISC,0.68
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,senate,43,49,ORG,1.0
+,mitch,121,126,PER,0.9999
+,ctv,0,3,ORG,0.9981
+,collingwood,40,51,ORG,0.708
+,congress,35,43,ORG,0.9998
+,american,108,116,MISC,0.9993
+,wendys dad,17,27,PER,0.5351
+,chillicothe,97,108,PER,0.8324
+,biden transition,29,45,ORG,0.8807
+,fda,90,93,ORG,1.0
+,kristof,55,62,PER,0.9996
+,exodus cry,116,126,ORG,0.8799
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,pennsylvania,52,64,LOC,1.0
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,newyork,48,55,LOC,0.9998
+,giuliani,6,14,PER,1.0
+,michigan house,22,36,LOC,0.7271
+,bob powers,33,43,PER,0.7699
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,msm,96,99,ORG,0.6133
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,us,40,42,LOC,1.0
+,south dakotans,25,39,MISC,0.9798
+,covid,67,72,MISC,0.4998
+,stunning,74,82,PER,0.7537
+,tennessee,0,9,LOC,0.9999
+,us,1,3,LOC,0.9212
+,pfizerâ€™,40,49,MISC,0.6952
+,us,23,25,LOC,0.6
+,fda vaccines and related biological products advisory committee,26,89,ORG,0.9141
+,vbpac,91,96,ORG,0.6758
+,ghanaâ,10,16,ORG,0.3844
+,lewis hamilton,18,32,PER,0.9997
+,abu dhabi,46,55,LOC,0.9999
+,gop,21,24,ORG,0.5465
+,icu,135,138,ORG,0.9693
+,billy devine,29,41,PER,0.9998
+,australia,15,24,LOC,1.0
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,fox news,62,70,ORG,0.9663
+,covid,292,297,PER,0.7863
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,florida,13,20,LOC,0.9895
+,senate,91,97,ORG,0.9964
+,republicans,98,109,MISC,0.9995
+,taylorâ,25,32,ORG,0.353
+,republicans,17,28,MISC,1.0
+,gop,126,129,MISC,0.9824
+,covid,142,147,MISC,0.9714
+,co,253,255,LOC,0.9953
+,covid,45,50,ORG,0.6897
+,newsom,39,45,PER,0.9987
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,americans,48,57,MISC,0.9999
+,fda,50,53,ORG,1.0
+,pfizer covid-19 vaccine,57,80,MISC,0.7625
+,biden,0,5,PER,1.0
+,covid-19,40,48,MISC,0.9532
+,covid,11,16,MISC,0.8734
+,npd group,106,115,ORG,0.876
+,us,134,136,LOC,0.9988
+,"""yall""",0,5,PER,0.979
+,god,27,30,PER,1.0
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,american,107,115,MISC,0.9923
+,australia,15,24,LOC,1.0
+,malcolm gladwell,34,50,PER,0.9996
+,emory,61,66,LOC,0.6053
+,gop,21,24,MISC,0.7977
+,is not rocket science,94,115,MISC,0.8889
+,god,109,112,PER,0.9999
+,george w bushâ,49,64,ORG,0.8406
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,lewis hamilton,18,32,PER,0.9997
+,abu dhabi,46,55,LOC,0.9999
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,fox news,62,70,ORG,0.9663
+,us,4,8,LOC,0.9999
+,pfizer,58,64,ORG,0.9923
+,pearl,85,90,PER,0.9987
+,ca,62,64,LOC,0.6599
+,nyc,135,138,LOC,0.5078
+,abc7 news,0,9,ORG,0.8924
+,california,11,21,LOC,0.9988
+,gavin newsom,31,43,PER,0.9983
+,covid 19,112,120,MISC,0.6125
+,trump &amp,64,74,ORG,0.7357
+,us,19,21,LOC,0.9999
+,south korean,13,25,MISC,0.9992
+,jeonju,68,74,LOC,0.9998
+,us,13,17,LOC,0.9918
+,gavin newsom,24,36,PER,0.9971
+,black,66,71,MISC,0.4258
+,america,82,89,LOC,1.0
+,michael collins,52,67,PER,0.9416
+,covid19,114,121,MISC,0.8063
+,covid,18,23,ORG,0.646
+,senate,66,72,ORG,0.9997
+,mitch mcconnell,118,133,PER,0.9999
+,sweden,20,26,LOC,1.0
+,covid,219,224,MISC,0.7644
+,covid-19,28,36,MISC,0.6912
+,katie porter,14,26,PER,0.9992
+,mcconnell,40,49,PER,1.0
+,american,84,92,MISC,0.9977
+,gop,125,128,MISC,0.9983
+,michigan,12,20,LOC,0.9996
+,pfizer,51,57,MISC,0.5324
+,fda,84,87,ORG,0.9977
+,detroit free press,99,117,ORG,0.9703
+,pfizer,122,128,ORG,0.9983
+,new west farmerâ€™s market,4,30,ORG,0.6866
+,holiday market,59,73,MISC,0.7452
+,new west craft,84,98,LOC,0.9543
+,tippery park,102,114,LOC,0.9863
+,michigan,93,101,LOC,1.0
+,senate,107,113,ORG,0.9951
+,republicans,114,125,MISC,0.9995
+,cnbc,103,107,ORG,0.9929
+,trumpian looney tunes,20,41,ORG,0.6836
+,person of the year,9,27,MISC,0.8007
+,biden,54,59,PER,0.9986
+,george floyd,117,129,PER,0.9969
+,trump,142,147,MISC,0.9863
+,covid-19,181,189,MISC,0.9899
+,george floyd justice in policing act,214,250,MISC,0.8834
+,trump,264,269,PER,0.9995
+,black woman,69,80,MISC,0.7158
+,fox news,62,70,ORG,0.9663
+,ap news,1,8,ORG,0.7205
+,congress,10,18,ORG,0.7681
+,mcconnell,28,37,PER,0.9989
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,covid-1â,132,140,MISC,0.9649
+,barcelona zoo,40,53,ORG,0.6325
+,covid-19,79,87,MISC,0.9967
+,nycâ€™,158,164,ORG,0.3628
+,bronx zoo,166,175,ORG,0.78
+,trump,21,26,ORG,0.4619
+,pfizer,85,91,ORG,0.9994
+,us,100,104,LOC,0.9999
+,la,172,174,LOC,0.9529
+,central valley,208,222,LOC,0.9932
+,us,34,36,LOC,0.9989
+,cambridge university,98,118,ORG,0.9897
+,us,13,17,LOC,0.9918
+,fox news,62,70,ORG,0.9663
+,gop house,20,29,ORG,0.7881
+,dick hinch,43,53,PER,0.9895
+,gop,91,94,MISC,0.9917
+,new hampshire,110,123,LOC,0.9988
+,covid-19,50,58,MISC,0.7446
+,trump,18,23,ORG,0.6404
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,australian,116,126,MISC,0.7328
+,us,23,25,LOC,0.5926
+,fda vaccines and related biological products advisory committee,26,89,ORG,0.9163
+,vbpac,91,96,ORG,0.6979
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,er,104,106,ORG,0.6162
+,kim,82,85,PER,1.0
+,covid,96,101,PER,0.5373
+,billy eichner,8,21,PER,0.9986
+,covid-19,38,46,MISC,0.9823
+,washington,15,25,LOC,0.9634
+,us,35,37,LOC,0.9826
+,pfizer covid-19,53,68,MISC,0.7837
+,covid,83,88,ORG,0.9332
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,gilbert public school,39,60,ORG,0.8515
+,covid-19,159,167,MISC,0.7993
+,georebekah,51,61,PER,0.9716
+,florida,94,101,LOC,0.9995
+,ron desantis,111,123,PER,0.9991
+,eu,25,27,ORG,1.0
+,gop,160,163,MISC,0.9971
+,fox news,34,42,ORG,0.9852
+,fox news,111,119,ORG,0.9911
+,hunteâ,134,140,PER,0.7722
+,covid-1â,132,140,MISC,0.9649
+,eu,0,2,ORG,1.0
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,biden,0,5,PER,0.9923
+,covid,61,66,MISC,0.8098
+,house,19,24,ORG,0.8228
+,americans,84,93,MISC,0.9995
+,larry fitzgerald,18,34,PER,0.9995
+,covid-19,80,88,MISC,0.9011
+,fda,92,95,ORG,1.0
+,ilhan,1,6,PER,0.9817
+,republicans,11,22,MISC,0.9995
+,republicans,110,121,MISC,0.9999
+,americans,171,180,MISC,0.7343
+,chuck grassley,54,68,PER,0.9987
+,cdc,224,227,ORG,0.9923
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,windsor-essex,56,69,LOC,0.9998
+,fox news,62,70,ORG,0.9663
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,vinny,27,32,PER,0.9997
+,darrick granison,10,26,PER,0.9711
+,new creations ministries church of god,30,68,ORG,0.7425
+,christ,73,79,PER,0.7377
+,minneapolis &amp,83,99,LOC,0.705
+,brenda,112,118,PER,0.9997
+,laprincess brewer,237,254,PER,0.7646
+,ahmed al-jaishi,175,190,PER,0.9994
+,ontarioâ,236,244,LOC,0.9901
+,california,19,29,LOC,0.9998
+,pennsylvania covid-19,51,72,MISC,0.7848
+,usa,15,18,LOC,0.992
+,anne frank,52,62,PER,0.7882
+,emmett till,109,120,PER,0.9424
+,mcconnell,18,27,PER,1.0
+,dorchester,34,44,ORG,0.8951
+,joe pye,62,69,PER,0.999
+,state &amp,16,26,ORG,0.7009
+,american,56,64,MISC,0.9682
+,siskind,8,15,PER,0.9624
+,limbaugh,47,55,PER,1.0
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,england,18,25,LOC,1.0
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,mayoclinic,51,61,ORG,0.9343
+,dr brewer,95,105,PER,0.9255
+,black,124,129,MISC,0.5272
+,minnesota,142,151,LOC,1.0
+,covid,186,191,MISC,0.8179
+,nuremberg-style,97,112,MISC,0.9953
+,gop,165,168,MISC,0.989
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,gop house,37,46,ORG,0.7844
+,trump,18,23,ORG,0.6404
+,pfizer,17,23,ORG,0.8549
+,bell,51,55,PER,0.9872
+,bell,68,72,PER,0.9998
+,white house,292,303,LOC,0.9955
+,us,60,64,LOC,0.9996
+,covid-19,106,114,MISC,0.6432
+,us,84,86,LOC,0.9981
+,larry davidesque,45,61,PER,0.9774
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,us,0,2,LOC,0.9503
+,pfizerâ€™,39,48,MISC,0.7259
+,nyc,86,89,ORG,0.9813
+,covid-19,74,82,MISC,0.7449
+,congress,68,76,ORG,0.9998
+,gabbard-gosar,98,111,LOC,0.346
+,big tech,126,134,ORG,0.4885
+,us,13,17,LOC,0.9918
+,republican,7,17,MISC,0.6543
+,cdc,25,28,ORG,1.0
+,trumpâ€™,106,114,ORG,0.4777
+,covid,41,46,PER,0.7103
+,god,118,121,PER,0.9999
+,devil,154,159,PER,0.9972
+,dick,207,211,MISC,0.8211
+,smfm,12,16,ORG,0.9906
+,judettelouis,35,47,PER,0.9025
+,republicans,33,44,MISC,1.0
+,americans,94,103,MISC,0.9998
+,duke,58,62,PER,0.8251
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,ugur sahin,64,74,PER,0.8925
+,pfizer covid,116,128,MISC,0.8711
+,"""covids""",0,7,ORG,0.7646
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,un,34,37,ORG,0.9897
+,world food program,39,57,ORG,0.8801
+,nobel peace prize,70,87,MISC,0.9986
+,rome,120,124,LOC,1.0
+,republic of kanata,21,39,LOC,0.8003
+,covid-19,93,101,MISC,0.8793
+,vancouver,114,123,LOC,0.9986
+,ugur sahin,64,74,PER,0.8925
+,pfizer covid,116,128,MISC,0.8711
+,mason county,42,54,LOC,0.9106
+,mason county public health,117,143,ORG,0.9758
+,lewis hamilton,18,32,PER,0.9997
+,abu dhabi,46,55,LOC,0.9999
+,fauci,117,122,PER,0.9999
+,aids,18,22,MISC,0.9362
+,china,291,296,LOC,1.0
+,chen mei,11,19,PER,0.9989
+,humanrightsdefender,25,44,MISC,0.901
+,covid-19-virus,82,96,MISC,0.7895
+,china,100,105,LOC,1.0
+,sxsw,17,21,ORG,0.499
+,russell westbrook,19,36,PER,0.9998
+,hou,42,45,ORG,0.9906
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,lancaster,10,19,LOC,0.8886
+,little bitch boy,18,34,MISC,0.6928
+,covid,188,193,PER,0.9865
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,walmart,14,21,ORG,0.9976
+,covid-19,86,94,MISC,0.574
+,northwest arkansas,112,130,LOC,0.7769
+,native american,112,127,MISC,0.7653
+,indian,205,211,MISC,0.9975
+,mexican,327,334,MISC,0.9997
+,covid kungflu,344,357,PER,0.8754
+,australian,18,28,MISC,0.9976
+,queensland,38,48,LOC,0.997
+,new zealand,71,82,LOC,1.0
+,new zealand,101,112,LOC,0.9999
+,queensland,117,127,LOC,0.9999
+,covid-19,79,87,MISC,0.7362
+,americans,98,107,MISC,0.9997
+,covid,113,118,MISC,0.8785
+,americans,156,165,MISC,0.9996
+,letcongressvote,183,198,ORG,0.5914
+,senate,245,251,ORG,1.0
+,harris trump,10,22,PER,0.756
+,americaâ,34,42,MISC,0.4968
+,covid-19,92,100,MISC,0.9988
+,joe bideâ,223,232,PER,0.9932
+,kamala harrisâ,255,269,PER,0.9986
+,america,294,301,LOC,0.9999
+,barbâ,40,45,PER,0.397
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,seattle,48,55,LOC,0.9992
+,boeingâ€™,64,73,MISC,0.5676
+,matthancock,90,101,PER,0.9998
+,dems,213,217,MISC,0.9978
+,luis miguel,113,124,PER,0.9975
+,soundhound,131,141,LOC,0.9811
+,uk,0,2,LOC,0.9999
+,australian,18,28,MISC,0.9976
+,queensland,38,48,LOC,0.997
+,new zealand,71,82,LOC,1.0
+,new zealand,101,112,LOC,0.9999
+,queensland,117,127,LOC,0.9999
+,leslie jones,19,31,PER,0.999
+,msnbc,111,116,ORG,0.9983
+,republicanâ,129,140,MISC,0.9982
+,us,37,39,LOC,0.9999
+,covid,129,134,MISC,0.6073
+,trump,246,251,PER,0.6248
+,oracle films asktheexperts,34,60,ORG,0.8085
+,hunter biden,13,25,PER,0.9257
+,fox news,61,69,ORG,0.9158
+,americaâ,132,140,MISC,0.9294
+,house,41,46,ORG,0.6478
+,dick hinch,55,65,PER,0.9978
+,covid-19,76,84,MISC,0.7585
+,hinch,110,115,PER,0.9981
+,cdc,16,19,ORG,0.7095
+,redfield,29,37,PER,0.4498
+,united states,82,95,LOC,0.9999
+,covid-19,107,115,ORG,0.3752
+,camilleri,19,28,PER,1.0
+,trump,18,23,ORG,0.6404
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,uk,32,34,LOC,0.9999
+,covid,69,74,MISC,0.6799
+,torieâ,144,150,MISC,0.457
+,american,14,22,MISC,0.9985
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,brad pitt thriller,53,71,MISC,0.7142
+,covid,26,31,PER,0.9965
+,ocsdpio orange county jail,0,26,ORG,0.652
+,texas,104,109,LOC,0.9288
+,tamu nih,125,133,ORG,0.9299
+,australian,13,23,MISC,0.9844
+,nigeria,95,102,LOC,1.0
+,buhari,146,152,PER,0.9987
+,saudi,171,176,MISC,0.9987
+,maina,194,199,PER,0.4769
+,nigerian,273,281,MISC,0.9993
+,fauci,17,22,PER,0.9999
+,america,52,59,LOC,1.0
+,deaf,48,52,MISC,0.8458
+,deaf,101,105,MISC,0.8389
+,covid-19,144,152,MISC,0.9846
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,dez bryant,29,39,PER,0.9771
+,georgians,39,48,MISC,0.9999
+,covid-19,63,71,MISC,0.7063
+,republican,53,63,MISC,0.9998
+,house,64,69,ORG,0.9831
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,sxsw,17,21,ORG,0.499
+,fb,60,62,ORG,0.6487
+,covid,102,107,ORG,0.3464
+,gad,94,97,MISC,0.6896
+,australian,116,126,MISC,0.7328
+,trump,18,23,ORG,0.6404
+,italy,45,50,LOC,1.0
+,oxford,17,23,LOC,0.4086
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,larry,27,32,PER,0.9446
+,covid,220,225,PER,0.9996
+,trump,18,23,ORG,0.6404
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,ugur sahin,64,74,PER,0.8925
+,pfizer covid,116,128,MISC,0.8711
+,"""national childrens""",82,101,ORG,0.8048
+,anne hollands,115,128,PER,0.9984
+,australia,139,148,LOC,0.9966
+,rights of the child,157,176,MISC,0.5566
+,pennsylvanians,117,131,MISC,0.7238
+,us,14,16,LOC,0.5197
+,walmart,13,20,ORG,0.5544
+,us,15,17,LOC,0.7637
+,fda,40,43,ORG,1.0
+,hamilton,19,27,PER,0.8906
+,the musical,72,83,MISC,0.8712
+,oklahoma,91,99,LOC,0.9405
+,pittsburgh,120,130,LOC,0.9988
+,dancrenshawtx white house,1,26,ORG,0.8303
+,republicans,90,101,MISC,1.0
+,republicans,161,172,MISC,0.9998
+,rats or the fleas,177,194,MISC,0.7568
+,willard,208,215,PER,0.9995
+,republicans,236,247,MISC,0.621
+,biden,17,22,PER,1.0
+,covid-19,57,65,MISC,0.9206
+,florida,27,34,LOC,0.9943
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,cdc,21,24,ORG,1.0
+,trumpâ€™,102,110,ORG,0.5181
+,fox news,62,70,ORG,0.9663
+,biden transition,29,45,ORG,0.8807
+,fda,90,93,ORG,1.0
+,fda,17,20,ORG,1.0
+,pfizer,63,69,ORG,0.3873
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,democracy,104,113,ORG,0.4812
+,idaho,153,158,LOC,0.9969
+,cowardlittle,180,192,MISC,0.3757
+,covid-19,66,74,MISC,0.9992
+,congress,35,43,ORG,0.9998
+,american,108,116,MISC,0.9993
+,cameron,47,54,PER,0.964
+,don martin,0,10,PER,0.9973
+,us,65,67,LOC,0.996
+,hillsborough county,53,72,ORG,0.6312
+,matthancock,38,49,ORG,0.7199
+,trump,21,26,ORG,0.4619
+,pfizer,85,91,ORG,0.9994
+,us,100,104,LOC,0.9999
+,covid,3,8,ORG,0.9683
+,tom,109,112,PER,0.7044
+,meredith,117,125,PER,0.9974
+,rona,142,146,PER,0.9323
+,sky news,18,26,ORG,0.8355
+,danrather giuliani,1,19,PER,0.9967
+,giuliani,222,230,PER,1.0
+,republican,269,279,MISC,0.956
+,peterborough hospitals,90,112,LOC,0.9074
+,covid,126,131,PER,0.3897
+,mike graham,181,192,PER,0.9989
+,virginia,13,21,LOC,1.0
+,rian johnson,33,45,PER,0.8138
+,star wars,46,55,MISC,0.8816
+,las palomas center,0,18,ORG,0.8035
+,genesis healthcare,21,39,ORG,0.9937
+,albuquerque,185,196,LOC,0.9984
+,nm,198,200,LOC,0.9462
+,vince williams,32,46,PER,0.9919
+,reserve/covid-19 list,54,75,MISC,0.7214
+,rep,23,26,MISC,0.9924
+,covid-19,109,117,MISC,0.9772
+,sa,52,54,ORG,0.7034
+,covid-19,91,99,MISC,0.8805
+,portugal,65,73,LOC,0.6423
+,rep,84,87,MISC,0.9934
+,dick hinch,89,99,PER,0.9992
+,republican,103,113,MISC,1.0
+,russian,63,70,MISC,0.9998
+,mueller,100,107,PER,1.0
+,trump trump,125,136,PER,0.8545
+,trump,210,215,PER,0.9999
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,us,15,19,LOC,0.9996
+,covid-19,45,53,MISC,0.7721
+,rudygiuliani,117,129,PER,0.9834
+,nhl,40,43,ORG,1.0
+,covid,82,87,MISC,0.9456
+,covid,38,43,PER,0.9783
+,bau,145,148,ORG,0.988
+,georgians,39,48,MISC,0.9999
+,covid-19,63,71,MISC,0.7063
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,gop,23,26,MISC,0.9797
+,sruhle,18,24,PER,0.8703
+,covid-19,126,134,MISC,0.6105
+,helen keller  kudos,73,92,PER,0.9884
+,angela marsden,96,110,PER,0.9993
+,pineapple hill saloon,125,146,ORG,0.7944
+,ca,181,183,ORG,0.9614
+,trump,28,33,PER,1.0
+,trumps,102,108,PER,0.4007
+,trump,173,178,PER,0.9336
+,look trump,229,239,PER,0.7426
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,covid,23,28,PER,0.751
+,biden transition,29,45,ORG,0.8807
+,fda,90,93,ORG,1.0
+,sky news,18,26,ORG,0.9912
+,chrystia freeland,30,47,PER,0.9998
+,canadian,76,84,MISC,0.9987
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,trump,18,23,ORG,0.6404
+,scotty &amp,67,78,ORG,0.8151
+,greggy,80,86,ORG,0.7598
+,labor states,127,139,ORG,0.5038
+,god,109,112,PER,0.9999
+,biden,165,170,PER,0.996
+,covid,61,66,MISC,0.4558
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,abraarkaran,28,39,PER,0.9978
+,"""icus""",77,82,ORG,0.558
+,bhw,86,89,ORG,0.9109
+,sardjono,25,33,PER,0.9449
+,east javanese,56,69,MISC,0.9762
+,pamekasan,82,91,LOC,0.9999
+,african american,117,133,MISC,0.8602
+,fda,33,36,ORG,1.0
+,covid-19,76,84,MISC,0.9709
+,us,100,104,LOC,0.9999
+,fda advisory panel,0,18,ORG,0.676
+,pfizer,28,34,ORG,0.5038
+,americans,47,56,MISC,0.6617
+,trump,75,80,ORG,0.4886
+,trump,146,151,PER,0.7855
+,covid,194,199,PER,0.9517
+,ky,0,2,LOC,0.8237
+,covid-19,4,12,MISC,0.9937
+,biden,221,226,PER,1.0
+,ministryâ€™,76,87,MISC,0.7872
+,us,34,37,LOC,0.9998
+,covid,76,81,MISC,0.7167
+,covid divide,4,16,MISC,0.7995
+,virginia,0,8,LOC,0.9237
+,covid,80,85,MISC,0.6725
+,anthony fauci,35,48,PER,0.9997
+,us,47,49,LOC,0.9999
+,pfizer,17,23,ORG,0.8549
+,bell,51,55,PER,0.9872
+,bell,68,72,PER,0.9998
+,russell maroon,70,84,PER,0.6946
+,maroon,93,99,PER,0.93
+,bronx,99,104,LOC,0.999
+,us civil war,116,130,MISC,0.9158
+,alberta,50,57,LOC,1.0
+,va,0,2,LOC,0.8858
+,ralph northam,9,22,PER,0.9969
+,govmurphy,67,76,PER,0.724
+,new york city,130,143,LOC,0.973
+,trumpvirus,39,49,LOC,0.3312
+,trump,67,72,PER,0.9997
+,windsor,18,25,LOC,0.9334
+,covid-19,42,50,MISC,0.9743
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,deputy marshals,83,98,ORG,0.8532
+,operationâ€¦,129,141,MISC,0.5047
+,house,20,25,ORG,0.8764
+,republicans,26,37,MISC,0.9592
+,americans,86,95,MISC,0.9999
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,pfizer,17,23,ORG,0.8549
+,bell,51,55,PER,0.9872
+,bell,68,72,PER,0.9998
+,cps,104,107,ORG,0.9966
+,rudyâ,139,144,MISC,0.6659
+,kellie,21,27,PER,0.7578
+,trumpâ€™,15,23,ORG,0.8081
+,covid-19,45,53,MISC,0.6839
+,texas,125,130,LOC,0.999
+,julia-hartley brewer,54,74,PER,0.8739
+,civil war,43,52,MISC,0.9967
+,colorado,79,87,LOC,0.9999
+,lilly dealing,1,14,ORG,0.7909
+,cuomo,45,50,PER,1.0
+,ny,74,76,LOC,0.9552
+,us,19,21,LOC,0.9999
+,california,16,26,LOC,0.9999
+,latino,42,48,MISC,0.9949
+,cough-y,113,120,PER,0.6772
+,american,20,28,MISC,0.9955
+,polish,43,49,MISC,1.0
+,kitchener-waterloo siskinsâ,112,139,ORG,0.7379
+,shah rukh khan,13,27,PER,0.8673
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,fyi,0,3,ORG,0.6254
+,wolf,44,48,PER,0.6535
+,covid,27,32,PER,0.4377
+,hayden christensen,39,57,PER,0.9691
+,star wars,74,83,MISC,0.9354
+,ahsoka,112,118,MISC,0.6632
+,cambridge university,98,118,ORG,0.9897
+,covid,36,41,LOC,0.3691
+,italy,45,50,LOC,1.0
+,australian,18,28,MISC,0.9976
+,queensland,38,48,LOC,0.997
+,new zealand,71,82,LOC,1.0
+,new zealand,101,112,LOC,0.9999
+,queensland,117,127,LOC,0.9999
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,covid kills,59,70,PER,0.7502
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,hampshire hospitals nhs foundation trust,15,55,ORG,0.982
+,covid-19,79,87,MISC,0.7596
+,republican,57,67,MISC,0.5877
+,covid,99,104,MISC,0.5012
+,trump,18,23,ORG,0.6404
+,clark county business licensing,44,75,ORG,0.9911
+,eu,0,2,ORG,0.7223
+,poland,16,22,LOC,1.0
+,hungrys,27,34,LOC,0.985
+,us,13,17,LOC,0.9918
+,donald trump,13,25,PER,0.9998
+,rudy giuliani,30,43,PER,0.9992
+,kelly loeffler,121,135,PER,0.9997
+,us,15,17,LOC,0.7637
+,fda,40,43,ORG,1.0
+,halsey,54,60,PER,0.9731
+,lauv,62,66,PER,0.9998
+,steve aoki,71,81,PER,0.9987
+,global connect stage,91,111,MISC,0.9158
+,south korean,17,29,MISC,0.9996
+,jeonju,89,95,LOC,0.9995
+,covid-19,116,124,MISC,0.9846
+,us,18,20,LOC,0.9541
+,pfizer covid-19,54,69,MISC,0.9294
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,covid,76,81,MISC,0.7167
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,trudeauâ€™,66,76,MISC,0.6339
+,canadians,104,113,MISC,0.9997
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,fox news,62,70,ORG,0.9663
+,havenâ,26,32,PER,0.8509
+,trump,58,63,PER,0.9559
+,usa,133,136,LOC,0.9989
+,covid-19,154,162,MISC,0.6826
+,trump,279,284,PER,0.9944
+,wheeler,8,15,PER,0.8036
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,cews,109,113,ORG,0.9974
+,somewhere,117,126,LOC,0.8533
+,us,128,130,LOC,0.9999
+,gop,30,33,MISC,0.9284
+,senator and representativeâ,34,61,ORG,0.7469
+,covid-19 stimulus bill,96,118,MISC,0.9037
+,ubc,37,40,ORG,0.9988
+,house,19,24,ORG,0.8228
+,americans,84,93,MISC,0.9995
+,realdonaldtrump,43,58,ORG,0.4837
+,hanukkah,75,83,MISC,0.7231
+,wh,97,99,LOC,0.8798
+,utah,30,34,LOC,0.7255
+,action plan for women in the economy,92,128,ORG,0.6628
+,republican,45,55,MISC,0.9999
+,democracy,83,92,ORG,0.3738
+,us,47,51,LOC,0.9957
+,gran,173,177,PER,0.9408
+,republican party,21,37,ORG,0.9612
+,donald trump,91,103,PER,0.9962
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,nhs,29,32,ORG,0.9577
+,nhsâ,136,140,ORG,0.7191
+,michaelyeadon3,56,70,ORG,0.3769
+,blessingjr covid,1,17,PER,0.9919
+,mario,29,34,PER,1.0
+,fox news,62,70,ORG,0.9663
+,nigerian,31,39,MISC,0.9994
+,covid-19,104,112,MISC,0.9793
+,mitch mcconnell,79,94,PER,0.9979
+,mayo clinic,68,79,LOC,0.9103
+,covid,107,112,MISC,0.908
+,dc,19,21,ORG,0.8401
+,italy,45,50,LOC,1.0
+,lancetane hell,1,15,ORG,0.7398
+,republican party,24,40,ORG,0.8932
+,alexander,13,22,PER,0.9998
+,cdc,32,35,ORG,1.0
+,cdc,128,131,ORG,0.9999
+,pfizer,17,23,ORG,0.8549
+,bell,51,55,PER,0.9872
+,bell,68,72,PER,0.9998
+,biden transition,29,45,ORG,0.8807
+,fda,90,93,ORG,1.0
+,dhec,91,95,ORG,0.9976
+,florida,39,46,LOC,0.9999
+,petsmart,79,87,LOC,0.5902
+,brook,91,96,LOC,0.8938
+,glen allen,105,115,LOC,0.9822
+,us,11,15,LOC,0.9989
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,britain,114,121,LOC,0.9824
+,pfizer,34,40,ORG,0.5519
+,dave,28,32,PER,0.9939
+,msm,48,51,ORG,0.3947
+,nigerian,31,39,MISC,0.9994
+,covid-19,104,112,MISC,0.9793
+,fox news,62,70,ORG,0.9663
+,senatorcollins,1,15,ORG,0.9865
+,mike lee,38,46,PER,0.8668
+,smithsonian,92,103,ORG,0.8404
+,latinos,116,123,MISC,0.9985
+,senator moscowmitch,133,152,ORG,0.7226
+,mcconnell,204,213,PER,0.9999
+,americans,247,256,MISC,0.9996
+,anthony fauci,13,26,PER,0.9995
+,covid-19,99,107,MISC,0.8502
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,toronto,18,25,LOC,0.9997
+,edmonton,61,69,LOC,0.9982
+,toronto,104,111,LOC,0.9868
+,edmoâ,135,140,MISC,0.6988
+,ncdc,90,94,ORG,1.0
+,australian,116,126,MISC,0.7328
+,canada,44,50,LOC,1.0
+,pfizer,79,85,ORG,0.8913
+,uk,111,113,LOC,1.0
+,bahrain,118,125,LOC,1.0
+,ugur sahin,64,74,PER,0.8925
+,pfizer covid,116,128,MISC,0.8711
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,us,15,17,LOC,0.7637
+,fda,40,43,ORG,1.0
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,morrisons,10,19,ORG,0.8069
+,huskies,99,106,ORG,0.9994
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,covid-1â,132,140,MISC,0.9649
+,covid-19,45,53,MISC,0.8334
+,covid,224,229,MISC,0.9113
+,covidðÿ,14,21,PER,0.8991
+,kehlani,99,106,PER,0.9899
+,fox news,62,70,ORG,0.9663
+,msnbc,10,15,ORG,0.3757
+,europe,115,121,LOC,1.0
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,leonard peltier,24,39,PER,0.9932
+,native american,43,58,MISC,0.7703
+,jimmy kimmel,19,31,PER,0.9996
+,rudy giuliani,44,57,PER,0.973
+,herman cain,108,119,PER,0.9864
+,us,34,36,LOC,0.89
+,fda,37,40,ORG,0.9959
+,pfizerâ€™,112,121,MISC,0.5876
+,biden,17,22,PER,1.0
+,covid-19,57,65,MISC,0.9206
+,america,192,199,LOC,0.9989
+,dumb down,203,212,LOC,0.6739
+,republican party,21,37,ORG,0.9612
+,donald trump,91,103,PER,0.9962
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,trump,36,41,PER,0.802
+,ukâ,98,101,MISC,0.6344
+,south,120,125,LOC,0.4554
+,tyra banksâ€™,24,37,MISC,0.8163
+,porter,1,7,PER,0.7188
+,anderson,8,16,PER,0.9865
+,alberta,9,16,LOC,0.8424
+,trump,18,23,PER,0.996
+,new york,26,34,LOC,0.9973
+,central park west,87,104,LOC,0.9696
+,caloriemate,55,66,MISC,0.9133
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,uk,109,111,LOC,0.9998
+,gop house,20,29,ORG,0.7881
+,dick hinch,43,53,PER,0.9895
+,gop,91,94,MISC,0.9917
+,new hampshire,110,123,LOC,0.9988
+,trump,18,23,PER,0.996
+,new york,26,34,LOC,0.9973
+,central park west,87,104,LOC,0.9696
+,covid,31,36,PER,0.8679
+,tiktok,102,108,ORG,0.6342
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,glennondoyle untamedâ,118,139,ORG,0.6973
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,trump,18,23,ORG,0.6404
+,gop house,20,29,ORG,0.7881
+,dick hinch,43,53,PER,0.9895
+,gop,91,94,MISC,0.9917
+,new hampshire,110,123,LOC,0.9988
+,burnett,19,26,LOC,0.9999
+,lafayette,28,37,LOC,0.9999
+,langlade,39,47,LOC,0.9999
+,milwaukee,49,58,LOC,0.9999
+,polk,60,64,LOC,0.9998
+,sauk,66,70,LOC,0.9995
+,shawano-menominee,72,89,LOC,0.9992
+,vernon,94,100,LOC,0.9893
+,wauwatosa,121,130,LOC,0.9999
+,cudahy,132,138,LOC,0.9996
+,columbia county and rock county,181,212,ORG,0.7306
+,cbcnews,90,97,ORG,0.6718
+,ctvnews,103,110,ORG,0.6471
+,bâ,142,144,LOC,0.9738
+,fox news,62,70,ORG,0.9663
+,covid-19,83,91,MISC,0.7671
+,brexit,222,228,ORG,0.5322
+,petsmart,79,87,LOC,0.5902
+,brook,91,96,LOC,0.8938
+,glen allen,105,115,LOC,0.9822
+,covid,43,48,PER,0.9913
+,pennsylvania,36,48,LOC,0.9813
+,dick,25,29,PER,0.9999
+,covid,61,66,PER,0.9927
+,covid-19,33,41,MISC,0.9275
+,us,1,3,LOC,0.9172
+,pfizerâ€™,40,49,MISC,0.6931
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,fedex,1,6,ORG,0.564
+,ige oks maui mayor victorinoâ,5,34,ORG,0.7983
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,govrondesantis ron,1,19,PER,0.7005
+,grim reaperâ,23,35,PER,0.8558
+,desantis,37,45,PER,0.6612
+,covidâ,47,53,ORG,0.5504
+,florida,57,64,LOC,0.8976
+,floridians,185,195,MISC,0.9997
+,republic of kanata,18,36,ORG,0.7829
+,covid-19,90,98,MISC,0.9337
+,vancouver republicofkanataâ,111,138,LOC,0.8393
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,texas,23,28,LOC,0.9596
+,kansas,33,39,LOC,0.9633
+,lonâ€¦,136,142,MISC,0.6147
+,llbean rei survival,137,156,MISC,0.7533
+,covid-19,53,61,MISC,0.9274
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,mcconnell,104,113,PER,1.0
+,ppe,209,212,MISC,0.8792
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,doh,0,3,ORG,0.9357
+,giuliani,25,33,PER,0.9999
+,michigan house,41,55,LOC,0.7822
+,erie,76,80,LOC,0.9344
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,dame barbara windsor,15,35,PER,0.9498
+,carry on,101,109,MISC,0.7743
+,eastenders,120,130,PER,0.92
+,alzheimer,153,162,PER,0.9192
+,australia,53,62,LOC,1.0
+,hertfordshire,31,44,LOC,0.3463
+,pelosi,0,6,PER,1.0
+,mcconnell,8,17,PER,1.0
+,american,61,69,MISC,0.9917
+,ppp,167,170,ORG,0.9703
+,americans,187,196,MISC,0.9999
+,democrats,31,40,MISC,0.9999
+,americans,47,56,MISC,0.9996
+,democrats,115,124,MISC,1.0
+,petsmart,79,87,LOC,0.5902
+,brook,91,96,LOC,0.8938
+,glen allen,105,115,LOC,0.9822
+,joe biden,154,163,PER,0.9935
+,joe,218,221,PER,1.0
+,trump,256,261,PER,0.9999
+,goober,54,60,PER,0.8077
+,audrey beckley,18,32,PER,0.9698
+,indiana,40,47,LOC,0.9996
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,washington,19,29,LOC,0.9988
+,bank of england,23,38,ORG,0.9983
+,venezuela,47,56,LOC,1.0
+,british,84,91,MISC,0.998
+,trump,104,109,PER,0.773
+,covid-19,25,33,MISC,0.8458
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,mitch mcconnell,58,73,PER,0.8478
+,newsom,39,45,PER,0.9987
+,illinoisstateu,229,243,ORG,0.4539
+,fox news,62,70,ORG,0.9663
+,fda,4,7,ORG,1.0
+,pfizer,13,19,ORG,0.9659
+,covid,69,74,PER,0.5872
+,cuba,124,128,LOC,0.9998
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,texas,82,87,LOC,0.9957
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,brien mcmahon,128,141,PER,0.7839
+,soundhound,162,172,LOC,0.6864
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,erie,76,80,LOC,0.9344
+,msm,252,255,ORG,0.7321
+,biden,28,33,PER,0.9993
+,harris,35,41,PER,1.0
+,cambridge university,98,118,ORG,0.9897
+,indiana,3,10,LOC,0.9995
+,eric holcomb,31,43,PER,0.9998
+,covid,91,96,ORG,0.5604
+,steelers,24,32,ORG,0.9999
+,vince williams,45,59,PER,0.9992
+,covid-19 list,67,80,MISC,0.8046
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,pakistan,34,42,LOC,1.0
+,trump,18,23,ORG,0.6404
+,utah,60,64,LOC,0.9999
+,thatâ,97,102,ORG,0.5692
+,us,27,31,LOC,0.9997
+,cbs evening news,72,88,ORG,0.951
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,sc,7,9,ORG,0.8006
+,nikki haley,15,26,PER,0.9998
+,senate,43,49,ORG,1.0
+,mitch,121,126,PER,0.9999
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,american,35,43,MISC,0.9997
+,trump,85,90,PER,0.9998
+,rudy,95,99,PER,0.9994
+,moderna,0,7,ORG,0.9995
+,covid-19,90,98,MISC,0.9743
+,broncos,40,47,ORG,0.9996
+,ed donatell,70,81,PER,0.9998
+,panthers,111,119,ORG,0.999
+,georgestoia,126,137,LOC,0.8439
+,covid,88,93,MISC,0.6233
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,covid,147,152,ORG,0.5324
+,matt hancockâ,40,53,ORG,0.5441
+,indian country,54,68,LOC,0.9778
+,fda,28,31,ORG,1.0
+,pfizer,59,65,ORG,0.9991
+,intengineering,2,16,ORG,0.6424
+,cheetah mobileâ,35,50,ORG,0.8224
+,julia hartley-brewer,28,48,PER,0.9936
+,australia,43,52,LOC,1.0
+,biden,17,22,PER,1.0
+,covid-19,57,65,MISC,0.9206
+,covid,14,19,ORG,0.3538
+,nhs,46,49,ORG,0.4647
+,fda,17,20,ORG,0.9984
+,pfizer,33,39,ORG,0.9984
+,covid-19,42,50,MISC,0.8869
+,us news,80,87,MISC,0.6945
+,morrison,0,8,PER,0.9999
+,australiaâ€™,26,38,MISC,0.7136
+,pfizer,76,82,ORG,0.7358
+,pelosi,52,58,PER,0.9982
+,democrats,102,111,MISC,0.9524
+,us,8,10,LOC,0.995
+,pfizer covid-19,44,59,MISC,0.9208
+,nh,0,2,ORG,0.9676
+,covid,122,127,MISC,0.8706
+,florida,27,34,LOC,0.9943
+,covid,28,33,MISC,0.5593
+,chiliâ€™,4,12,ORG,0.6781
+,covid,162,167,PER,0.6463
+,us,32,36,LOC,0.9972
+,pfizer covid-19,52,67,MISC,0.7794
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,windsor-essex,69,82,LOC,0.9995
+,cbc news,121,129,ORG,0.8943
+,congress,22,30,ORG,0.9991
+,chris hayes,20,31,PER,0.9997
+,america,50,57,LOC,0.9999
+,california,143,153,LOC,1.0
+,fox news,62,70,ORG,0.9663
+,annapolis royal,36,51,LOC,0.8721
+,bridgetown,53,63,LOC,0.9996
+,amitabh kant,101,113,ORG,0.7278
+,niti aayog,118,128,PER,0.87
+,us,69,71,LOC,0.9965
+,covid-19,72,80,MISC,0.759
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,senate,66,72,ORG,0.9997
+,mitch mcconnell,118,133,PER,0.9999
+,trump,18,23,ORG,0.6404
+,blake griffin,0,13,PER,0.9999
+,whitmer,25,32,PER,0.9998
+,covid-19,35,43,MISC,0.9283
+,nbc5,26,30,ORG,0.9971
+,halas hall,71,81,LOC,0.9977
+,biden,17,22,PER,1.0
+,covid-19,57,65,MISC,0.9206
+,mass,9,13,LOC,0.9982
+,covid-19,34,42,MISC,0.9938
+,nhl,44,47,ORG,0.9961
+,covid-19,192,200,MISC,0.735
+,wh,15,17,ORG,0.8618
+,trumps,35,41,MISC,0.5522
+,fox news,62,70,ORG,0.9663
+,trump,18,23,ORG,0.6404
+,us,15,17,LOC,0.7637
+,fda,40,43,ORG,1.0
+,covid,66,71,ORG,0.8826
+,mitch mcconnell,31,46,PER,0.9998
+,covid,69,74,MISC,0.9345
+,mitch mcconnelâ,125,140,PER,0.9998
+,us,34,36,LOC,0.9999
+,delores cahill,34,48,PER,0.8359
+,chris evans,21,32,PER,0.9993
+,"""dont look up""",93,106,MISC,0.9258
+,boston,111,117,LOC,1.0
+,us,38,40,LOC,0.8301
+,fda,41,44,ORG,0.9999
+,ron desantis,40,52,PER,0.9823
+,florida,57,64,LOC,1.0
+,covid-19,69,77,MISC,0.743
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,florida,13,20,LOC,0.9895
+,republican party,21,37,ORG,0.9612
+,donald trump,91,103,PER,0.9962
+,fucc covid,0,10,PER,0.6625
+,republican,45,55,MISC,0.9999
+,democracy,83,92,ORG,0.3738
+,senate,43,49,ORG,1.0
+,mitch,121,126,PER,0.9999
+,repjayapal congress,22,41,ORG,0.7728
+,covid,86,91,MISC,0.7972
+,jon rappoport,35,48,PER,0.9805
+,audrey beckley,18,32,PER,0.9698
+,indiana,40,47,LOC,0.9996
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,morrison,17,25,PER,1.0
+,covid,74,79,PER,0.9984
+,congress,25,33,ORG,0.9999
+,covid-19,63,71,MISC,0.8717
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,montana,19,26,LOC,0.9985
+,covid-19,113,121,MISC,0.7845
+,wheeler,8,15,PER,0.8036
+,galveston hurricane,45,64,MISC,0.6745
+,green ðÿœž news   us,0,20,ORG,0.7231
+,pfizerâ€™,57,66,MISC,0.67
+,trump,86,91,PER,0.9996
+,hanukkah,120,128,ORG,0.4288
+,zhang yongzhen,89,103,PER,0.9935
+,shanghai public health clâ,114,140,ORG,0.9061
+,fda,80,83,ORG,1.0
+,pfizerâ€™,105,114,MISC,0.488
+,trump,18,23,ORG,0.6404
+,covid19,47,54,MISC,0.8866
+,fort worth,80,90,LOC,0.9999
+,texas,92,97,LOC,0.9999
+,covid-19,116,124,MISC,0.6257
+,cook childrâ,128,140,LOC,0.7667
+,denzel mims,26,37,PER,0.9403
+,adam gase,61,70,PER,0.996
+,heâ,72,75,PER,0.8679
+,texas,129,134,LOC,1.0
+,covid-19,53,61,MISC,0.9734
+,la county,86,95,ORG,0.731
+,uk,43,45,LOC,0.9999
+,lance,216,221,PER,0.689
+,bill nyeâ,14,23,ORG,0.7774
+,covid-19,81,89,MISC,0.7064
+,mcconnell,26,35,PER,0.9998
+,civil rights,52,64,ORG,0.619
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,gotcha,90,96,ORG,0.5656
+,pa,26,28,ORG,0.8064
+,covid,57,62,MISC,0.8164
+,senhorraposa indy,1,18,ORG,0.6282
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,us,35,39,LOC,0.9999
+,covid-19,50,58,MISC,0.7117
+,pfizerâ€™,70,79,ORG,0.6392
+,texas,168,173,LOC,0.9999
+,texas,190,195,LOC,1.0
+,facebook,197,205,ORG,0.7553
+,trump,18,23,ORG,0.6404
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,medicaid,89,97,MISC,0.8546
+,hope,32,36,PER,0.9997
+,odegard,9,16,PER,0.9877
+,larry fitzgerald,18,34,PER,0.9999
+,staten island,20,33,LOC,0.8742
+,covid,55,60,MISC,0.7284
+,fox news,110,118,ORG,0.8446
+,virginia,13,21,LOC,1.0
+,new york city,18,31,LOC,0.8339
+,mcconnell,19,28,PER,1.0
+,senate,223,229,ORG,1.0
+,icymi pfizerâ€™,0,15,ORG,0.7607
+,food and drug administration,128,156,ORG,0.9984
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,trump,18,23,ORG,0.6404
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,dmv,51,54,ORG,0.9952
+,bernie sanders,13,27,PER,0.7843
+,latin america,81,94,LOC,0.9917
+,trump,58,63,PER,0.8762
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,gop house,20,29,ORG,0.7881
+,dick hinch,43,53,PER,0.9895
+,gop,91,94,MISC,0.9917
+,new hampshire,110,123,LOC,0.9988
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,covid-19,79,87,MISC,0.9663
+,university of queensland,86,110,ORG,0.99
+,msnbc,1,6,ORG,0.7588
+,america,81,88,LOC,0.9997
+,god,106,109,PER,0.9999
+,washington,144,154,LOC,0.9996
+,travis county,21,34,ORG,0.7273
+,indigenous services canada,30,56,ORG,0.9674
+,first nations,92,105,MISC,0.9381
+,covid,113,118,MISC,0.5475
+,congress,168,176,ORG,0.7527
+,senate,178,184,ORG,0.9999
+,house,189,194,ORG,0.9608
+,america,196,203,LOC,0.9999
+,ohio,62,66,LOC,1.0
+,covid-19,96,104,MISC,0.9997
+,us,16,18,LOC,0.9604
+,pfizerâ€™,46,55,MISC,0.6501
+,fauci,21,26,PER,0.9999
+,covid,98,103,MISC,0.9875
+,kizzyphd,116,124,MISC,0.8437
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,sxsw,17,21,ORG,0.499
+,covid-19,37,45,MISC,0.6223
+,us,53,57,LOC,0.9954
+,covid,25,30,ORG,0.6584
+,alabama va,0,10,ORG,0.8562
+,fox news,62,70,ORG,0.9663
+,ottawa,12,18,LOC,0.9999
+,norton,88,94,PER,0.9974
+,covid,202,207,MISC,0.5041
+,margaret trudeau,240,256,PER,0.9995
+,walmart,0,7,ORG,0.9999
+,covid,31,36,MISC,0.5767
+,us,67,71,LOC,0.9998
+,trump,18,23,ORG,0.6404
+,dame barbara windsor,24,44,PER,0.9108
+,carry on,110,118,MISC,0.7861
+,eastenders,129,139,PER,0.9291
+,alzheimer,162,171,PER,0.9127
+,concord,27,34,LOC,0.9999
+,covid-19,67,75,MISC,0.6571
+,massachusetts,0,13,LOC,0.9997
+,covid-19,164,172,MISC,0.9016
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,covid,46,51,PER,0.9119
+,msm,30,33,ORG,0.6222
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,hunter bidenâ,42,55,PER,0.4218
+,trump,76,81,PER,0.9991
+,wilbur,160,166,PER,0.4691
+,devos,168,173,PER,0.6455
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,australian,27,37,MISC,0.994
+,uq,70,72,ORG,0.5325
+,csl,77,80,ORG,0.9998
+,hiv,136,139,MISC,0.9994
+,gan,248,251,ORG,0.9187
+,gop house,20,29,ORG,0.7881
+,dick hinch,43,53,PER,0.9895
+,gop,91,94,MISC,0.9917
+,new hampshire,110,123,LOC,0.9988
+,sarah,18,23,PER,0.9984
+,bsc psychology and counselling,34,64,ORG,0.8729
+,university of strathclyde,80,105,ORG,0.92
+,pennsylvania covid-19,51,72,MISC,0.7848
+,americans,0,9,MISC,0.9993
+,us,190,192,LOC,0.9997
+,trump,21,26,ORG,0.4619
+,pfizer,85,91,ORG,0.9994
+,us,100,104,LOC,0.9999
+,phizer,0,6,ORG,0.9861
+,fda,46,49,ORG,1.0
+,se idaho,91,99,LOC,0.9976
+,canada,54,60,LOC,1.0
+,lewis hamilton,18,32,PER,0.9997
+,abu dhabi,46,55,LOC,0.9999
+,tom wolf,24,32,PER,0.9929
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,us,15,17,LOC,0.8536
+,pfizerâ€™,54,63,MISC,0.6326
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,ellen degeneres,17,32,PER,0.9991
+,irs,80,83,ORG,0.9999
+,covid,119,124,MISC,0.7226
+,rudy,76,80,PER,0.9998
+,donnie,85,91,PER,0.9999
+,jr,96,99,PER,0.8549
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,matthancock,90,101,PER,0.9998
+,covid-19,25,33,MISC,0.9967
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,jimmy kimmel,19,31,PER,0.9996
+,rudy giuliani,44,57,PER,0.973
+,herman cain,108,119,PER,0.9864
+,trump,18,23,ORG,0.6404
+,perdue &amp,13,24,ORG,0.8713
+,loeffler,26,34,PER,0.7016
+,georgians,50,59,MISC,0.9983
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,mexicans,47,55,MISC,0.9995
+,drug war,75,83,MISC,0.9858
+,fran baum,54,63,PER,0.9493
+,€“ health promotion forum of new zealand,65,105,ORG,0.8618
+,cdc,17,20,ORG,1.0
+,trumpâ,98,104,ORG,0.514
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,covid,55,60,ORG,0.7509
+,amy,23,26,PER,0.7451
+,republicans,106,117,MISC,1.0
+,america,135,142,LOC,0.9999
+,republican,245,255,MISC,1.0
+,italy,247,252,LOC,0.9998
+,us,296,298,LOC,1.0
+,uber,59,63,ORG,0.5813
+,covid-19,99,107,MISC,0.9425
+,garyszatkowski,1,15,PER,0.5313
+,biden,21,26,PER,1.0
+,nkcschools,26,36,ORG,0.7513
+,covid,57,62,ORG,0.8994
+,washington,18,28,LOC,0.9984
+,us,37,39,LOC,0.9948
+,pfizer covid-19,55,70,MISC,0.6283
+,nejm,74,78,ORG,0.5314
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,gilmore girls,22,35,MISC,0.7684
+,lorelai,90,97,PER,0.9984
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,god,117,120,PER,1.0
+,london,83,89,LOC,0.9995
+,essex,96,101,LOC,0.7204
+,trump,27,32,PER,0.9999
+,covid-19,118,126,PER,0.9717
+,borisjohnson,44,56,PER,0.9977
+,"""cummings durham""",69,85,ORG,0.7546
+,richardjmurphy rabb,1,20,PER,0.9046
+,brexit,55,61,ORG,0.6408
+,covid,169,174,PER,0.9014
+,barcelona zoo,57,70,ORG,0.6414
+,covid-19,96,104,MISC,0.9729
+,sandstheatre,4,16,ORG,0.9652
+,brushchamber,34,46,MISC,0.7746
+,covid-19,68,76,MISC,0.8911
+,covid-1â,132,140,MISC,0.9649
+,us,13,17,LOC,0.9918
+,marlborough,12,23,LOC,0.9987
+,40th annual,66,77,MISC,0.857
+,senior conference,89,106,MISC,0.7711
+,zoom,164,168,ORG,0.3295
+,youtube &amp,170,182,ORG,0.4335
+,acton tv,184,192,ORG,0.7011
+,covid,129,134,MISC,0.8904
+,cosby,18,23,PER,1.0
+,andy,1,5,PER,0.9938
+,covid-19,216,224,MISC,0.9183
+,siskind amy siskind,5,24,PER,0.9856
+,republican,32,42,MISC,1.0
+,covid-19,161,169,MISC,0.9325
+,latvia,0,6,LOC,0.9999
+,dolson,0,6,PER,0.9999
+,iu,71,73,ORG,0.9824
+,influenza,97,106,MISC,0.8945
+,twinkies,54,62,MISC,0.6821
+,maga,130,134,ORG,0.5423
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,deputy marshals,83,98,ORG,0.8532
+,operationâ€¦,129,141,MISC,0.5047
+,taylor,0,6,PER,0.9998
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,swedish,17,24,MISC,0.9993
+,covid-19,144,152,MISC,0.5527
+,gladys,22,28,PER,0.9958
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,south korean,13,25,MISC,0.9992
+,jeonju,68,74,LOC,0.9998
+,biden,18,23,PER,1.0
+,white house,49,60,LOC,0.9972
+,trumpâ,137,143,ORG,0.2533
+,sxsw,17,21,ORG,0.499
+,germany,66,73,LOC,1.0
+,covid,129,134,MISC,0.8418
+,rudygiuliani,117,129,PER,0.9834
+,pfizer,17,23,ORG,0.8549
+,bell,51,55,PER,0.9872
+,bell,68,72,PER,0.9998
+,wild,0,4,PER,0.7683
+,republican,29,39,MISC,1.0
+,oh herman cain,77,91,PER,0.9946
+,biden,18,23,PER,0.9999
+,covid-19,89,97,MISC,0.9614
+,jill,99,103,PER,0.9999
+,jarrettbellini,1,15,PER,0.8414
+,nova scotia,64,75,LOC,0.992
+,covid-19,91,99,MISC,0.7088
+,nova scotians,122,135,LOC,0.8629
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,congress,0,8,ORG,0.5024
+,mccannot,120,128,PER,0.9382
+,nevada,5,11,LOC,0.9973
+,moderna,24,31,ORG,0.9981
+,trump,36,41,PER,0.802
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,northam,24,31,PER,0.923
+,rudy giuliani,20,33,PER,0.9988
+,ema,30,33,ORG,0.9954
+,covid19,78,85,MISC,0.809
+,pfizer,99,105,ORG,0.9985
+,biontech,110,118,ORG,0.9688
+,robinson,9,17,PER,0.9993
+,covid,46,51,PER,0.9608
+,nigeria,19,26,LOC,0.9999
+,rudy guilliani,15,29,PER,0.9995
+,pornhub,46,53,LOC,0.686
+,georgians,39,48,MISC,0.9999
+,covid-19,63,71,MISC,0.7063
+,us,13,17,LOC,0.9918
+,cherokee nation,0,15,ORG,0.904
+,nhl,26,29,ORG,0.9995
+,covid,66,71,MISC,0.5779
+,michael,90,97,PER,0.9999
+,richaâ,134,140,PER,0.9313
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,eu,25,27,ORG,1.0
+,covid-1â,132,140,MISC,0.9649
+,larry fitzgerald,21,37,PER,0.9993
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,cintas,67,73,ORG,0.6672
+,spirit ii,118,127,ORG,0.5231
+,uk,52,54,LOC,0.9995
+,british,128,135,MISC,0.9885
+,biden,133,138,PER,1.0
+,covid,39,44,PER,0.8936
+,la cuarentenaaaaa,67,84,ORG,0.7516
+,georgians,39,48,MISC,0.9999
+,covid-19,63,71,MISC,0.7063
+,us,33,35,LOC,0.9991
+,s korea,102,109,LOC,0.9137
+,bmj,46,49,ORG,0.9993
+,covidâ,134,140,ORG,0.4514
+,vegas,65,70,LOC,0.5343
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,madagascar,36,46,LOC,1.0
+,african,97,104,MISC,0.9978
+,borisâ,177,183,MISC,0.4804
+,florida,73,80,LOC,0.9997
+,americansâ,129,139,MISC,0.9545
+,south dakota,17,29,LOC,0.7883
+,democrats,43,52,MISC,0.5695
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,usda,0,4,ORG,1.0
+,pfizer,157,163,ORG,0.9993
+,thomas,6,12,PER,0.7816
+,mn,16,18,ORG,0.6457
+,covid,61,66,MISC,0.7349
+,americans,26,35,MISC,0.9997
+,the washington post  and congress,75,108,ORG,0.9754
+,covid,124,129,MISC,0.7148
+,republicans,143,154,MISC,1.0
+,fox news,62,70,ORG,0.9663
+,america,56,63,LOC,0.9966
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,australian,39,49,MISC,0.9985
+,china,135,140,LOC,1.0
+,hiv,182,185,MISC,0.9995
+,joe biden,37,46,PER,0.9905
+,brexit,42,48,PER,0.707
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,covid,49,54,PER,0.8182
+,leslie jones,86,98,PER,0.9996
+,"""americansâ""",129,140,ORG,0.4847
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,tb,39,41,MISC,0.8527
+,atlanta,71,78,LOC,0.5657
+,curtis samuel,202,215,PER,0.9996
+,covid,246,251,PER,0.6179
+,anthony fauci,14,27,PER,0.9846
+,covid,73,78,MISC,0.7333
+,time magazine,127,140,ORG,0.7444
+,hse,45,48,ORG,0.7966
+,td,74,76,ORG,0.9154
+,covid,115,120,MISC,0.9419
+,lady stars,75,85,ORG,0.6552
+,covid,112,117,PER,0.9757
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,steelers,20,28,ORG,0.9795
+,devin bush,35,45,PER,0.9998
+,vince williams,54,68,PER,0.9726
+,robert spillane,88,103,PER,0.9957
+,ulysees gilbert,118,133,PER,0.9923
+,new hampshire gop house,43,66,ORG,0.7926
+,matt hancock,30,42,PER,0.9999
+,londonâ,132,139,LOC,0.9941
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,senate,43,49,ORG,1.0
+,mitch,121,126,PER,0.9999
+,elaine c smith,0,15,PER,0.9855
+,us district court,54,73,ORG,0.8639
+,tim walz,94,102,PER,0.9999
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,trump,18,23,ORG,0.6404
+,ellen degeneres,13,28,PER,0.9994
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,obamas,131,137,ORG,0.4114
+,wuhan,150,155,LOC,0.9998
+,biden,17,22,PER,1.0
+,covid-19,57,65,MISC,0.9206
+,covid,111,116,MISC,0.6271
+,fox news,62,70,ORG,0.9663
+,biden transition,29,45,ORG,0.8807
+,fda,90,93,ORG,1.0
+,enzc,57,61,ORG,0.9963
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,covid,82,87,ORG,0.446
+,us,14,16,LOC,0.5197
+,pfizerâ€™,26,35,MISC,0.8041
+,canada,75,81,LOC,1.0
+,gop,7,10,MISC,0.8983
+,house,26,31,ORG,0.9376
+,us,18,20,LOC,0.8758
+,pfizerâ€™,57,66,MISC,0.6685
+,fda,40,43,ORG,0.9996
+,vrbpac,44,50,ORG,0.5047
+,eua,62,65,MISC,0.7211
+,pfizer covid-19,74,89,MISC,0.9006
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,canadian forces,21,36,ORG,0.7444
+,covid,106,111,MISC,0.7293
+,covid,60,65,ORG,0.5833
+,covid-19,146,154,MISC,0.957
+,americans,46,55,MISC,0.9999
+,benghazi,64,72,LOC,1.0
+,covid,54,59,MISC,0.5114
+,us,85,87,LOC,0.9997
+,world war two,119,132,MISC,0.9934
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,washington dc,35,48,LOC,0.9367
+,congress,81,89,ORG,0.9999
+,american,157,165,MISC,0.9982
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,uhcday,0,6,ORG,0.6734
+,covid-19,73,81,MISC,0.7833
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,us,45,49,LOC,0.9999
+,ucla,108,112,ORG,0.9569
+,trump,10,15,PER,0.7952
+,wheeler,8,15,PER,0.8036
+,rock county jail,0,16,ORG,0.9144
+,democrats,43,52,MISC,0.9999
+,california,32,42,LOC,0.9965
+,gavin newsom,52,64,PER,0.9988
+,covidâ,133,139,ORG,0.9863
+,cslbehring covid-19,84,103,MISC,0.8014
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,fauci,39,44,PER,0.9999
+,covid-19,112,120,MISC,0.9794
+,blackâ,134,140,MISC,0.9614
+,covid,80,85,PER,0.7956
+,covid collegiate recruiting webinar,55,90,MISC,0.8409
+,lions,116,121,ORG,0.8187
+,penn state,123,133,LOC,0.9738
+,covid,48,53,PER,0.9846
+,polio,79,84,PER,0.5639
+,nueces county,18,31,ORG,0.612
+,delawareâ€™,72,83,ORG,0.3826
+,uk,32,34,LOC,0.9999
+,covid,69,74,MISC,0.6799
+,torieâ,144,150,MISC,0.457
+,sinovac,15,22,ORG,0.9973
+,coronavac,52,61,MISC,0.6923
+,eu,14,16,ORG,1.0
+,democratic,32,42,MISC,1.0
+,trump,97,102,PER,0.7539
+,americans,203,212,MISC,0.9998
+,new horizons,94,107,LOC,0.7094
+,whispermason,1,13,ORG,0.6462
+,biden,17,22,PER,1.0
+,covid-19,57,65,MISC,0.9206
+,calgary,16,23,LOC,0.9713
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,florida,73,80,LOC,0.9997
+,covid,53,58,PER,0.9613
+,ugur sahin,64,74,PER,0.8925
+,pfizer covid,116,128,MISC,0.8711
+,mitch mcconnell,58,73,PER,0.8478
+,denver international airport,5,33,LOC,0.9568
+,vail,50,54,LOC,0.9978
+,colorado,86,94,LOC,0.9984
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,wheeler,8,15,PER,0.8036
+,covid,86,91,MISC,0.7474
+,florida,31,38,LOC,0.9931
+,detention watch network,30,53,ORG,0.9862
+,iceâ€™,60,66,ORG,0.4264
+,covid,101,106,MISC,0.7534
+,us,59,61,LOC,0.9998
+,sa,68,70,LOC,0.6934
+,americans,5,14,MISC,0.9941
+,covid,32,37,LOC,0.9554
+,fox tv,52,58,ORG,0.9009
+,hunter bidenâ,119,132,PER,0.5936
+,joe biden,186,195,PER,0.99
+,eu,1,3,ORG,0.8408
+,bells palsy,65,76,PER,0.4511
+,covidiots,38,47,ORG,0.3912
+,dems,24,28,MISC,0.908
+,covid,103,108,MISC,0.7758
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,usa,15,18,LOC,0.992
+,anne frank,52,62,PER,0.7882
+,emmett till,109,120,PER,0.9424
+,us,69,71,LOC,0.9965
+,covid-19,72,80,MISC,0.759
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,covid19ma,89,98,MISC,0.7925
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,americans,41,50,MISC,0.9999
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,wheeler,8,15,PER,0.8036
+,chrystia freeland,30,47,PER,0.9998
+,canadian,76,84,MISC,0.9987
+,ugur sahin,64,74,PER,0.8925
+,pfizer covid,116,128,MISC,0.8711
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,fda,36,39,ORG,1.0
+,pfizerâ€™,74,83,MISC,0.7687
+,covid-19,85,93,MISC,0.8125
+,fda,112,115,ORG,1.0
+,pfizer,169,175,ORG,0.5278
+,uhc,58,61,ORG,0.9988
+,china,182,187,LOC,1.0
+,pfizer,17,23,ORG,0.9991
+,covid-19,94,102,MISC,0.8712
+,twyla tharp,29,40,PER,0.9546
+,tharp,145,150,PER,0.9821
+,cbc,194,197,ORG,0.5481
+,vietnam,175,182,LOC,0.9993
+,us,0,2,LOC,0.9501
+,pfizerâ€™,39,48,MISC,0.7083
+,nhl,65,68,ORG,0.9968
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,hacu,0,4,ORG,0.9997
+,us,57,61,LOC,0.9918
+,congress,62,70,ORG,0.796
+,hispanic-serving institutions,142,171,ORG,0.7365
+,covid,183,188,MISC,0.9978
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,covid,43,48,ORG,0.48
+,covid,70,75,PER,0.6781
+,white house,134,145,LOC,0.9991
+,pfizer,14,20,ORG,0.86
+,biontech covid-19,21,38,MISC,0.7527
+,europe,55,61,LOC,1.0
+,anna,61,65,PER,0.9999
+,apocalypse scotland,74,93,ORG,0.512
+,mitch mcconnell,79,94,PER,0.9979
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,baylor athletics,0,16,ORG,0.9822
+,democrats,16,25,MISC,0.9999
+,new years,90,99,MISC,0.6706
+,h1n1,83,87,MISC,0.837
+,latino,179,185,MISC,0.9732
+,kimreynoldsia,13,26,ORG,0.677
+,reynolds,91,99,PER,0.9991
+,covid care act,191,205,MISC,0.7124
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,mitch mcconnell,79,94,PER,0.9979
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,rep,61,64,MISC,0.8586
+,omarâ€™,66,73,PER,0.9547
+,facebook,0,8,ORG,0.9949
+,data for good,88,101,MISC,0.7914
+,washington,7,17,LOC,0.9271
+,montana,28,35,LOC,0.9989
+,cal,48,51,PER,0.884
+,oregon,88,94,LOC,0.807
+,washington,161,171,LOC,0.6829
+,north division,211,225,MISC,0.898
+,united states,42,55,LOC,0.9999
+,americans,36,45,MISC,0.9978
+,pearl harbor,107,119,LOC,0.9926
+,hunter,38,44,LOC,0.3181
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,paco sanchez,56,68,PER,0.6869
+,dhs east,80,88,LOC,0.6893
+,ruby hill,95,104,LOC,0.742
+,steelers,18,26,ORG,0.9999
+,vince williams,42,56,PER,0.9953
+,covid-19,64,72,MISC,0.9976
+,lb,106,108,ORG,0.8664
+,roâ,136,139,PER,0.9809
+,korea,30,35,LOC,0.9947
+,us,84,87,LOC,0.9998
+,american,103,111,MISC,0.9992
+,pfizer,34,40,ORG,0.6193
+,the new york times,59,77,ORG,0.9258
+,georebekah,51,61,PER,0.9716
+,florida,94,101,LOC,0.9995
+,ron desantis,111,123,PER,0.9991
+,biden transition,29,45,ORG,0.8807
+,fda,90,93,ORG,1.0
+,fda,26,29,ORG,1.0
+,covid-19,43,51,MISC,0.9935
+,colorado,99,107,LOC,0.9999
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,rudy,0,4,PER,1.0
+,southwestair,28,40,ORG,0.7625
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,gop house,20,29,ORG,0.7881
+,dick hinch,43,53,PER,0.9895
+,gop,91,94,MISC,0.9917
+,new hampshire,110,123,LOC,0.9988
+,eu,14,16,ORG,1.0
+,ipoc,1,5,ORG,0.9941
+,kalaupapa,0,9,LOC,0.9937
+,covid-19,38,46,MISC,0.5521
+,us,80,84,LOC,0.9998
+,florida,21,28,LOC,0.8971
+,dept of health,106,121,ORG,0.9232
+,fda,31,34,ORG,1.0
+,pfizer,76,82,ORG,0.6178
+,covid-19,95,103,MISC,0.897
+,us,111,114,LOC,0.9999
+,gop house,20,29,ORG,0.7881
+,dick hinch,43,53,PER,0.9895
+,gop,91,94,MISC,0.9917
+,new hampshire,110,123,LOC,0.9988
+,sfmta,120,125,ORG,0.9929
+,matt hancockâ,36,49,ORG,0.5567
+,food and drug administration,10,38,ORG,0.9942
+,fda,78,81,ORG,1.0
+,covid-19,128,136,MISC,0.9532
+,us,152,156,LOC,1.0
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,biden transition,29,45,ORG,0.8807
+,fda,90,93,ORG,1.0
+,iu,0,2,ORG,0.9861
+,scott dolson,6,18,PER,0.9735
+,covid-19,49,57,MISC,0.9685
+,wisconsin,87,96,LOC,0.9949
+,iu,126,128,ORG,0.9984
+,the sturgeon,73,85,MISC,0.877
+,cdc,21,24,ORG,1.0
+,trumpâ€™,102,110,ORG,0.5181
+,forbes,45,51,ORG,0.9818
+,illinois,20,28,LOC,0.9999
+,americans,34,43,MISC,0.9999
+,uc berkeley,14,25,ORG,0.9649
+,ecb,51,54,ORG,0.9998
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,virginia,13,21,LOC,1.0
+,ncstateaflcio,78,91,ORG,0.5596
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,covid-19,52,60,MISC,0.813
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,republicanâ,129,140,MISC,0.9982
+,covid america,20,33,LOC,0.891
+,jared kushner,34,47,PER,0.6746
+,disney,9,15,ORG,0.9743
+,donald,127,133,PER,0.5768
+,covid,66,71,MISC,0.7578
+,abc,1,4,ORG,0.6731
+,fda,82,85,ORG,1.0
+,pfizer,116,122,ORG,0.8924
+,covid-19,125,133,MISC,0.9834
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,new hampshire,0,13,LOC,0.9434
+,house,29,34,ORG,0.525
+,americans,130,139,MISC,0.9999
+,fda,171,177,ORG,0.8081
+,blueâ,135,140,ORG,0.6624
+,israel,18,24,LOC,1.0
+,eu,64,66,ORG,0.9999
+,palestinians,91,103,MISC,0.9665
+,congress,68,76,ORG,0.9998
+,gabbard-gosar,98,111,LOC,0.346
+,big tech,126,134,ORG,0.4885
+,brockton,24,32,LOC,0.954
+,middleboro,66,76,LOC,0.9995
+,lakeville,77,86,LOC,0.9994
+,mbtaâ€™,97,104,MISC,0.5838
+,forging ahead,106,119,MISC,0.8474
+,makaylaxo bcuz,3,17,PER,0.9819
+,covid-19,53,61,MISC,0.9274
+,assad,16,21,PER,1.0
+,daraa,74,79,LOC,1.0
+,gop house,20,29,ORG,0.7881
+,dick hinch,43,53,PER,0.9895
+,gop,91,94,MISC,0.9917
+,new hampshire,110,123,LOC,0.9988
+,ontario,20,27,LOC,0.9999
+,donald trump,13,25,PER,0.9998
+,rudy giuliani,30,43,PER,0.9992
+,kelly loeffler,121,135,PER,0.9997
+,cambridge university,98,118,ORG,0.9897
+,trump,18,23,ORG,0.6404
+,civil war,43,52,MISC,0.9967
+,disney,89,95,ORG,0.7787
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,biden,18,23,PER,0.9999
+,covid-19,89,97,MISC,0.9614
+,jill,99,103,PER,0.9999
+,georgians,39,48,MISC,0.9999
+,covid-19,63,71,MISC,0.7063
+,mexicans,47,55,MISC,0.9995
+,drug war,75,83,MISC,0.9858
+,harris faulkner,30,45,PER,0.9968
+,marie harf,58,68,PER,0.9934
+,republicanâ,129,140,MISC,0.9982
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,jim allister,20,32,PER,0.9992
+,north antrim,34,46,LOC,0.9926
+,covid-19,108,116,MISC,0.8984
+,pac-12,4,10,ORG,0.9906
+,uw,25,27,ORG,0.9761
+,oregon,45,51,LOC,0.9999
+,washington,141,151,PER,0.8945
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,covid-19,106,114,MISC,0.9391
+,ncaa,132,136,ORG,0.8894
+,techs,150,155,ORG,0.4474
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,barbara,149,156,PER,0.9983
+,covid,170,175,MISC,0.9079
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,trump,81,86,PER,0.9994
+,weijia trump,1,13,PER,0.9924
+,covid,44,49,PER,0.9988
+,heâ,70,73,PER,0.5458
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,lewis hamilton,18,32,PER,0.9997
+,abu dhabi,46,55,LOC,0.9999
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,fda advisory panel,10,28,ORG,0.7605
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,lewis hamilton,0,14,PER,0.9976
+,abudhabigp,50,60,ORG,0.4638
+,covid-19,88,96,MISC,0.8436
+,mercedes,135,143,ORG,0.9998
+,pfizer,3,9,ORG,1.0
+,moderna,14,21,ORG,1.0
+,pfizer,0,6,ORG,0.9801
+,wajid ahmed,30,41,PER,0.9992
+,silvestre bello,16,31,PER,0.9977
+,dole,42,46,ORG,0.9002
+,covid adjustment measures program,102,135,MISC,0.7757
+,qliqsoft,0,8,ORG,0.9846
+,cpsi,10,14,ORG,0.9773
+,sachem schools,0,14,ORG,0.9957
+,merrimac,131,139,ORG,0.9813
+,holbrook,143,151,LOC,0.9999
+,tamarac,153,160,LOC,0.9997
+,holtsville,164,174,LOC,0.9999
+,sachemeast,176,186,LOC,0.9948
+,farmingville,190,202,LOC,0.9999
+,sachemnorth,208,219,LOC,0.9903
+,lakeronkonkoma,223,237,LOC,0.9998
+,senate,0,6,ORG,0.9746
+,mitch mcconnell,23,38,PER,0.9999
+,covid-19,73,81,MISC,0.9993
+,republican,139,149,MISC,1.0
+,rbc,0,3,ORG,0.9997
+,dave mckay,8,18,PER,0.9998
+,report on business,67,85,ORG,0.7615
+,canada,143,149,LOC,1.0
+,mata,3,7,ORG,0.9974
+,covid-19,31,39,MISC,0.7808
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,tom wolf,163,171,PER,0.9988
+,monochromeego pier,1,19,ORG,0.9361
+,ontario,90,97,LOC,0.9979
+,amycoupal,111,120,ORG,0.3976
+,dewine,0,6,PER,1.0
+,texas,111,116,LOC,0.9971
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,az state rep,17,29,ORG,0.8597
+,andres cano,30,41,PER,0.9671
+,pfizerâ€™,27,36,ORG,0.5808
+,fda,90,93,ORG,1.0
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,boeingâ€™,64,73,MISC,0.5676
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,corpus christi-nueces county public health district,18,69,ORG,0.9687
+,lewis hamilton,18,32,PER,0.9997
+,abu dhabi,46,55,LOC,0.9999
+,lindabrosenthal,1,16,ORG,0.5984
+,google,0,6,ORG,0.9983
+,biden transition,29,45,ORG,0.8807
+,fda,90,93,ORG,1.0
+,london,24,30,LOC,0.5315
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,dolson,0,6,PER,1.0
+,covid-19,44,52,MISC,0.9941
+,pcr,89,92,MISC,0.92
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,melaniefsmith,2,15,PER,0.9818
+,graphika,38,46,ORG,0.5562
+,nyc,47,50,ORG,0.9437
+,pfizerâ€™,28,37,MISC,0.5599
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,early childhood finance and policy division,69,112,ORG,0.7457
+,house,199,204,ORG,0.7065
+,congress,35,43,ORG,0.9998
+,american,108,116,MISC,0.9993
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,gilmore girls,22,35,MISC,0.7684
+,lorelai,90,97,PER,0.9984
+,mcconnell,26,35,PER,0.9998
+,civil rights,52,64,ORG,0.619
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,covid,221,226,PER,0.9995
+,rudygiuliani,89,101,PER,0.6767
+,covid-19,18,26,MISC,0.897
+,us,77,81,LOC,1.0
+,teledyne isco,54,67,ORG,0.6015
+,fresno,27,33,ORG,0.9881
+,trump,141,146,PER,1.0
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,covid &amp,104,114,MISC,0.6595
+,universal creditâ,126,144,MISC,0.6626
+,port-harcourt,51,64,LOC,0.7397
+,pfizer,17,23,ORG,0.992
+,hutchisonâ,136,146,ORG,0.5287
+,matthancock,90,101,PER,0.9998
+,michigan,14,22,LOC,0.9999
+,boys &amp; girls club,4,25,ORG,0.9137
+,bend,29,33,LOC,0.9909
+,covid-19,127,135,MISC,0.9495
+,us,15,17,LOC,0.7637
+,fda,40,43,ORG,1.0
+,whisty taylor,45,58,PER,0.9979
+,allegheny county,0,16,LOC,0.4027
+,ontario,34,41,LOC,0.9999
+,ugur sahin,64,74,PER,0.8925
+,pfizer covid,116,128,MISC,0.8711
+,big pharma,75,85,ORG,0.687
+,mexicans,47,55,MISC,0.9995
+,drug war,75,83,MISC,0.9858
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,austin city council,0,19,ORG,0.9496
+,colorado,46,54,LOC,0.9999
+,boris j,111,118,ORG,0.4865
+,fda,0,3,ORG,0.6054
+,pfizer,25,31,ORG,0.4957
+,donald trump,13,25,PER,0.9998
+,rudy giuliani,30,43,PER,0.9992
+,kelly loeffler,121,135,PER,0.9997
+,london business school,118,140,ORG,0.8898
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,fox news,62,70,ORG,0.9663
+,fox news,62,70,ORG,0.9663
+,washington,0,10,LOC,0.972
+,us,24,28,LOC,0.9993
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,saudi arabia,28,40,LOC,0.9994
+,pfizer covid,75,87,MISC,0.7448
+,ministry of healthâ€™,85,106,ORG,0.8702
+,communistdemocrat,45,62,MISC,0.9905
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,simranroohi,12,23,PER,0.9832
+,brampton &amp,59,72,LOC,0.7425
+,surrey,74,80,LOC,0.78
+,south asians,147,159,MISC,0.9934
+,senate,76,82,ORG,0.9983
+,georgians,39,48,MISC,0.9999
+,covid-19,63,71,MISC,0.7063
+,nigeria,14,21,LOC,1.0
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,little,16,22,PER,0.9841
+,seattle,129,136,LOC,0.9986
+,mayo clinic,86,97,LOC,0.9236
+,cullum,32,38,PER,0.9783
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,covid-19,67,75,MISC,0.9642
+,metro-atlanta,114,127,LOC,0.8088
+,republican,186,196,MISC,0.998
+,ag,214,216,ORG,0.9865
+,covid-19,233,241,MISC,0.7987
+,norfolk greek fest,16,34,ORG,0.8084
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,covid,51,56,MISC,0.5616
+,black coffee,73,85,ORG,0.3875
+,illovo,113,119,LOC,0.9987
+,west,15,19,LOC,0.3185
+,covid-19,68,76,MISC,0.9928
+,walgreens,10,19,ORG,0.833
+,gatorade,122,130,MISC,0.95
+,stokers,165,172,ORG,0.2658
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,ontario,0,7,LOC,0.9998
+,covid-19,31,39,MISC,0.9902
+,newsom,39,45,PER,0.9987
+,julia hartley-brewer,15,35,PER,0.9983
+,lina zeldovich,48,62,ORG,0.9361
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,boris j,75,82,PER,0.5526
+,andrew cuomo,27,39,PER,0.9578
+,columbia county,29,44,LOC,0.8609
+,americans,119,128,MISC,0.9995
+,nih,188,191,ORG,0.4992
+,bonnie henry,4,16,PER,0.9938
+,bc,43,47,LOC,0.758
+,trump,81,86,PER,0.9994
+,fda,0,3,ORG,1.0
+,pfizer covid,36,48,MISC,0.7457
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,georgians,39,48,MISC,0.9999
+,covid-19,63,71,MISC,0.7063
+,columbia county,29,44,LOC,0.8795
+,fauci,21,26,PER,0.9999
+,covid,98,103,MISC,0.9875
+,kizzyphd,116,124,MISC,0.8437
+,east alabama,0,12,ORG,0.9379
+,lee county,93,103,LOC,0.9302
+,sxsw,17,21,ORG,0.499
+,tom chipley,18,29,PER,0.9607
+,mount jackson,37,50,LOC,0.9985
+,virginia,52,60,LOC,0.9998
+,daddy,89,94,PER,0.9828
+,trump,18,23,ORG,0.6404
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,metro,0,5,ORG,0.9981
+,metrolift,50,59,ORG,0.6246
+,operations department,140,161,ORG,0.8826
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,jamesmelville the dr &amp,1,26,ORG,0.7762
+,covid,60,65,ORG,0.5833
+,fauci,4,9,PER,0.8976
+,god,93,96,PER,0.9967
+,god,148,151,PER,0.9967
+,god,232,235,PER,0.9922
+,senator,52,59,MISC,0.9708
+,kelly loeffler,61,75,PER,0.9031
+,ema,45,48,ORG,0.9945
+,covid19,93,100,MISC,0.9233
+,pfizer,114,120,ORG,0.9993
+,biontech,125,133,ORG,0.9802
+,dutch congress,56,70,ORG,0.8284
+,fda,53,56,ORG,1.0
+,north texas,0,11,LOC,0.8488
+,doug,33,37,PER,0.9122
+,blake griffin,11,24,PER,0.9999
+,whitmer,36,43,PER,0.9994
+,covid-19,46,54,MISC,0.7069
+,pelosi,28,34,PER,1.0
+,covid,41,46,MISC,0.9722
+,democrat,101,109,MISC,1.0
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,covid-19,40,48,MISC,0.8638
+,toronto,18,25,LOC,0.9997
+,edmonton,61,69,LOC,0.9982
+,toronto,104,111,LOC,0.9868
+,edmoâ,135,140,MISC,0.6988
+,senate,43,49,ORG,1.0
+,mitch,121,126,PER,0.9999
+,governmentâ€™,80,93,MISC,0.4804
+,ellen degeneres,17,32,PER,0.9991
+,occupational health and safety act,71,105,ORG,0.8686
+,ohsa,107,111,ORG,0.9998
+,ontario human rights code,156,181,ORG,0.9444
+,charter of rights and freedoms,193,223,ORG,0.9126
+,trump,62,67,MISC,0.6736
+,ben,142,145,PER,0.6289
+,chris &amp,147,157,PER,0.8646
+,rudy,159,163,PER,0.9992
+,house,5,10,ORG,0.9903
+,dick hinch,19,29,PER,0.9984
+,house,63,68,ORG,0.9948
+,gop,144,147,MISC,0.9963
+,the boston globe,242,258,ORG,0.9594
+,covid-19,62,70,MISC,0.9837
+,erie,76,80,LOC,0.9344
+,ohsa,102,106,ORG,0.9998
+,trevor lawson,156,169,PER,0.9994
+,mccarthy tetrault,222,239,ORG,0.8076
+,delta,12,17,ORG,0.9882
+,covid-19,17,25,MISC,0.9751
+,republican,91,101,MISC,1.0
+,mitch mcconnell,102,117,PER,0.9985
+,american,166,174,MISC,0.9982
+,florida,0,7,LOC,0.9999
+,utah,6,10,LOC,0.8354
+,trump,45,50,PER,0.9846
+,covid-19,160,168,MISC,0.8669
+,act-a,216,221,MISC,0.7973
+,ontario,179,186,ORG,0.8112
+,christine elliott,203,220,PER,0.9999
+,fda,25,28,ORG,0.9997
+,pfizer,41,47,ORG,0.9945
+,us,21,23,LOC,0.9719
+,pfizer covid-19,39,54,MISC,0.735
+,john craig,4,14,PER,0.9999
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,nhs,69,72,ORG,0.947
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,chris whitty,71,83,PER,0.9999
+,west side story,7,22,ORG,0.5933
+,us,38,40,LOC,0.8301
+,fda,41,44,ORG,0.9999
+,covid,61,66,PER,0.9909
+,americansâ,129,139,MISC,0.9545
+,potus,14,19,ORG,0.9227
+,americans,36,45,MISC,0.9955
+,covid-19,41,49,MISC,0.9932
+,nigeria,62,69,LOC,1.0
+,erie,76,80,LOC,0.9344
+,rudy giuliani,16,29,PER,0.9828
+,fda,31,34,ORG,1.0
+,covid,78,83,ORG,0.5575
+,dc,108,110,LOC,0.81
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,covid-19,141,149,MISC,0.6996
+,undp,22,26,ORG,0.9997
+,covid-19 data futures platform,44,74,MISC,0.9085
+,dancing with the stars,11,33,MISC,0.9578
+,carrie ann inaba,41,57,PER,0.9986
+,covid19,77,84,MISC,0.8837
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,alexander,53,62,PER,0.9954
+,zverev,285,291,PER,0.9876
+,british muslim,112,126,MISC,0.8927
+,sarscov2,45,53,MISC,0.7407
+,ugur sahin,64,74,PER,0.8925
+,pfizer covid,116,128,MISC,0.8711
+,nm,20,22,ORG,0.4159
+,covid,73,78,LOC,0.4691
+,zscaler,16,23,ORG,0.9982
+,splunk,115,121,ORG,0.9978
+,us,0,2,LOC,0.951
+,pfizerâ€™,39,48,MISC,0.7364
+,icu,30,33,ORG,0.6818
+,johnson,0,7,PER,1.0
+,brexit,36,42,PER,0.9806
+,covid,50,55,PER,0.9987
+,british,111,118,MISC,0.9981
+,brexit,200,206,ORG,0.7644
+,tory,229,233,MISC,0.9594
+,leslie jones,86,98,PER,0.9996
+,"""americansâ""",129,140,ORG,0.4847
+,bonvue,43,49,LOC,0.6374
+,chucks,51,57,PER,0.9862
+,actorsequity,30,42,ORG,0.6843
+,lewis hamilton,18,32,PER,0.9997
+,abu dhabi,46,55,LOC,0.9999
+,usa,174,177,LOC,0.9973
+,kate,25,29,PER,0.9995
+,canada,50,56,LOC,1.0
+,amazon,198,204,ORG,0.5499
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,scotland,74,82,LOC,0.9999
+,ohio,62,66,LOC,1.0
+,covid-19,96,104,MISC,0.9997
+,belfast,0,7,LOC,0.9986
+,icu,67,70,ORG,0.8885
+,usa,108,111,LOC,0.9991
+,covid,43,48,MISC,0.6762
+,repdavejoyce ohioâ,48,66,ORG,0.9722
+,ag trump,98,106,ORG,0.7785
+,dewine,218,224,PER,0.9879
+,covid,249,254,PER,0.6043
+,reuters,4,11,ORG,0.5792
+,americans,27,36,MISC,0.9993
+,rudy guilliani,15,29,PER,0.9995
+,brexit,15,21,PER,0.7783
+,uk,84,86,LOC,1.0
+,nhs,193,196,ORG,0.9461
+,tories &amp,254,265,ORG,0.8007
+,borisjohnson,268,280,PER,0.9947
+,trump,18,23,ORG,0.6404
+,ellis ross,4,14,PER,0.7656
+,skeena mla,155,165,ORG,0.9036
+,terracebc kitimat princerupert smithers bcpoli,231,277,ORG,0.7912
+,trump,18,23,ORG,0.6404
+,malaysia,28,36,LOC,1.0
+,fauci,21,26,PER,0.9999
+,covid,98,103,MISC,0.9875
+,kizzyphd,116,124,MISC,0.8437
+,starwars,9,17,MISC,0.6128
+,disney,88,94,ORG,0.7955
+,covid,86,91,MISC,0.7474
+,florida,15,22,LOC,0.9795
+,virginia,0,8,LOC,0.9983
+,hambley,1,8,PER,0.9999
+,new york state assembly,21,44,ORG,0.8381
+,black woman,69,80,MISC,0.7158
+,united states,74,87,LOC,0.9999
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,pfizer,114,120,ORG,0.9997
+,lukeâ€™,30,37,ORG,0.5559
+,diner,39,44,PER,0.8838
+,covid,133,138,PER,0.9893
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,republicanâ,129,140,MISC,0.9982
+,tarrant county,86,100,LOC,0.933
+,governorâ€™,21,32,ORG,0.5148
+,ems,58,61,ORG,0.9969
+,covidâ,136,142,MISC,0.9928
+,metro,0,5,ORG,0.9981
+,metrolift,50,59,ORG,0.6319
+,operations department,140,161,ORG,0.8846
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,trump,18,23,ORG,0.6404
+,chanukah  being covid,88,109,MISC,0.7796
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,gop,79,82,MISC,0.9998
+,governorâ€™s office,49,68,ORG,0.9305
+,washington huskies,49,67,ORG,0.753
+,oregon,102,108,LOC,0.5179
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,gop,44,47,MISC,0.994
+,america,111,118,LOC,0.9999
+,trump,81,86,PER,0.9994
+,us,0,2,LOC,0.9504
+,pfizerâ€™,39,48,MISC,0.6992
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,korea,22,27,LOC,0.9803
+,real,0,4,ORG,0.6562
+,sxsw,17,21,ORG,0.499
+,silvestre bello,36,51,PER,0.9989
+,dole,62,66,ORG,0.9695
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,texas,102,107,LOC,0.9987
+,phus,0,4,ORG,0.6907
+,williams &amp; @sflecce &amp,34,62,ORG,0.8592
+,republican,45,55,MISC,0.9999
+,democracy,83,92,ORG,0.3738
+,sxsw,17,21,ORG,0.499
+,walmart,0,7,ORG,0.9977
+,the lister hospital,62,81,LOC,0.9766
+,india,17,22,LOC,0.9994
+,italy,45,50,LOC,1.0
+,zoom,121,125,MISC,0.928
+,trump,81,86,PER,0.9994
+,toronto,59,66,LOC,0.9999
+,peel region,71,82,LOC,0.951
+,va,0,2,ORG,0.9867
+,covid,54,59,MISC,0.5114
+,us,85,87,LOC,0.9997
+,world war two,119,132,MISC,0.9934
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,huskies,99,106,ORG,0.9994
+,trump,18,23,ORG,0.6404
+,gop,7,10,MISC,0.8983
+,house,26,31,ORG,0.9415
+,covid-19,92,100,MISC,0.9966
+,covid,89,94,MISC,0.8555
+,us,19,21,LOC,0.9999
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,pfizer vaccine,109,123,MISC,0.9028
+,bc,66,68,ORG,0.3991
+,sam bright,39,49,PER,0.9922
+,byline,54,60,PER,0.9958
+,hancockâ,62,70,ORG,0.4499
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.5279
+,florida,73,80,LOC,0.9997
+,america,15,22,LOC,0.9996
+,covid,35,40,PER,0.9916
+,luke,50,54,PER,0.9992
+,covid-19,53,61,MISC,0.9274
+,bob powers,33,43,PER,0.7699
+,cbs news,34,42,ORG,0.9755
+,trump,65,70,PER,0.9098
+,fox news,62,70,ORG,0.9663
+,arizonamirror,67,80,MISC,0.9524
+,wales,118,123,LOC,1.0
+,nhs,229,232,ORG,0.6503
+,fda,111,114,ORG,0.9931
+,covid,61,66,PER,0.9051
+,republicans,33,44,MISC,1.0
+,americans,94,103,MISC,0.9998
+,covid,12,17,PER,0.9767
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,kushner,52,59,PER,0.9972
+,ivanka,64,70,PER,0.9843
+,wh,112,114,ORG,0.4744
+,west,20,24,LOC,0.7986
+,china,75,80,LOC,0.9998
+,virginia,13,21,LOC,1.0
+,worcester county covid,14,36,MISC,0.7273
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,indonesia,14,23,LOC,0.9999
+,chinese,44,51,MISC,0.9991
+,china,119,124,LOC,1.0
+,fourtillan,23,33,PER,0.4197
+,french,56,62,MISC,1.0
+,institute pasteur,89,106,ORG,0.9831
+,institute,190,199,ORG,0.7953
+,todayâ,0,6,ORG,0.713
+,fda,10,13,ORG,0.9999
+,pfizer,89,95,ORG,0.7125
+,covid-19,172,180,MISC,0.9641
+,mitch mcconnell,40,55,PER,0.9989
+,nature medicine,102,117,ORG,0.9821
+,covid-19,53,61,MISC,0.9274
+,colorado,76,84,LOC,1.0
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,ugur sahin,64,74,PER,0.8925
+,pfizer covid,116,128,MISC,0.8711
+,pittsburgh,4,14,LOC,0.9966
+,covid-19,48,56,MISC,0.9706
+,wheeler,8,15,PER,0.8036
+,ministry of justice,61,80,ORG,0.999
+,belâ,136,140,LOC,0.9726
+,msnbc,0,5,ORG,1.0
+,chris hayes,8,19,PER,0.9997
+,trump,29,34,PER,0.9886
+,us,60,62,LOC,0.9987
+,cambridge university,98,118,ORG,0.9897
+,fauci,20,25,PER,0.7725
+,dolson,0,6,PER,1.0
+,us,53,55,LOC,0.9993
+,trumpublicansâ,126,140,ORG,0.8588
+,covid-1â,132,140,MISC,0.9649
+,virginia,13,21,LOC,1.0
+,pfizer,17,23,ORG,0.8549
+,bell,51,55,PER,0.9872
+,bell,68,72,PER,0.9998
+,rideau vista public school,0,26,ORG,0.8928
+,westport,30,38,LOC,0.9995
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,huskies,51,58,ORG,0.9982
+,pac-12,88,94,ORG,0.6208
+,king county,139,150,LOC,0.7384
+,ducks,171,176,ORG,0.9999
+,pac,203,206,ORG,0.5858
+,usc-colorado,237,249,ORG,0.8529
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,pfizerâ€™,23,32,ORG,0.4089
+,fda,80,83,ORG,0.9984
+,us,104,106,LOC,1.0
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,pfizer,12,18,ORG,0.9996
+,us,111,113,LOC,0.9998
+,fda,119,122,ORG,1.0
+,barcelona zoo,57,70,ORG,0.6414
+,covid-19,96,104,MISC,0.9729
+,uk,46,48,LOC,0.9997
+,assange,63,70,PER,0.9995
+,covid-19,76,84,MISC,0.8791
+,hmp belmarsh,97,109,LOC,0.7674
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,governorâ€™s office,68,87,ORG,0.934
+,kevin,11,16,PER,0.9422
+,mc connell,40,50,PER,0.959
+,bill,63,67,MISC,0.9542
+,pelosi,194,200,PER,1.0
+,santa clara county,42,60,LOC,0.8617
+,icu,74,77,ORG,0.633
+,us,133,136,LOC,0.9995
+,americans,29,38,MISC,0.9994
+,covid,44,49,ORG,0.4702
+,city of garden city,21,40,LOC,0.9229
+,european medicines agency,26,51,ORG,0.9893
+,ema,53,56,ORG,0.9999
+,pfizer,61,67,ORG,0.9481
+,biontech,68,76,ORG,0.5662
+,moderna,81,88,ORG,0.9961
+,fda,20,23,ORG,1.0
+,pfizer covid,56,68,MISC,0.7642
+,petsmart,79,87,LOC,0.5902
+,brook,91,96,LOC,0.8938
+,glen allen,105,115,LOC,0.9822
+,governortomwolf,30,45,PER,0.8133
+,new york state assembly,10,33,ORG,0.8366
+,patriots,62,70,ORG,0.9989
+,te,86,88,MISC,0.6502
+,devin asiasi,89,101,PER,0.794
+,ir,107,109,ORG,0.7875
+,te,125,127,MISC,0.8683
+,ryan izzo,128,137,PER,0.9744
+,virginia,18,26,LOC,0.9999
+,covid,78,83,MISC,0.9781
+,icu,99,102,ORG,0.996
+,mitch mcconnell,100,115,PER,0.9996
+,american,153,161,MISC,0.9987
+,big business,218,230,ORG,0.6977
+,mitch,277,282,PER,0.9994
+,covid,103,108,PER,0.9908
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,the nutcracker,73,87,MISC,0.9143
+,ohio,62,66,LOC,1.0
+,covid-19,96,104,MISC,0.9997
+,us,14,16,LOC,0.5197
+,lyceum theatre,91,105,LOC,0.802
+,edinburgh,109,118,LOC,0.9998
+,scotland,120,128,LOC,1.0
+,sam heughan,170,181,PER,0.9987
+,lyceum theatre,224,238,ORG,0.3828
+,us,23,25,LOC,0.5889
+,fda vaccines and related biological products advisory committee,26,89,ORG,0.9167
+,vbpac,91,96,ORG,0.7057
+,united states,42,55,LOC,0.9999
+,welp,0,4,PER,0.8394
+,fda,20,23,ORG,1.0
+,pfizer covid,56,68,MISC,0.7642
+,juliahb1,1,9,ORG,0.4027
+,s korea,27,34,MISC,0.8566
+,cullum,32,38,PER,0.7903
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,chris hayes,20,31,PER,0.9997
+,america,50,57,LOC,0.9999
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,wolf,46,50,PER,0.5878
+,k,6,7,PER,0.9249
+,americans,50,59,MISC,0.9994
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,grandpa &amp,65,77,ORG,0.6999
+,german,88,94,MISC,1.0
+,angela merkel,106,119,PER,0.9997
+,bbc news,25,33,ORG,0.9096
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,mcfaul,1,7,PER,0.7479
+,americans,29,38,MISC,0.9998
+,medicare,71,79,MISC,0.9998
+,carrie ann,150,160,PER,0.707
+,the talk,164,172,MISC,0.8195
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,thenewsoncnbc shepard,1,22,PER,0.8521
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,newsom,39,45,PER,0.9987
+,ny,26,28,LOC,0.5598
+,fda,21,24,ORG,0.981
+,pfizer,49,55,ORG,0.9412
+,biontech covid-19,56,73,MISC,0.626
+,biden,18,23,PER,0.9999
+,covid-19,89,97,MISC,0.9614
+,jill,99,103,PER,0.9999
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,healthcare workers,52,70,ORG,0.7931
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,england,18,25,LOC,1.0
+,canadian forces,21,36,ORG,0.7444
+,covid,106,111,MISC,0.7293
+,god,31,34,PER,0.9995
+,biden,45,50,PER,1.0
+,god,77,80,PER,1.0
+,us,103,105,LOC,0.9997
+,god,179,182,PER,0.7638
+,pfizer,87,93,ORG,0.9959
+,kracken,29,36,MISC,0.7583
+,covid,42,47,PER,0.9818
+,long beach,10,20,LOC,0.5495
+,washington,18,28,LOC,0.9984
+,us,37,39,LOC,0.9948
+,pfizer covid-19,55,70,MISC,0.6283
+,georebekah,51,61,PER,0.9716
+,florida,94,101,LOC,0.9995
+,ron desantis,111,123,PER,0.9991
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,covid,101,106,MISC,0.958
+,pa,0,2,ORG,0.8656
+,std,216,219,MISC,0.9625
+,deputy marshals,83,98,ORG,0.8532
+,operationâ€¦,129,141,MISC,0.5047
+,giuliani,39,47,PER,0.9997
+,michigan house,55,69,LOC,0.7271
+,american,161,169,MISC,0.9944
+,trump,73,78,PER,0.9999
+,giuliani,80,88,PER,1.0
+,christie,90,98,PER,1.0
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,giuliani,13,21,PER,1.0
+,toronto,0,7,LOC,0.9948
+,ncaa,56,60,ORG,0.9982
+,donâ,100,104,PER,0.8194
+,lowell,74,80,LOC,0.9792
+,pennsylvania,0,12,LOC,0.9986
+,tom wolf,18,26,PER,0.9987
+,charleston southern,54,73,LOC,0.6473
+,gardner-webb,78,90,LOC,0.8897
+,acc,236,239,ORG,0.9664
+,rudygiuliani,19,31,PER,0.9896
+,transylvanian rinderpest epidemic of 1304,45,86,MISC,0.7686
+,covid,123,128,MISC,0.5856
+,federal covid,78,91,ORG,0.6078
+,pfizer,17,23,ORG,0.8549
+,bell,51,55,PER,0.9872
+,bell,68,72,PER,0.9998
+,community health centres,103,127,ORG,0.9308
+,republican,53,63,MISC,0.9998
+,house,64,69,ORG,0.9831
+,matthancock,90,101,PER,0.9998
+,donald trump,13,25,PER,0.9998
+,rudy giuliani,30,43,PER,0.9992
+,kelly loeffler,121,135,PER,0.9997
+,covid-1â,132,140,MISC,0.9649
+,california,24,34,LOC,0.9965
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,ellen degeneres,17,32,PER,0.9991
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,us,60,64,LOC,0.9996
+,covid-19,106,114,MISC,0.6432
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,cambridge university,98,118,ORG,0.9897
+,nz,92,94,LOC,0.9998
+,covid,106,111,PER,0.9803
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,arizonamirror,67,80,MISC,0.9524
+,cheetos,19,26,MISC,0.5267
+,libby,60,65,PER,0.8422
+,covid,71,76,PER,0.9817
+,the corn exchange,31,48,ORG,0.8702
+,edinburgh,68,77,LOC,0.9995
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,gp,65,67,ORG,0.4185
+,east tenn,42,51,LOC,0.9557
+,north carolina,89,103,LOC,0.9994
+,west tenn,110,119,LOC,0.9616
+,uk,11,13,LOC,0.6271
+,hilary benn,15,26,PER,0.9691
+,god,109,112,PER,0.9999
+,covid,80,85,ORG,0.3879
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,acab,39,43,ORG,0.8228
+,bipoc,195,200,MISC,0.5679
+,justin trudeau,266,280,PER,0.9999
+,maryland,27,35,LOC,1.0
+,africa,0,6,LOC,0.998
+,mitch mcconnell,79,94,PER,0.9979
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,covid cult,17,27,MISC,0.5613
+,grandma,137,144,PER,0.9862
+,nigeria,78,85,LOC,0.9998
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,ohio,62,66,LOC,1.0
+,covid-19,96,104,MISC,0.9997
+,trump,18,23,ORG,0.6404
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,usu mbk,0,7,ORG,0.6181
+,weber state,25,36,LOC,0.9438
+,newsom,39,45,PER,0.9987
+,alberta,9,16,LOC,0.9924
+,mcconnell,16,25,PER,0.9982
+,americans,70,79,MISC,0.9997
+,mcconnell,115,124,PER,0.9986
+,biden transition,29,45,ORG,0.8807
+,fda,90,93,ORG,1.0
+,borisjohnson,44,56,PER,0.9977
+,"""cummings durham""",69,85,ORG,0.7546
+,stephen hunger,24,38,PER,0.9998
+,division of oncology,57,77,ORG,0.9837
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,johnson city,24,36,LOC,0.9968
+,tn,38,40,LOC,0.9945
+,trump,21,26,ORG,0.4619
+,pfizer,85,91,ORG,0.9994
+,us,100,104,LOC,0.9999
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,pfizerâ€™,46,55,ORG,0.5858
+,torn banner,36,47,MISC,0.7441
+,shervin,51,58,PER,0.9629
+,game designers,71,85,MISC,0.74
+,burt,121,125,PER,0.9716
+,stan,130,134,PER,0.9986
+,four seasons,62,74,MISC,0.9808
+,rep,0,3,MISC,0.9973
+,katie porter,5,17,PER,0.9997
+,covid-19,80,88,MISC,0.9011
+,fda,92,95,ORG,1.0
+,covid-19,82,90,MISC,0.7411
+,trump,81,86,PER,0.9994
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,priyasmask,42,52,ORG,0.4505
+,india,99,104,LOC,1.0
+,republicans,33,44,MISC,0.9999
+,house,52,57,ORG,0.9955
+,no senators,62,73,ORG,0.8021
+,non-jewish,93,103,MISC,0.9905
+,house,119,124,ORG,0.9963
+,covid,141,146,MISC,0.8184
+,democrats,204,213,MISC,0.9999
+,jewish,254,260,MISC,0.9877
+,democrat,261,269,MISC,0.9058
+,hanukkah,282,290,PER,0.9267
+,london,32,38,LOC,0.9999
+,uk,68,70,LOC,0.9995
+,governorâ€™s office,68,87,ORG,0.934
+,pfizer,17,23,ORG,0.8549
+,bell,51,55,PER,0.9872
+,bell,68,72,PER,0.9998
+,jessica tang,49,61,PER,0.9953
+,republicanâ,129,140,MISC,0.9982
+,ravens,20,26,ORG,0.9987
+,wr dez bryant,34,47,PER,0.8802
+,reserve/covid-19,55,71,MISC,0.8427
+,bc,90,94,LOC,0.9953
+,australia,43,52,LOC,1.0
+,covid,89,94,PER,0.9958
+,us,106,109,LOC,0.9997
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,matt hancock,54,66,PER,0.9997
+,italy,45,50,LOC,1.0
+,nhl,26,29,ORG,0.9995
+,covid,66,71,MISC,0.5779
+,michael,90,97,PER,0.9999
+,richaâ,134,140,PER,0.9313
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,biden,31,36,PER,0.9889
+,super bowl,4,14,MISC,0.9888
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,oklahoma,160,168,LOC,0.9944
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,kary mullinsâ,49,62,PER,0.9944
+,tesla,0,5,ORG,0.9992
+,texas,20,25,LOC,1.0
+,elon,262,266,ORG,0.6078
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,republicans,65,76,MISC,1.0
+,forbes,45,51,ORG,0.9818
+,rep porter,14,24,PER,0.8467
+,mcconnell,40,49,PER,0.9999
+,fda,44,47,ORG,1.0
+,pfizer,63,69,ORG,0.9996
+,covid,72,77,MISC,0.9759
+,venezuela,70,79,LOC,0.9999
+,maduro,102,108,PER,0.9997
+,eu,14,16,ORG,1.0
+,senator,52,59,MISC,0.9708
+,kelly loeffler,61,75,PER,0.9031
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,cdc,21,24,ORG,1.0
+,trumpâ€™,102,110,ORG,0.5181
+,florida,16,23,LOC,0.9999
+,portland,93,101,LOC,0.9985
+,us,28,32,LOC,0.9996
+,covid,281,286,PER,0.8266
+,covid,96,101,PER,0.6843
+,senate,43,49,ORG,1.0
+,mitch,121,126,PER,0.9999
+,great britain,40,53,LOC,0.9913
+,eu,66,68,ORG,1.0
+,covid,91,96,MISC,0.8374
+,european,104,112,MISC,0.9928
+,britoâ,134,140,MISC,0.7785
+,virginia,13,21,LOC,1.0
+,americans,41,50,MISC,0.9999
+,fred,58,62,PER,0.9441
+,bbcqt,66,71,ORG,0.915
+,brexit,92,98,ORG,0.7244
+,covid,108,113,MISC,0.68
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,washington dc,46,59,LOC,0.9501
+,congress,92,100,ORG,0.9995
+,americans,91,100,MISC,0.9975
+,cs,158,160,ORG,0.5342
+,xensights,0,9,ORG,0.8918
+,susan rice,30,40,PER,0.9998
+,americaâ,64,72,MISC,0.984
+,covid-19,46,54,MISC,0.8053
+,afr,0,3,ORG,0.5299
+,hamilton corner,10,25,ORG,0.735
+,african,85,92,MISC,0.8894
+,biden transition,29,45,ORG,0.8807
+,fda,90,93,ORG,1.0
+,us,38,40,LOC,0.8301
+,fda,41,44,ORG,0.9999
+,fda,26,29,ORG,0.9996
+,pfizer,105,111,ORG,0.4932
+,onthecoastcbc margaret,1,23,ORG,0.9252
+,pfizer,167,173,ORG,0.9929
+,mcconnell,26,35,PER,0.9998
+,civil rights,52,64,ORG,0.619
+,lancaster,63,72,LOC,1.0
+,covid-19,94,102,MISC,0.8492
+,public health agencâ,120,140,ORG,0.9761
+,jeremeyâ,52,60,LOC,0.953
+,senate,62,68,ORG,1.0
+,kentucky,124,132,LOC,0.9811
+,republicans,99,110,MISC,1.0
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,covid-19,94,102,MISC,0.8712
+,covid-19,34,42,MISC,0.7173
+,charleswood care centre,183,206,LOC,0.9738
+,margaret keenan,14,29,PER,0.9989
+,enniskillen,43,54,LOC,0.9996
+,coventry,69,77,LOC,0.9996
+,covid,116,121,MISC,0.9548
+,london,102,108,LOC,1.0
+,brexit,109,115,MISC,0.9618
+,covid,194,199,MISC,0.6626
+,italy,29,34,LOC,1.0
+,florida,39,46,LOC,0.9999
+,kizzmekia corbett,28,45,PER,0.8005
+,national institutes of health,87,116,ORG,0.9991
+,matthancock,38,49,ORG,0.7199
+,johnson,21,28,PER,0.9997
+,rip united kingdom,183,201,LOC,0.9162
+,nhl,8,11,ORG,1.0
+,australian,116,126,MISC,0.7328
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,healthcare solutions network,17,45,ORG,0.8098
+,fiona apple,39,50,PER,0.988
+,fda,0,3,ORG,1.0
+,pfizer,31,37,ORG,0.5533
+,lewis hamilton,18,32,PER,0.9997
+,abu dhabi,46,55,LOC,0.9999
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,georebekah,51,61,PER,0.9716
+,florida,94,101,LOC,0.9995
+,ron desantis,111,123,PER,0.9991
+,pfizer,190,196,ORG,0.8777
+,covid,37,42,MISC,0.8728
+,indiancountry,88,101,MISC,0.834
+,cherokeenation,184,198,MISC,0.8834
+,maskup,237,243,ORG,0.9872
+,blueâ,135,140,ORG,0.6624
+,aids,14,18,MISC,0.9647
+,freddie mercury,59,74,PER,0.9042
+,rock hudson,79,90,PER,0.8934
+,darth vader,153,164,PER,0.9135
+,david prowse,166,178,PER,0.9992
+,covid,189,194,PER,1.0
+,a clockwork orange,236,254,MISC,0.8771
+,pfizer,0,6,ORG,0.9939
+,biontech receive fda advisory committee,16,55,ORG,0.5764
+,us,154,158,LOC,0.9981
+,canadian,20,28,MISC,0.9997
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,wheeler,8,15,PER,0.8036
+,ryanmarino,1,11,PER,0.3462
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,martin,0,6,PER,1.0
+,houston,62,69,LOC,0.8935
+,trump,70,75,PER,1.0
+,covid,107,112,PER,0.9989
+,ohio,62,66,LOC,1.0
+,covid-19,96,104,MISC,0.9997
+,newsom,39,45,PER,0.9987
+,covid19,255,262,MISC,0.9125
+,georgia,21,28,LOC,0.9998
+,soozie tyrell,88,101,PER,0.9994
+,trump,21,26,ORG,0.4619
+,pfizer,85,91,ORG,0.9994
+,us,100,104,LOC,0.9999
+,peterock cancer,1,16,ORG,0.6907
+,hiv,93,96,MISC,0.8935
+,aids,97,101,MISC,0.9873
+,live action marvel,124,142,MISC,0.7024
+,covid,189,194,PER,0.9811
+,erin oâ,32,39,PER,0.9717
+,toole,41,46,PER,0.9656
+,conservative,70,82,MISC,0.5948
+,presâ,141,146,ORG,0.8131
+,us corp,5,12,ORG,0.6797
+,pfizer covid-19,156,171,MISC,0.9128
+,uk,181,183,LOC,0.9995
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,goldman sachs,23,36,ORG,0.994
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.5279
+,dick hinch,27,37,PER,0.9976
+,republican-led,57,71,MISC,0.9999
+,house of representatives,72,96,ORG,0.9738
+,new hampshire,100,113,LOC,0.9988
+,leslie jones,86,98,PER,0.9996
+,"""americansâ""",129,140,ORG,0.4847
+,god,30,33,PER,0.9995
+,matthancock,61,72,PER,0.964
+,london,106,112,LOC,1.0
+,mitch mcconnell,17,32,PER,0.9997
+,senate,83,89,ORG,0.9999
+,georgia,98,105,LOC,1.0
+,nfl,4,7,ORG,1.0
+,covid,47,52,ORG,0.7952
+,nba,69,72,ORG,0.9997
+,us,53,55,LOC,0.9999
+,bc centre for disease controlâ,116,146,ORG,0.939
+,spc,25,28,ORG,1.0
+,adnoc,39,44,ORG,1.0
+,covid-19,86,94,MISC,0.8978
+,covid,24,29,PER,0.9786
+,cdc,150,153,ORG,0.9996
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,rudygiuliani rudy,1,18,PER,0.9909
+,american,106,114,MISC,0.9624
+,donald trumpâ,228,241,PER,0.9638
+,americans,268,277,MISC,0.9893
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,biden transition,29,45,ORG,0.8807
+,fda,90,93,ORG,1.0
+,msnbc,1,6,ORG,0.5438
+,covid,51,56,PER,0.4593
+,god,63,66,PER,1.0
+,trump,81,86,PER,0.9995
+,fox marvel,44,54,MISC,0.604
+,mcu,79,82,ORG,0.9601
+,petsmart,79,87,LOC,0.5902
+,brook,91,96,LOC,0.8938
+,glen allen,105,115,LOC,0.9822
+,joshua rollins,35,49,PER,0.9987
+,covid,54,59,PER,0.9881
+,americans,61,70,MISC,0.9988
+,sam bright,39,49,PER,0.9922
+,byline,54,60,PER,0.9958
+,hancockâ,62,70,ORG,0.4499
+,trump,18,23,ORG,0.6404
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,mitch mcconnellâ,17,33,PER,0.7526
+,covid-19,22,30,MISC,0.8272
+,washington,18,28,LOC,0.9984
+,us,37,39,LOC,0.9948
+,pfizer covid-19,55,70,MISC,0.6283
+,washington dc,46,59,LOC,0.9501
+,congress,92,100,ORG,0.9995
+,the estate,36,46,LOC,0.6869
+,reddit,113,119,ORG,0.327
+,covid,50,55,ORG,0.9206
+,realdonaldtrump,58,73,ORG,0.5277
+,hanukkah,90,98,LOC,0.4506
+,wh,112,114,LOC,0.6895
+,seth greenberg,0,14,PER,0.9997
+,duke,36,40,ORG,0.2744
+,mike krzyzewski,52,67,PER,0.9999
+,washington,18,28,LOC,0.9984
+,us,37,39,LOC,0.9948
+,pfizer covid-19,55,70,MISC,0.6283
+,mitchbetterhavemymoney,58,80,ORG,0.9871
+,mitch mcconnell,102,117,PER,0.9994
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,california eyes firm,0,20,ORG,0.984
+,loeffler,132,140,PER,1.0
+,blackpink,0,9,PER,0.9987
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,american,56,64,MISC,0.9955
+,us,134,136,LOC,0.9999
+,covid,135,140,MISC,0.3881
+,asians,157,163,MISC,0.9998
+,us,242,244,LOC,0.9999
+,uk,249,251,LOC,0.9999
+,guinea,279,285,LOC,1.0
+,greenislandfc,94,107,ORG,0.7573
+,milâ,150,154,LOC,0.7534
+,italy,45,50,LOC,1.0
+,us,26,28,LOC,0.8284
+,us,13,15,LOC,0.9996
+,covid,66,71,MISC,0.8451
+,wearamask,118,127,ORG,0.3607
+,palantir,97,105,ORG,0.7115
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,covid,48,53,ORG,0.5155
+,covid-19,57,65,MISC,0.8726
+,medicaid,89,97,MISC,0.8546
+,mcconnell,66,75,PER,0.9992
+,tyra,36,40,PER,0.847
+,mcrib,82,87,ORG,0.4974
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,duke,19,23,ORG,0.8486
+,airway heights,24,38,LOC,0.6915
+,danrather leadership,1,21,ORG,0.6839
+,kizzyphd corbett,42,58,PER,0.8159
+,ron desantis,46,58,PER,0.9668
+,floridians,85,95,MISC,0.9992
+,covid,117,122,PER,0.9975
+,genoveva islas,71,85,PER,0.6041
+,kay burley,165,175,PER,0.9981
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,americans,61,70,MISC,0.9988
+,covid-19,84,92,MISC,0.9083
+,fda,22,28,ORG,0.9946
+,new,63,66,ORG,0.6906
+,matt hancock,36,48,PER,0.9999
+,chris whitty,101,113,PER,0.9999
+,steve powis  the health secâ,118,146,ORG,0.867
+,pelosi,113,119,PER,0.9976
+,detention watch network,30,53,ORG,0.9862
+,iceâ€™,60,66,ORG,0.4264
+,covid,101,106,MISC,0.7534
+,indian,25,31,MISC,0.9994
+,canada,72,78,LOC,1.0
+,covid,110,115,MISC,0.8961
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,mitch mcconnell,79,94,PER,0.9979
+,republicans,33,44,MISC,1.0
+,americans,94,103,MISC,0.9998
+,matthancock,38,49,ORG,0.7199
+,chris hayes,20,31,PER,0.9997
+,america,50,57,LOC,0.9999
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,us,57,59,LOC,0.6117
+,pfizerâ€™,96,105,MISC,0.6433
+,fda,0,3,ORG,0.9999
+,pfizer,16,22,ORG,0.9998
+,covid-19,25,33,MISC,0.9828
+,us,63,65,LOC,0.9974
+,fda,86,89,ORG,1.0
+,abrar al-heeti &amp,149,168,ORG,0.9342
+,new hampshire house,0,19,ORG,0.9453
+,newsom,39,45,PER,0.9987
+,steven,0,6,PER,0.9994
+,covid-19,16,24,MISC,0.827
+,mu healthcare,85,98,ORG,0.9171
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,covid-1â,132,140,MISC,0.9649
+,stockholm,94,103,LOC,1.0
+,swedish,125,132,MISC,1.0
+,k what,50,57,PER,0.9124
+,roy williams,191,203,PER,0.9997
+,pfizerâ€™,13,22,ORG,0.5688
+,fda,76,79,ORG,1.0
+,us,105,107,LOC,1.0
+,barcelona zoo,57,70,ORG,0.6318
+,covid-19,96,104,MISC,0.9761
+,trump,119,124,PER,0.9979
+,fda vaccine and related biological products advisory committee,20,82,ORG,0.9195
+,vrbpac,84,90,ORG,0.9993
+,covid-19,32,40,MISC,0.8827
+,sxsw,17,21,ORG,0.499
+,us,79,83,LOC,0.9997
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,florida,31,38,LOC,0.9931
+,kay burley,51,61,PER,0.9983
+,sky news,63,71,ORG,0.9798
+,trump,21,26,ORG,0.4619
+,pfizer,85,91,ORG,0.9994
+,us,100,104,LOC,0.9999
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,covid,76,81,MISC,0.7167
+,us,106,109,LOC,0.9997
+,white house,90,101,LOC,0.9983
+,austin,30,36,LOC,0.936
+,ugur sahin,64,74,PER,0.8925
+,pfizer covid,116,128,MISC,0.8711
+,bbc news,40,48,ORG,0.8863
+,covid-19,69,77,MISC,0.743
+,covid,108,113,ORG,0.6461
+,trumpublicansâ,126,140,ORG,0.8588
+,yourmandevine,81,94,ORG,0.9795
+,bc,57,61,LOC,0.8509
+,americans,26,35,MISC,0.9992
+,americans,124,133,MISC,0.9997
+,us,27,29,LOC,0.9476
+,fda,30,33,ORG,0.9996
+,pfizer-biontech covid-19,73,97,MISC,0.9323
+,noeddy cancelled,4,20,PER,0.8748
+,pfizer,34,40,ORG,0.4386
+,bears,19,24,ORG,0.8921
+,covid,69,74,PER,0.9474
+,ncaa,128,132,ORG,0.9999
+,us,19,21,LOC,0.9999
+,hempstead,5,14,LOC,0.9996
+,fda,51,54,ORG,1.0
+,pfizerâ€™,83,92,MISC,0.7086
+,virginia,13,21,LOC,1.0
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,seth greenberg,15,29,PER,0.9998
+,duke,51,55,ORG,0.2612
+,mike krzyzewski,67,82,PER,0.9999
+,marianne,56,64,PER,0.5449
+,kingman,83,90,LOC,0.9904
+,ariz,92,97,LOC,0.9995
+,usa,166,169,LOC,0.9981
+,god,18,21,PER,0.7044
+,ellen,37,42,PER,0.9999
+,easyjet,124,131,ORG,0.4791
+,std,61,64,MISC,0.6803
+,americans,37,46,MISC,0.9989
+,mayo clinic,86,97,LOC,0.9236
+,hdsb,43,47,ORG,0.5444
+,america,8,15,LOC,0.9816
+,america,86,93,LOC,0.9995
+,ga,71,73,LOC,0.9705
+,covid,96,101,ORG,0.9681
+,fox news,62,70,ORG,0.9663
+,us,0,4,LOC,0.8525
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,pittsburgh,4,14,LOC,0.9966
+,covid-19,48,56,MISC,0.9706
+,border wall,35,46,MISC,0.9651
+,donald trump,100,112,PER,0.9996
+,americans,186,195,MISC,0.9998
+,congress,100,108,ORG,0.9989
+,biden,21,26,PER,1.0
+,oregon-washington,32,49,LOC,0.925
+,uw,71,73,LOC,0.4616
+,yal,0,3,PER,0.8709
+,icu,81,84,ORG,0.5634
+,washington,97,107,LOC,0.9994
+,indiancountry,108,121,MISC,0.8177
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,republican,53,63,MISC,0.9998
+,house,64,69,ORG,0.9831
+,joe,0,3,PER,0.6254
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,covid-19,97,105,MISC,0.8425
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,cn centre,38,47,LOC,0.7038
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,washington dc,46,59,LOC,0.9501
+,congress,92,100,ORG,0.9995
+,krzyzewski,62,72,PER,0.9999
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,texas,20,25,LOC,0.9999
+,petsmart,79,87,LOC,0.5902
+,brook,91,96,LOC,0.8938
+,glen allen,105,115,LOC,0.9822
+,s l,78,83,PER,0.6919
+,mkraju peloso,27,40,ORG,0.8995
+,mcconnell,101,110,PER,1.0
+,mfs,0,3,ORG,0.907
+,covid,39,44,MISC,0.643
+,nfl,78,81,ORG,0.9997
+,trump,18,23,ORG,0.6404
+,david williams,32,46,PER,0.9998
+,ontarioâ,48,56,LOC,0.4669
+,adalsteinn brown,97,113,PER,0.9998
+,dean,115,119,PER,0.4568
+,dalla lana schâ,127,142,ORG,0.6049
+,fda advisory committee,30,52,ORG,0.7982
+,fda,72,75,ORG,0.9995
+,pfizer covid-19,89,104,MISC,0.9369
+,fda,120,123,ORG,1.0
+,african american,117,133,MISC,0.8602
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,kju,124,127,ORG,0.9828
+,putin,132,137,PER,0.9614
+,aca,242,245,ORG,0.8705
+,us,272,274,LOC,0.9998
+,mass,287,291,LOC,0.5927
+,matthancock,56,67,PER,0.8289
+,london,112,118,LOC,1.0
+,rudy g,5,12,PER,0.9864
+,americans,47,56,MISC,0.9953
+,democratic underground,74,96,ORG,0.956
+,cdc,21,24,ORG,1.0
+,trumpâ€™,102,110,ORG,0.5181
+,america,157,164,LOC,0.9999
+,nhs,29,32,ORG,0.9577
+,nhsâ,136,140,ORG,0.7191
+,federal liberal government,64,90,ORG,0.9843
+,us,31,33,LOC,0.9995
+,covid,84,89,MISC,0.8168
+,native american,19,34,MISC,0.7986
+,dem,198,201,MISC,1.0
+,trump,315,320,PER,0.9996
+,us,40,42,LOC,1.0
+,americans,29,38,MISC,0.9781
+,united states of america,69,93,LOC,0.7969
+,usa,95,101,LOC,0.9989
+,pfizerâ€™,13,22,ORG,0.5688
+,fda,76,79,ORG,1.0
+,target,32,38,ORG,0.8556
+,seattle,79,86,LOC,0.9999
+,biden white house,21,38,ORG,0.8488
+,great britain,40,53,LOC,0.9913
+,eu,66,68,ORG,1.0
+,covid,91,96,MISC,0.8374
+,european,104,112,MISC,0.9928
+,britoâ,134,140,MISC,0.7785
+,borisjohnson,1,13,PER,0.9951
+,french,142,148,MISC,1.0
+,french,164,170,MISC,0.9998
+,germans,210,217,MISC,0.9989
+,scott perry,32,43,PER,0.9998
+,enzc,44,48,ORG,0.9246
+,alecguinness,115,127,ORG,0.6283
+,themanâ,131,138,LOC,0.9876
+,cdc,0,3,ORG,1.0
+,us,14,16,LOC,0.9911
+,dr trump,122,130,ORG,0.5362
+,republicans,139,150,MISC,0.9997
+,covid-19,82,90,ORG,0.3725
+,msm,30,33,ORG,0.5084
+,georebekah,51,61,PER,0.9716
+,florida,94,101,LOC,0.9995
+,ron desantis,111,123,PER,0.9991
+,covid,133,138,PER,0.9658
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,us,31,33,LOC,0.9995
+,covid,84,89,MISC,0.8168
+,bc gender equality report,13,38,MISC,0.7779
+,ellen degeneres,17,32,PER,0.9991
+,fda,32,35,ORG,1.0
+,pfizer covid-19,54,69,MISC,0.7913
+,america,98,105,LOC,1.0
+,americans,46,55,MISC,0.9999
+,benghazi,64,72,LOC,1.0
+,maggie,41,47,PER,0.9872
+,nhs,59,62,ORG,0.9287
+,covid-19,96,104,MISC,0.6083
+,new brunswick,26,39,ORG,0.6075
+,wayne curtis (@potterspress,47,74,PER,0.9882
+,stephanie smith,18,33,PER,0.9978
+,levelland,41,50,LOC,0.9999
+,texas,52,57,LOC,0.9999
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,rudy giuliani,0,13,PER,0.9905
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,pfizer,17,23,ORG,0.8549
+,bell,51,55,PER,0.9872
+,bell,68,72,PER,0.9998
+,mitch mcconnell,79,94,PER,0.9979
+,ndc,19,22,ORG,0.9987
+,akufo-addo,65,75,ORG,0.8751
+,reuters,1,8,ORG,0.9798
+,trump,7,12,PER,0.6828
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,port-harcourt,51,64,LOC,0.7321
+,ff,11,13,ORG,0.5851
+,cmc,27,30,ORG,1.0
+,panthers,42,50,ORG,1.0
+,mixon,55,60,PER,0.9975
+,steelers,100,108,ORG,0.9988
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,gerhard mueller,48,63,PER,0.9984
+,eminence,82,90,MISC,0.5699
+,fda,7,10,ORG,0.9925
+,pfizer,40,46,ORG,0.993
+,indian,7,13,MISC,0.8828
+,exxon,14,19,ORG,0.9995
+,australian,116,126,MISC,0.7328
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,governorâ€™s office,68,87,ORG,0.934
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,lewis hamilton,18,32,PER,0.9997
+,abu dhabi,46,55,LOC,0.9999
+,wheeler,8,15,PER,0.8036
+,un,25,28,ORG,0.9902
+,world food program,30,48,ORG,0.8722
+,nobel peace prize,61,78,MISC,0.9989
+,rome,111,115,LOC,1.0
+,oslo,131,135,LOC,1.0
+,covid,115,120,ORG,0.5435
+,uk,167,169,LOC,0.9999
+,fda,7,10,ORG,0.9909
+,pfizer,40,46,ORG,0.9944
+,british muslim,112,126,MISC,0.8927
+,american,35,43,MISC,0.9639
+,us district court,54,73,ORG,0.8639
+,tim walz,94,102,PER,0.9999
+,americans,41,50,MISC,0.9999
+,us,23,25,LOC,0.5828
+,fda vaccines and related biological products advisory committee,26,89,ORG,0.9157
+,vbpac,91,96,ORG,0.7421
+,barcelona zoo,57,70,ORG,0.6414
+,covid-19,96,104,MISC,0.9729
+,us,1,3,LOC,0.9178
+,pfizerâ€™,40,49,MISC,0.6842
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,georgians,39,48,MISC,0.9999
+,covid-19,63,71,MISC,0.7063
+,fda,21,24,ORG,0.9997
+,pfizer/biontech,49,64,ORG,0.6425
+,israel,18,24,LOC,1.0
+,eu,64,66,ORG,0.9999
+,palestinians,91,103,MISC,0.9665
+,democrats,16,25,MISC,0.9945
+,covid-19,44,52,MISC,0.9443
+,champaign,28,37,LOC,0.9047
+,shadowlands,62,73,LOC,0.5937
+,covidiots,38,47,ORG,0.3912
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,carol,85,90,PER,0.9159
+,florida,13,20,LOC,0.9895
+,msu,20,23,ORG,0.9925
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,covid-19,24,32,MISC,0.6627
+,englandâ,95,103,LOC,0.9978
+,rochesterâ,133,143,LOC,0.9339
+,us,31,33,LOC,0.9995
+,covid,84,89,MISC,0.8168
+,masterton,13,22,LOC,0.9993
+,wairarapa,63,72,LOC,0.9885
+,maryland,27,35,LOC,1.0
+,fda,0,3,ORG,0.8957
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,yea james,24,33,PER,0.8782
+,republican party,21,37,ORG,0.9612
+,donald trump,91,103,PER,0.9962
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,us,37,39,LOC,0.9999
+,world trade center,101,119,LOC,0.6373
+,usairforce,5,15,ORG,0.8339
+,next generation air dominance,62,91,MISC,0.649
+,covid-19,149,157,MISC,0.9886
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,fauci,20,25,PER,0.7725
+,gop house,20,29,ORG,0.7881
+,dick hinch,43,53,PER,0.9895
+,gop,91,94,MISC,0.9917
+,new hampshire,110,123,LOC,0.9988
+,us,21,23,LOC,0.9719
+,pfizer covid-19,39,54,MISC,0.735
+,fda,80,83,ORG,1.0
+,pfizerâ€™,105,114,MISC,0.488
+,ex-florida covid-19,48,67,MISC,0.9473
+,rebekah jones,83,96,PER,0.9994
+,fda,26,29,ORG,0.9996
+,pfizer,105,111,ORG,0.4932
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,britain,114,121,LOC,0.9824
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,covid-19,30,38,MISC,0.5447
+,us,57,59,LOC,0.9999
+,rep,81,85,MISC,0.7258
+,neal,86,90,PER,0.9999
+,covid,68,73,PER,0.9947
+,riccardi,0,8,PER,0.9999
+,covid,65,70,ORG,0.6302
+,covid,105,110,MISC,0.8638
+,trump,18,23,ORG,0.6404
+,florida,39,46,LOC,0.9999
+,bill 218,51,59,MISC,0.7319
+,ford,65,69,ORG,0.9888
+,trump,39,44,PER,1.0
+,republicans,53,64,MISC,1.0
+,god,192,195,PER,0.9972
+,newsom,39,45,PER,0.9987
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,trump,18,23,ORG,0.6404
+,nz,58,60,LOC,0.9986
+,united states,98,111,LOC,0.9999
+,us,0,2,LOC,0.9505
+,pfizerâ€™,39,48,MISC,0.7558
+,good,189,193,PER,0.6662
+,democratic,331,341,MISC,1.0
+,australia,84,93,LOC,1.0
+,covid,111,116,MISC,0.9851
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,trump,18,23,ORG,0.6404
+,republicanâ,129,140,MISC,0.9982
+,us,60,64,LOC,0.9996
+,covid-19,106,114,MISC,0.6432
+,adair county,0,12,ORG,0.6401
+,covid-19,36,44,MISC,0.8465
+,petsmart,79,87,LOC,0.5902
+,brook,91,96,LOC,0.8938
+,glen allen,105,115,LOC,0.9822
+,pueblo office,0,13,ORG,0.94
+,covid-19,28,36,MISC,0.8313
+,covid-19,71,79,MISC,0.9574
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,pfizerâ€™,0,9,ORG,0.4533
+,scotland,38,46,LOC,1.0
+,covid,81,86,PER,0.4499
+,sarklor,1,8,PER,0.9893
+,biden,18,23,PER,0.9999
+,covid-19,89,97,MISC,0.9614
+,jill,99,103,PER,0.9999
+,tennessee,54,63,LOC,0.9998
+,italy,18,23,LOC,0.9999
+,covid-19,59,67,MISC,0.9076
+,italyâ,134,140,LOC,0.8608
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,nueces county,18,31,ORG,0.612
+,covid,105,110,ORG,0.6412
+,rte,21,24,ORG,0.9918
+,christ,100,106,PER,0.9068
+,us,33,37,LOC,0.9996
+,tangerine goblin-in-châ,117,140,MISC,0.8078
+,pelosi,0,6,PER,1.0
+,mcconnell,8,17,PER,0.9999
+,american,61,69,MISC,0.9931
+,trump,3,8,PER,0.9979
+,joe biden covid,19,34,PER,0.9742
+,biden,63,68,PER,1.0
+,rudy,91,95,PER,0.9974
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,albertans,88,97,MISC,0.8586
+,nhl,65,68,ORG,0.9968
+,rudy,65,69,PER,0.9998
+,donnie,74,80,PER,0.9999
+,jr,85,88,PER,0.8412
+,washington dc,46,59,LOC,0.9501
+,congress,92,100,ORG,0.9995
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,gop,14,17,MISC,0.8103
+,icu,128,131,ORG,0.9122
+,joanne,112,118,PER,0.9994
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,stephanie ruhle,8,23,PER,0.7673
+,msnbc,27,32,ORG,0.9997
+,berniesanders,61,74,PER,0.8716
+,americans,93,102,MISC,0.9998
+,coronagate,263,273,MISC,0.981
+,house dems,28,38,ORG,0.7203
+,mcconnell,83,92,PER,1.0
+,governorâ€™s office,68,87,ORG,0.934
+,michaelrosenyes,102,117,PER,0.8468
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,chris hayes,20,31,PER,0.9997
+,america,50,57,LOC,0.9999
+,bonnie henry,69,81,PER,0.9963
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,btainsights &amp,23,39,ORG,0.7241
+,costco,41,47,ORG,0.993
+,bermuda,258,265,LOC,0.8587
+,bronx,99,104,LOC,0.999
+,marvel,213,219,ORG,0.989
+,new hampshire house,16,35,ORG,0.7013
+,graham,1,7,PER,0.9895
+,couch,8,13,PER,0.9918
+,nhl,22,25,ORG,1.0
+,nhl,74,77,ORG,0.9999
+,healthytexas,41,53,MISC,0.7717
+,texas,116,121,LOC,1.0
+,covid-19,57,65,MISC,0.8726
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,stimuluschecks,17,31,ORG,0.7065
+,covid,94,99,MISC,0.876
+,republican,140,150,MISC,0.9999
+,democrat,182,190,MISC,0.9996
+,dems,197,201,MISC,0.9898
+,workingclass,212,224,ORG,0.6918
+,middleclass americans,229,250,MISC,0.8072
+,gop,256,259,MISC,0.838
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,apache attack helicopter,71,95,ORG,0.6151
+,eu,49,51,ORG,0.9999
+,pakistan,20,28,LOC,1.0
+,afghanistan,89,100,LOC,1.0
+,washington,110,120,LOC,0.976
+,cdc,142,145,ORG,0.9994
+,pac12,150,155,ORG,0.5528
+,american,155,163,MISC,0.9996
+,presâ,141,146,ORG,0.8131
+,biden,17,22,PER,1.0
+,covid-19,57,65,MISC,0.9206
+,amyklobuchar,1,13,PER,0.8875
+,republican party,18,34,ORG,0.9363
+,covid-19,62,70,MISC,0.9965
+,gop,232,235,MISC,0.9981
+,trump,247,252,PER,0.9999
+,covid,86,91,MISC,0.7474
+,ellen,69,74,PER,0.9933
+,hyundai,137,144,ORG,0.9995
+,best buy,157,165,ORG,0.979
+,smh,239,242,ORG,0.5512
+,kelly,244,249,PER,1.0
+,drew,254,258,PER,1.0
+,adh,23,26,ORG,0.9471
+,russell maroon,70,84,PER,0.6946
+,maroon,93,99,PER,0.93
+,covid,45,50,MISC,0.6519
+,trump,58,63,PER,0.8762
+,us,80,82,LOC,0.9971
+,covid,0,5,ORG,0.6273
+,cambridge university,98,118,ORG,0.9897
+,covid-19,69,77,MISC,0.743
+,bc,66,68,ORG,0.3991
+,covid,94,99,MISC,0.5578
+,south dakotans,25,39,MISC,0.9798
+,covid,67,72,MISC,0.4998
+,stunning,74,82,PER,0.7537
+,gop house,20,29,ORG,0.7881
+,dick hinch,43,53,PER,0.9895
+,gop,91,94,MISC,0.9917
+,new hampshire,110,123,LOC,0.9988
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,irs,75,78,ORG,0.9999
+,covid,114,119,MISC,0.6301
+,bc,201,203,LOC,0.6399
+,bc,257,259,ORG,0.4196
+,ltc,299,302,ORG,0.9267
+,kriti sanon,83,94,PER,0.9952
+,ohio,62,66,LOC,1.0
+,covid-19,96,104,MISC,0.9997
+,maryland,27,35,LOC,1.0
+,democrats,0,9,MISC,0.9999
+,gop,56,59,MISC,0.4187
+,covid,142,147,MISC,0.6311
+,americans,201,210,MISC,0.9756
+,gop,225,228,MISC,0.9985
+,canada,77,83,LOC,1.0
+,aoc,13,16,ORG,0.9739
+,american,60,68,MISC,0.9227
+,democrats,161,170,MISC,0.9995
+,prisonplanet france,1,20,ORG,0.9068
+,americans,35,44,MISC,0.9997
+,americans,75,84,MISC,0.9996
+,americans,115,124,MISC,0.9996
+,americans,165,174,MISC,0.9995
+,americans,214,223,MISC,0.9998
+,waterloo region,21,36,ORG,0.8417
+,msm,96,99,ORG,0.6133
+,fda,23,26,ORG,0.9999
+,pfizer,68,74,ORG,0.9988
+,covid-19,77,85,MISC,0.8784
+,us,101,105,LOC,0.9999
+,ap,108,110,ORG,0.5164
+,ugur sahin,64,74,PER,0.8925
+,pfizer covid,116,128,MISC,0.8711
+,britons,57,64,MISC,0.9996
+,cdc,19,22,ORG,0.9915
+,republicans,75,86,MISC,1.0
+,stephanie ruhle,0,15,PER,0.9987
+,msnbc,19,24,ORG,0.9998
+,covid19,29,36,MISC,0.5386
+,berniesanders,53,66,PER,0.9051
+,americans,85,94,MISC,0.9998
+,tulane,0,6,ORG,0.9874
+,nih,45,48,ORG,0.9957
+,louisiana,137,146,LOC,0.9999
+,covid-19,191,199,MISC,0.996
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,dutch congress hunterbidenslaptop,67,100,ORG,0.7706
+,darth plagueis,57,71,PER,0.9697
+,auburn,0,6,ORG,0.9987
+,gus malzahn,9,20,PER,0.9995
+,covid,70,75,MISC,0.997
+,tigers,99,105,ORG,1.0
+,bluetooth,4,13,ORG,0.8636
+,covid-19,105,113,MISC,0.9985
+,american,23,31,MISC,0.9964
+,giuliani,57,65,PER,1.0
+,michigan house,73,87,LOC,0.836
+,louis camilleri,0,15,PER,0.9996
+,ferrari &amp,54,66,ORG,0.7955
+,philip morris,77,90,ORG,0.9542
+,ellen degeneres,10,25,PER,0.9963
+,fox news,0,8,ORG,0.9832
+,us,87,89,LOC,0.9965
+,australian,32,42,MISC,0.9889
+,real housewives,60,75,ORG,0.8204
+,italy,45,50,LOC,1.0
+,trump,21,26,ORG,0.4619
+,pfizer,85,91,ORG,0.9994
+,us,100,104,LOC,0.9999
+,covid,49,54,MISC,0.531
+,covid-19,52,60,MISC,0.813
+,us,31,33,LOC,0.9995
+,covid,84,89,MISC,0.8168
+,bino,4,8,PER,0.6992
+,susan rice,30,40,PER,0.9998
+,americaâ,64,72,MISC,0.984
+,hawaii,74,80,LOC,0.9688
+,fintech zoom,117,129,ORG,0.5768
+,uk,10,14,LOC,0.9817
+,pfizer,78,84,ORG,0.9335
+,americansâ,129,139,MISC,0.9545
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,everytown,7,16,ORG,0.97
+,covid-19,81,89,MISC,0.9933
+,us,169,173,LOC,1.0
+,pornhub,38,45,PER,0.9037
+,amazon,112,118,ORG,0.9888
+,mastercard and visa,164,183,ORG,0.7503
+,florida,31,38,LOC,0.9931
+,quad-cities,40,51,LOC,0.8147
+,ada county,16,26,ORG,0.7969
+,idhw,82,86,ORG,0.9934
+,sxsw,17,21,ORG,0.499
+,covid,63,68,PER,0.7887
+,saturdayâ,0,9,ORG,0.71
+,washington,13,23,PER,0.9599
+,oregon,27,33,LOC,0.9999
+,covid-19,64,72,MISC,0.7058
+,uw,83,85,LOC,0.9538
+,new hampshire,22,35,LOC,0.9698
+,new years eve,75,88,MISC,0.8053
+,gop,31,34,MISC,0.999
+,gulianni,126,134,PER,0.9987
+,trump,139,144,PER,0.9916
+,ri department of health,53,76,ORG,0.998
+,fda,111,114,ORG,0.9931
+,nigerian,31,39,MISC,0.9994
+,covid-19,104,112,MISC,0.9793
+,thank trudeau,0,13,PER,0.9692
+,canadians,31,40,MISC,0.9953
+,trudeau,95,102,PER,0.9996
+,canadians,138,147,MISC,0.8971
+,us,62,64,LOC,0.9986
+,rivers public health department,6,37,ORG,0.9988
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,pacific rim,68,79,LOC,0.9439
+,us,119,121,LOC,0.9999
+,house,120,125,ORG,0.562
+,us,19,21,LOC,0.9988
+,georgians,39,48,MISC,0.9999
+,covid-19,63,71,MISC,0.7063
+,covid-19,94,102,MISC,0.9964
+,black,116,121,MISC,0.6878
+,russell westbrook,19,36,PER,0.9998
+,hou,42,45,ORG,0.9906
+,oklahomans,21,31,MISC,0.738
+,fda,28,31,ORG,0.9999
+,pfizerâ€™,52,61,MISC,0.8349
+,covid-19,40,48,MISC,0.5712
+,american academy of pediatrics,65,95,ORG,0.9843
+,us,34,36,LOC,0.9958
+,pfizer covid,90,102,MISC,0.6639
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,texas,125,130,LOC,1.0
+,games,9,14,MISC,0.9173
+,palmyra,19,26,ORG,0.7593
+,covid-19,49,57,MISC,0.4781
+,girls varsity,130,143,MISC,0.7473
+,covid abyss,17,28,ORG,0.8946
+,fda,53,56,ORG,1.0
+,elon,28,32,ORG,0.9987
+,charleston southern,34,53,LOC,0.864
+,gardner-webb,59,71,LOC,0.9902
+,kentucky,169,177,LOC,0.9983
+,kansas,182,188,LOC,0.9985
+,north carolinians,87,104,MISC,0.9796
+,alice mcgraw,20,32,PER,0.9972
+,lake tahoe,77,87,LOC,0.9989
+,cnn,1,4,ORG,0.4937
+,cdc,21,24,ORG,1.0
+,trumpâ€™,102,110,ORG,0.5181
+,biden,21,26,PER,1.0
+,us,92,94,LOC,0.9997
+,idaho,99,104,LOC,0.9995
+,nancy pelosi,15,27,PER,0.9998
+,covid,60,65,MISC,0.8204
+,biden,12,17,PER,0.4232
+,cdc,0,3,ORG,1.0
+,trumpâ€™,81,89,ORG,0.6288
+,covid,0,5,PER,0.886
+,sephiroth,0,9,PER,0.6406
+,steve,37,42,PER,1.0
+,sephiroth,90,99,PER,0.9977
+,covid,138,143,PER,0.9998
+,lokesh,76,82,PER,0.6693
+,china,46,51,LOC,1.0
+,pediatric icu,86,99,ORG,0.8465
+,americans,40,49,MISC,0.9984
+,trump,81,86,PER,0.9994
+,oregon ducks-washington huskies,0,31,ORG,0.7228
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,kristof,55,62,PER,0.9996
+,exodus cry,116,126,ORG,0.8799
+,trump,45,50,PER,0.9994
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,gallup,54,60,ORG,0.9605
+,"""americans""",94,104,MISC,0.9794
+,covid-19,128,136,MISC,0.8537
+,jewish,9,15,MISC,0.9991
+,canada,35,41,LOC,0.9993
+,hanukkiah,95,104,LOC,0.502
+,hanukkah,130,138,MISC,0.8383
+,ivanka,26,32,PER,0.9633
+,ivanka,158,164,PER,0.9925
+,republican,194,204,MISC,0.9999
+,ivanka,247,253,PER,0.9977
+,tony,148,152,PER,0.9705
+,oxford covid-19,23,38,MISC,0.7898
+,covid,19,24,PER,0.9118
+,matthancock,90,101,PER,0.9998
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,biden transition,29,45,ORG,0.8807
+,fda,90,93,ORG,1.0
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,nh,25,27,LOC,0.6147
+,nh,42,44,LOC,0.3038
+,gop,45,48,MISC,0.431
+,fda,7,10,ORG,1.0
+,cdc,15,18,ORG,1.0
+,italy,45,50,LOC,1.0
+,americans,86,95,MISC,0.97
+,seattle,23,30,LOC,0.9486
+,covid-19,54,62,MISC,0.7229
+,govinslee,116,125,ORG,0.8699
+,fox news,62,70,ORG,0.9663
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,washington,30,40,ORG,0.6714
+,oregon,44,50,LOC,0.9998
+,covid-19,81,89,MISC,0.5891
+,uw,100,102,LOC,0.9514
+,us,62,66,LOC,0.9999
+,fda,102,105,ORG,1.0
+,covid-19,126,134,MISC,0.678
+,south korean,13,25,MISC,0.9992
+,jeonju,68,74,LOC,0.9998
+,giuliani,18,26,PER,1.0
+,south dakota,17,29,LOC,0.8786
+,fda,23,26,ORG,0.9999
+,pfizer,68,74,ORG,0.9988
+,covid-19,77,85,MISC,0.8784
+,us,101,105,LOC,0.9999
+,ap,108,110,ORG,0.5164
+,asian,67,72,MISC,0.8833
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,ben  cline,13,23,PER,0.9833
+,pfizer,17,23,ORG,0.8549
+,bell,51,55,PER,0.9872
+,bell,68,72,PER,0.9998
+,weber state,39,50,LOC,0.8379
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,asian,133,138,MISC,0.9741
+,us panel,0,8,ORG,0.8665
+,pfizer covid-19,36,51,MISC,0.6663
+,ellen degeneres,17,32,PER,0.9991
+,sports news,0,11,MISC,0.7805
+,canada,86,92,LOC,1.0
+,us panel,10,18,ORG,0.652
+,mitch mcconnell,79,94,PER,0.9979
+,us,31,33,LOC,0.9995
+,covid,84,89,MISC,0.8168
+,us,50,52,LOC,0.9995
+,covid-19,87,95,MISC,0.7511
+,house,26,31,ORG,0.9805
+,republican,107,117,MISC,0.9999
+,gop,188,191,MISC,0.9961
+,jessica,29,36,PER,0.9964
+,jessica,55,62,PER,0.9472
+,kaiser,83,89,PER,0.9933
+,oregon,100,106,LOC,0.9999
+,icu,66,69,ORG,0.9873
+,oregon,105,111,LOC,0.9999
+,dmv,51,54,ORG,0.9952
+,dmv,51,54,ORG,0.9952
+,dmv,51,54,ORG,0.9952
+,dmv,51,54,ORG,0.9952
+,virginia,16,24,LOC,0.9998
+,taylor,16,22,PER,0.9684
+,illinois,20,28,LOC,0.9999
+,sophie franklin,58,73,PER,0.998
+,chris evans,20,31,PER,1.0
+,adam mckayâ,60,71,PER,0.9983
+,us,38,40,LOC,0.9759
+,pfizerâ€™,68,77,MISC,0.5953
+,americans,57,66,MISC,0.9991
+,covid-19,33,41,MISC,0.9344
+,republican,107,117,MISC,1.0
+,mitch mcconnell,118,133,PER,0.9998
+,deputy marshals,83,98,ORG,0.8532
+,operationâ€¦,129,141,MISC,0.5047
+,oderin hall,96,107,LOC,0.591
+,thetrinitynl,112,124,LOC,0.6186
+,trenton,52,59,LOC,0.9834
+,john craig,21,31,PER,0.9996
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,fda,33,36,ORG,1.0
+,covid-19,76,84,MISC,0.9709
+,us,100,104,LOC,0.9999
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,cdc,116,119,ORG,0.9996
+,fb,60,62,ORG,0.6487
+,covid,102,107,ORG,0.3464
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,alberta,35,42,LOC,0.9997
+,nba,126,129,ORG,1.0
+,london,23,29,LOC,1.0
+,england,64,71,LOC,1.0
+,kary mullinsâ,49,62,PER,0.9944
+,canada,21,27,LOC,1.0
+,canadian,58,66,MISC,0.9993
+,torontoâ,131,139,LOC,0.9996
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,oderin hall,96,107,LOC,0.591
+,thetrinitynl,112,124,LOC,0.6186
+,trump,18,23,ORG,0.6404
+,red cross,36,45,ORG,0.9979
+,cnn,58,61,ORG,0.9992
+,covid,148,153,ORG,0.4084
+,china,165,170,LOC,1.0
+,fda,40,43,ORG,0.9996
+,vrbpac,44,50,ORG,0.5047
+,eua,62,65,MISC,0.7211
+,pfizer covid-19,74,89,MISC,0.9006
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,god,6,9,PER,0.9906
+,chicago,31,38,LOC,1.0
+,moscowmitch mcconnell,56,77,PER,0.9824
+,darwin,63,69,LOC,0.98
+,fda,36,39,ORG,1.0
+,pfizer,81,87,ORG,0.9993
+,arizonans,22,31,MISC,0.9963
+,yuma,60,64,LOC,0.9954
+,jenbyumanews,102,114,ORG,0.9612
+,barstool,96,104,MISC,0.6497
+,mets,163,167,ORG,0.9097
+,mets,179,183,ORG,0.6571
+,tom chipley,18,29,PER,0.9607
+,mount jackson,37,50,LOC,0.9985
+,virginia,52,60,LOC,0.9998
+,daddy,89,94,PER,0.9828
+,covid,67,72,MISC,0.7585
+,china,21,26,LOC,1.0
+,pfizer,73,79,ORG,0.9959
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,lewis hamilton,15,29,PER,0.9994
+,covid-19,103,111,MISC,0.7759
+,georebekah,51,61,PER,0.9716
+,florida,94,101,LOC,0.9995
+,ron desantis,111,123,PER,0.9991
+,georgians,39,48,MISC,0.9999
+,covid-19,63,71,MISC,0.7063
+,lowell,74,80,LOC,0.9792
+,south dakota,0,12,LOC,0.7541
+,american,43,51,MISC,0.9937
+,democrats,85,94,MISC,0.9999
+,house,102,107,ORG,0.9991
+,senate,111,117,ORG,1.0
+,covid 19,137,145,MISC,0.5722
+,barackobama,1,12,LOC,0.8448
+,kamalaharris,40,52,PER,0.8995
+,blk americans,152,166,MISC,0.7595
+,kennedyhall kennedy,1,20,PER,0.9127
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,cheney,5,11,PER,0.9303
+,pelosi,54,60,PER,1.0
+,covid,76,81,MISC,0.8118
+,covid,121,126,MISC,0.5653
+,rudy giuliani,9,22,PER,0.9999
+,senate,10,16,ORG,1.0
+,sb241,24,29,MISC,0.9664
+,covid-19,89,97,MISC,0.9779
+,human rights day,113,129,MISC,0.7536
+,office of the city clerk,73,97,ORG,0.9797
+,covid-19,156,164,MISC,0.9959
+,karatepe,29,37,LOC,0.9897
+,moria2 lesvos,41,54,LOC,0.8282
+,pfizer,0,6,ORG,0.9709
+,grayson county,22,36,LOC,0.9266
+,covid,60,65,ORG,0.5833
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,spanky,17,23,PER,0.9975
+,pfizer covid,60,72,MISC,0.7762
+,covidâ,43,49,ORG,0.9214
+,malaysian,42,51,MISC,0.9996
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,trump,81,86,PER,0.9994
+,ri,24,26,LOC,0.5579
+,latinx,45,51,MISC,0.8591
+,covid-19,84,92,MISC,0.9435
+,noem posts,5,15,PER,0.761
+,iran,49,53,LOC,1.0
+,iran,72,76,LOC,1.0
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,mkraju peloso,27,40,ORG,0.8995
+,mcconnell,101,110,PER,1.0
+,ohio,62,66,LOC,1.0
+,covid-19,96,104,MISC,0.9997
+,us,13,17,LOC,0.9918
+,trump,18,23,ORG,0.6404
+,gop house,37,46,ORG,0.7844
+,florida,31,38,LOC,0.9931
+,covid,95,100,ORG,0.8094
+,pfizer,17,23,ORG,0.8549
+,bell,51,55,PER,0.9872
+,bell,68,72,PER,0.9998
+,mexicans,47,55,MISC,0.9995
+,drug war,75,83,MISC,0.9858
+,uk,36,38,LOC,0.9971
+,pfizer,94,100,ORG,0.3706
+,south,12,17,LOC,0.5989
+,us,0,2,LOC,0.9509
+,pfizerâ€™,39,48,MISC,0.7469
+,cernovich jonestown trump/gop/media,1,36,ORG,0.8679
+,pfizer,22,28,ORG,0.9998
+,biontech,33,41,ORG,0.9996
+,covid-19,86,94,MISC,0.7361
+,fda,130,133,ORG,1.0
+,pfizerâ€™,61,70,MISC,0.7334
+,florida,39,46,LOC,0.9999
+,verizon,66,73,ORG,0.998
+,saskparty,77,86,MISC,0.5591
+,usa,17,20,LOC,0.6984
+,us,28,30,LOC,0.9981
+,us,31,33,LOC,0.9995
+,covid,84,89,MISC,0.8168
+,biden,21,26,PER,1.0
+,wheeler,8,15,PER,0.8036
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,uw,24,26,ORG,0.9475
+,oregon,30,36,LOC,0.9995
+,pac-12,66,72,ORG,0.6838
+,brandon bernard,19,34,PER,0.9997
+,black,38,43,MISC,0.8284
+,doj,82,85,ORG,0.9928
+,virginia,13,21,LOC,1.0
+,wheeler,8,15,PER,0.8036
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,idaho,63,68,LOC,0.9999
+,pattymurray congress,22,42,ORG,0.7854
+,covid,87,92,MISC,0.7617
+,cincinnati,14,24,ORG,0.4418
+,republicans,33,44,MISC,1.0
+,americans,94,103,MISC,0.9998
+,newsom,39,45,PER,0.9987
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,covid,77,82,PER,0.51
+,americans,46,55,MISC,0.9999
+,benghazi,64,72,LOC,1.0
+,uk,29,31,LOC,0.9999
+,london,46,52,LOC,0.9998
+,"""mfers""",0,6,ORG,0.4649
+,the walking dead,10,26,MISC,0.7025
+,covid,68,73,MISC,0.596
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,us food and drug administration,36,67,ORG,0.9944
+,pfizer-biontech covid-19,111,135,MISC,0.8758
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,claire,5,11,PER,0.9992
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,covid,143,148,MISC,0.6831
+,tom,30,33,PER,0.4994
+,pennsylvania,42,54,LOC,0.9999
+,americans,50,59,MISC,0.9997
+,americans,90,99,MISC,0.9994
+,mitch mcconnell,79,94,PER,0.9979
+,petsmart,79,87,LOC,0.5902
+,brook,91,96,LOC,0.8938
+,glen allen,105,115,LOC,0.9822
+,pfizer,84,90,ORG,0.9998
+,us,311,313,LOC,0.9998
+,covid,319,324,ORG,0.5411
+,trump,0,5,PER,0.9992
+,covid,130,135,PER,0.7775
+,angela marsden,25,39,PER,0.8648
+,pineapple hill saloon and grill,54,85,ORG,0.8055
+,ca,89,91,LOC,0.9879
+,gavin newsom,120,132,PER,0.9926
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,governor-northam,61,77,PER,0.6073
+,trump,166,171,PER,1.0
+,hes,268,271,PER,0.809
+,beda m stadler,156,170,PER,0.903
+,institute for immunology,196,220,ORG,0.9335
+,uni of bern,228,239,ORG,0.9505
+,borisjohnson,44,56,PER,0.9977
+,"""cummings durham""",69,85,ORG,0.7546
+,covid-19,25,33,MISC,0.9633
+,senate,116,122,ORG,0.9866
+,mitch mcconnell,139,154,PER,0.9994
+,republican,160,170,MISC,1.0
+,india,17,22,LOC,0.9995
+,the last american vaâ€¦,123,146,MISC,0.6402
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,us,13,17,LOC,0.9918
+,senate,130,136,ORG,1.0
+,covid 19,102,110,MISC,0.7188
+,pfizerâ€™,94,103,MISC,0.4996
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,criticalrole,23,35,MISC,0.6443
+,laura baileyâ,131,144,PER,0.9511
+,rivers,38,44,LOC,0.5383
+,govwike,61,68,PER,0.8744
+,covid-19,85,93,MISC,0.7877
+,covid,97,102,LOC,0.9624
+,presâ,141,146,ORG,0.8131
+,covid-19,155,163,MISC,0.6759
+,michigan,54,62,LOC,0.9998
+,covid-19,72,80,MISC,0.9993
+,michigan,161,169,LOC,0.9998
+,jocelyn benson,248,262,PER,0.9997
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,biden,0,5,PER,0.9923
+,trump,14,19,PER,1.0
+,covid,47,52,PER,0.8678
+,india,30,35,LOC,1.0
+,trump,36,41,PER,0.802
+,oregon-washington,32,49,LOC,0.925
+,uw,71,73,LOC,0.4616
+,ontario,20,27,LOC,0.9998
+,toronto,103,110,LOC,1.0
+,ottawa,115,121,LOC,1.0
+,china,86,91,LOC,0.947
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,americans,26,35,MISC,0.9992
+,americans,124,133,MISC,0.9997
+,fourth industrial revolution,74,102,MISC,0.9871
+,lethbridge,53,63,LOC,0.9888
+,alberta,126,133,LOC,0.9995
+,taylor swiftâ,35,48,PER,0.7032
+,covid,43,48,PER,0.9913
+,jason kenney,0,12,PER,0.9996
+,calgary,92,99,LOC,0.7739
+,albertans,187,196,MISC,0.6818
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,pennsylvania,10,22,LOC,0.9994
+,twyla tharp,45,56,PER,0.7418
+,bap,48,51,ORG,0.6464
+,biden,18,23,PER,0.9999
+,covid-19,89,97,MISC,0.9614
+,jill,99,103,PER,0.9999
+,americans,91,100,MISC,0.9975
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,democrat,79,87,MISC,1.0
+,covid,144,149,MISC,0.988
+,westmoreland health education unitâ,34,69,ORG,0.9119
+,independence parkâ,124,142,LOC,0.8852
+,trump,81,86,PER,0.9994
+,covid-1â,132,140,MISC,0.9649
+,asian,4,9,MISC,0.9907
+,african american,17,33,MISC,0.8173
+,benwren covid,1,14,ORG,0.8162
+,us,14,16,LOC,0.996
+,johns hopkins,34,47,LOC,0.7296
+,us,58,60,LOC,0.9975
+,puerto ricoâ,15,27,LOC,0.9219
+,giuliani,57,65,PER,1.0
+,michigan house,73,87,LOC,0.836
+,trump,81,86,PER,0.9994
+,wisconsin,56,65,LOC,0.9999
+,covid,102,107,MISC,0.5937
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,msm,30,33,ORG,0.6069
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,gop nh,16,22,ORG,0.7462
+,nh house,72,80,ORG,0.6037
+,covid,90,95,ORG,0.619
+,dc,19,21,ORG,0.8401
+,giuliani,25,33,PER,0.9999
+,michigan house,41,55,LOC,0.7822
+,joe biden,180,189,PER,0.9963
+,covid-19,61,69,ORG,0.5238
+,tx,109,111,LOC,0.5686
+,covid-19,47,55,MISC,0.8388
+,"""the stars""",69,79,ORG,0.7825
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,senatorcantwell congress,22,46,ORG,0.7462
+,covid,91,96,MISC,0.8686
+,nhl,22,25,ORG,1.0
+,nhl,74,77,ORG,0.9999
+,doug,15,19,PER,0.9986
+,six nations,21,32,MISC,0.7379
+,grand river,40,51,LOC,0.8181
+,ugur sahin,64,74,PER,0.8925
+,pfizer covid,116,128,MISC,0.8711
+,georgians,39,48,MISC,0.9999
+,covid-19,63,71,MISC,0.7063
+,fauci,21,26,PER,0.9999
+,covid,98,103,MISC,0.9875
+,kizzyphd,116,124,MISC,0.8437
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,chris hayes,20,31,PER,0.9997
+,america,50,57,LOC,0.9999
+,northern ireland,41,57,LOC,0.7848
+,new covid-19 data futures platform,35,69,MISC,0.8331
+,mfs,0,3,ORG,0.9169
+,covid,39,44,MISC,0.6397
+,nfl,78,81,ORG,1.0
+,pittsburgh,19,29,LOC,0.9999
+,moscow,33,39,LOC,1.0
+,london &amp,41,52,LOC,0.8146
+,sydney,54,60,LOC,0.9999
+,pittsburgh,104,114,LOC,1.0
+,hiv,133,136,MISC,0.5785
+,leonardo dicaprio,39,56,PER,0.8481
+,nigga,0,5,PER,0.2939
+,pfizer,17,23,ORG,0.8549
+,bell,51,55,PER,0.9872
+,bell,68,72,PER,0.9998
+,us,1,3,LOC,0.9148
+,pfizerâ€™,40,49,MISC,0.6914
+,rudy giuliani,99,112,PER,0.9993
+,turkey,25,31,LOC,1.0
+,pennsylvania,0,12,LOC,0.9997
+,penn states,70,81,LOC,0.7218
+,pennsylvania,98,110,LOC,0.9996
+,covid-19,57,65,MISC,0.7495
+,republican party,21,37,ORG,0.9612
+,donald trump,91,103,PER,0.9962
+,muhammad afzal,45,59,PER,0.8902
+,ndma,69,73,ORG,0.9458
+,ndma,92,96,ORG,1.0
+,georgians,39,48,MISC,0.9999
+,covid-19,63,71,MISC,0.7063
+,trump,18,23,ORG,0.6404
+,mitch mcconnelâ,125,140,PER,0.9997
+,covid-19,50,58,MISC,0.5781
+,jason kenney,18,30,PER,0.9992
+,alberta,47,54,LOC,0.9992
+,us,38,40,LOC,0.8301
+,fda,41,44,ORG,0.9999
+,covid-19,69,77,MISC,0.743
+,lewis hamilton,18,32,PER,0.9997
+,abu dhabi,46,55,LOC,0.9999
+,state gop,106,115,ORG,0.8576
+,ag paxton,0,9,ORG,0.9742
+,pres covid trump,39,55,PER,0.9746
+,fbi,69,72,ORG,1.0
+,supreme court,146,159,ORG,0.9953
+,texas,173,178,LOC,0.9996
+,trump,183,188,PER,0.9984
+,biden,201,206,PER,1.0
+,pfizer,52,58,ORG,0.8039
+,covid,47,52,MISC,0.7737
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,"""artists relief fund""",24,44,ORG,0.9176
+,ups,7,10,ORG,0.9998
+,covid 19,31,39,MISC,0.7731
+,us,75,79,LOC,0.9999
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,sxsw,17,21,ORG,0.499
+,american,34,42,MISC,0.999
+,ellen degeneres,17,32,PER,0.9991
+,stitt,19,24,PER,0.9998
+,pelosi,52,58,PER,0.9982
+,democrats,102,111,MISC,0.9524
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,us,47,49,LOC,0.9996
+,bellator,12,20,MISC,0.6556
+,covid,123,128,ORG,0.4717
+,reddit,113,119,ORG,0.327
+,bernie,107,113,PER,0.9993
+,ada county,16,26,ORG,0.7969
+,idhw,82,86,ORG,0.9934
+,america,20,27,LOC,0.9999
+,whoopi,42,48,PER,0.7142
+,bette midler,53,65,PER,0.9272
+,matthancock,90,101,PER,0.9998
+,great britain,19,32,LOC,0.9913
+,eu,45,47,ORG,1.0
+,hiv,66,69,MISC,0.9981
+,us,1,3,LOC,0.922
+,pfizerâ€™,40,49,MISC,0.7027
+,fedex,16,21,ORG,0.8995
+,fda,140,143,ORG,1.0
+,covid-19,148,156,MISC,0.928
+,dealio,42,48,MISC,0.9175
+,the padrino,79,90,MISC,0.8095
+,mitch mcconnelâ,125,140,PER,0.9997
+,kevin,1,6,PER,0.9789
+,mckernan,7,15,PER,0.8845
+,ivermectin,33,43,MISC,0.673
+,covid-19,15,23,MISC,0.8509
+,reddit,113,119,ORG,0.327
+,uk,67,69,LOC,0.5084
+,eu,25,27,ORG,1.0
+,mexicans,47,55,MISC,0.9995
+,drug war,75,83,MISC,0.9858
+,pfizerâ€™,13,22,ORG,0.5688
+,fda,76,79,ORG,1.0
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,barcelona zoo,57,70,ORG,0.6414
+,covid-19,96,104,MISC,0.9729
+,tobago,34,40,LOC,1.0
+,harrisfaulkner harris,1,22,PER,0.7476
+,trump,163,168,PER,0.9999
+,trump,36,41,PER,0.802
+,bbcqt,66,71,ORG,0.915
+,brexit,92,98,ORG,0.7244
+,covid,108,113,MISC,0.68
+,americans,50,59,MISC,0.9997
+,americans,90,99,MISC,0.9994
+,us,31,33,LOC,0.9995
+,covid,84,89,MISC,0.8168
+,pfizer,47,53,ORG,0.7222
+,bell,81,85,PER,0.7847
+,side bell paralysis,249,268,MISC,0.6895
+,biden,17,22,PER,1.0
+,covid-19,57,65,MISC,0.9206
+,covid,142,147,MISC,0.7304
+,arkansas,0,8,LOC,0.9981
+,asa hutchinson,14,28,PER,0.9997
+,covid-19,59,67,MISC,0.9816
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,florida,31,38,LOC,0.9931
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,icu,101,104,ORG,0.9932
+,covid,186,191,MISC,0.3613
+,ipad,226,230,MISC,0.9223
+,pcr,94,97,MISC,0.7296
+,newsom,39,45,PER,0.9987
+,rudy,76,80,PER,0.9998
+,donnie,85,91,PER,0.9999
+,jr,96,99,PER,0.8549
+,josie,12,17,PER,1.0
+,sxsw,17,21,ORG,0.499
+,biden transition,29,45,ORG,0.8807
+,fda,90,93,ORG,1.0
+,pfizer,68,74,ORG,0.8888
+,ugur sahin,94,104,PER,0.9984
+,muslim,133,139,MISC,0.5959
+,blueâ,135,140,ORG,0.6624
+,americaâ,0,8,ORG,0.9225
+,the economist,141,154,ORG,0.8574
+,america,207,214,LOC,0.9999
+,russell westbrook,19,36,PER,0.9998
+,hou,42,45,ORG,0.9906
+,covid-1â,132,140,MISC,0.9649
+,governorva ralph northam,30,54,ORG,0.6918
+,ontario,31,38,LOC,0.9984
+,americans,41,50,MISC,0.9999
+,quaranâ,139,146,PER,0.8113
+,nate oats,37,46,PER,0.9697
+,alabama,50,57,LOC,0.9975
+,nate oats,60,69,PER,0.9952
+,spanish,96,103,MISC,0.9996
+,s korea,27,34,MISC,0.8566
+,americans,57,66,MISC,0.9991
+,washington dc,46,59,LOC,0.9501
+,congress,92,100,ORG,0.9995
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,floridian,23,32,MISC,0.981
+,florida,98,105,LOC,0.9991
+,tom chipley,18,29,PER,0.9607
+,mount jackson,37,50,LOC,0.9985
+,virginia,52,60,LOC,0.9998
+,daddy,89,94,PER,0.9828
+,baddcompani schmidt,33,52,PER,0.728
+,pbs,60,63,ORG,0.7328
+,trump,84,89,PER,0.9994
+,eric,4,8,PER,0.6629
+,doherty,9,16,PER,0.9956
+,wild vancouver,168,182,ORG,0.5396
+,denzel mims,26,37,PER,0.854
+,mayerâ,54,60,ORG,0.8384
+,tiktok,252,258,ORG,0.5262
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,nhl,22,25,ORG,1.0
+,nhl,74,77,ORG,0.9999
+,influenza,79,88,MISC,0.9781
+,andrew,29,35,PER,0.9998
+,covid,140,145,ORG,0.3832
+,sa,68,70,LOC,0.6934
+,trump,18,23,ORG,0.6609
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,trump,81,86,PER,0.9994
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,rudy g,23,30,PER,0.9891
+,americans,65,74,MISC,0.9946
+,democratic underground,92,114,ORG,0.9377
+,camilleri,19,28,PER,1.0
+,ellen degeneres,20,35,PER,0.9973
+,raimondi,6,14,PER,0.4953
+,arielhelwani dana,16,33,PER,0.9146
+,pfizer,46,52,ORG,0.9995
+,covid-19,55,63,MISC,0.9966
+,bell,82,86,PER,0.6143
+,fda,101,104,ORG,1.0
+,cnn cnn,1,8,ORG,0.9196
+,tories,52,58,MISC,0.9218
+,covid,70,75,PER,0.9226
+,brexit,80,86,PER,0.7563
+,oklahoma-west virginia,17,39,LOC,0.8403
+,"""mountaineers""",108,121,LOC,0.5237
+,bigâ€¦,135,141,MISC,0.7217
+,covid,86,91,MISC,0.8133
+,europe,184,190,LOC,0.999
+,petsmart,79,87,LOC,0.5902
+,brook,91,96,LOC,0.8938
+,glen allen,105,115,LOC,0.9822
+,fox news,62,70,ORG,0.9663
+,georgians,39,48,MISC,0.9999
+,covid-19,63,71,MISC,0.7063
+,united states,76,89,LOC,1.0
+,cintas,67,73,ORG,0.6672
+,spirit ii,118,127,ORG,0.5231
+,democrats,31,40,MISC,0.9999
+,americans,47,56,MISC,0.9996
+,democrats,115,124,MISC,1.0
+,americans,32,41,MISC,0.9999
+,biden-harris,118,130,MISC,0.9899
+,aunt,3,7,PER,0.8075
+,covid,70,75,PER,0.6167
+,aunt,242,246,PER,0.9938
+,trump,18,23,ORG,0.6404
+,dem rimos,76,85,PER,0.7779
+,kj seung,13,21,PER,0.9687
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.5279
+,michaelyeadon3,56,70,ORG,0.3769
+,edelgard,19,27,PER,0.9642
+,giuliani,6,14,PER,1.0
+,michigan house,22,36,LOC,0.6635
+,fda,0,3,ORG,1.0
+,pfizer,33,39,ORG,0.9998
+,fda,82,85,ORG,1.0
+,covid-19,150,158,MISC,0.9903
+,us,209,213,LOC,0.9999
+,patriots,32,40,ORG,0.927
+,devin asiasi,60,72,PER,0.9618
+,ryan izzo,98,107,PER,0.9734
+,asâ,137,140,MISC,0.7361
+,americans,58,67,MISC,0.9996
+,iu,11,13,ORG,0.4518
+,scott dolson,17,29,PER,0.9271
+,covid-19,60,68,MISC,0.9566
+,wisconsin,98,107,LOC,0.9961
+,university of queensland &amp,0,29,ORG,0.9002
+,csl,31,34,ORG,0.979
+,abc news,72,80,ORG,0.8537
+,abc news,83,91,ORG,0.9404
+,australia,93,102,LOC,0.9999
+,todd,271,275,PER,0.9994
+,orange county jail,23,41,ORG,0.6087
+,england,34,41,LOC,0.9999
+,wales,46,51,LOC,0.9998
+,germany,68,75,LOC,0.9947
+,jeff gusky,174,184,PER,0.9999
+,helene duhamel,15,29,PER,0.9998
+,monument health,65,80,ORG,0.8227
+,bc gender equality report card,61,91,MISC,0.82
+,us,68,70,LOC,1.0
+,god,76,79,PER,1.0
+,bronx,99,104,LOC,0.999
+,governorâ€™s office,68,87,ORG,0.934
+,1st team all-7aa,61,77,MISC,0.9277
+,capitol lamar alexander @senalexander,7,44,MISC,0.7153
+,covid,87,92,MISC,0.7586
+,american,97,105,MISC,0.9982
+,dammit,136,142,PER,0.9811
+,sarah myruski,67,80,PER,0.9998
+,kristin buss,89,101,PER,0.9998
+,americans,5,14,MISC,0.9998
+,italy,45,50,LOC,1.0
+,ron,17,20,PER,0.8904
+,nations fire,73,85,MISC,0.6319
+,fauci,21,26,PER,0.9999
+,covid,98,103,MISC,0.9875
+,kizzyphd,116,124,MISC,0.8437
+,us,1,3,LOC,0.9192
+,pfizerâ€™,40,49,MISC,0.6998
+,us,1,3,LOC,0.9171
+,pfizerâ€™,40,49,MISC,0.6792
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,australian,116,126,MISC,0.7328
+,indiancountry,108,121,MISC,0.8177
+,ucp,20,23,ORG,1.0
+,alberta,49,56,LOC,0.9991
+,republican party,21,37,ORG,0.9612
+,donald trump,91,103,PER,0.9962
+,trump,18,23,ORG,0.6404
+,uk government,95,108,ORG,0.685
+,cambridge university,98,118,ORG,0.9897
+,republican,79,89,MISC,1.0
+,kelly loeffler,102,116,PER,0.9994
+,david perdue,121,133,PER,0.9998
+,martin,15,21,PER,1.0
+,houston,77,84,LOC,0.9206
+,usfda,0,5,ORG,0.851
+,fox news,62,70,ORG,0.9663
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,netflix,97,104,ORG,0.6845
+,australiaâ,130,140,MISC,0.8926
+,tom chipley,18,29,PER,0.9607
+,mount jackson,37,50,LOC,0.9985
+,virginia,52,60,LOC,0.9998
+,daddy,89,94,PER,0.9828
+,tulsi,26,31,PER,0.9999
+,congress,63,71,ORG,0.9992
+,covid-19,127,135,MISC,0.7922
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,spencer,12,19,PER,0.7477
+,us,98,100,LOC,0.945
+,fda,101,104,ORG,0.9548
+,spanish,66,73,MISC,0.9999
+,florida,39,46,LOC,0.9999
+,cambridge university,98,118,ORG,0.9897
+,black woman,69,80,MISC,0.7158
+,lewis hamilton,15,29,PER,0.9994
+,covid-19,103,111,MISC,0.7759
+,newsom,39,45,PER,0.9987
+,george soros,81,93,PER,0.9985
+,bilâ,138,142,ORG,0.2882
+,ri,24,26,LOC,0.5579
+,latinx,45,51,MISC,0.8591
+,covid-19,84,92,MISC,0.9435
+,cdc,19,22,ORG,0.9997
+,us,33,35,LOC,0.9973
+,cuomo,187,192,PER,0.7125
+,elijah,163,169,PER,0.9959
+,rambam,178,184,ORG,0.9838
+,covid-19,69,77,MISC,0.743
+,surfing the nations,112,131,MISC,0.7666
+,keith fogle,63,74,PER,0.999
+,ex-florida covid-19,50,69,MISC,0.9519
+,rebekah jones,85,98,PER,0.9995
+,fdaâ,4,8,ORG,0.3636
+,us,77,79,LOC,0.8034
+,chinese,122,129,MISC,1.0
+,uk,183,185,LOC,1.0
+,boris j,187,194,PER,0.7978
+,spain,305,310,LOC,1.0
+,france,315,321,LOC,1.0
+,germany,66,73,LOC,1.0
+,covid,129,134,MISC,0.8418
+,london,15,21,LOC,0.9999
+,icu,179,182,ORG,0.5865
+,fda,34,37,ORG,1.0
+,pfizer covid-19,70,85,MISC,0.7908
+,fda,117,120,ORG,1.0
+,tate,50,54,PER,0.9976
+,britain,114,121,LOC,0.9824
+,ottawa hospital,24,39,LOC,0.9301
+,covid-19,95,103,MISC,0.997
+,oklahoma,20,28,LOC,0.9996
+,open meetings act,96,113,MISC,0.9869
+,russia,27,33,LOC,0.998
+,party banners,0,13,ORG,0.6509
+,great britain,40,53,LOC,0.9913
+,eu,66,68,ORG,1.0
+,covid,91,96,MISC,0.8374
+,european,104,112,MISC,0.9928
+,britoâ,134,140,MISC,0.7785
+,us,40,42,LOC,1.0
+,covid,44,49,MISC,0.6612
+,house,20,25,ORG,0.8764
+,republicans,26,37,MISC,0.9592
+,americans,86,95,MISC,0.9999
+,antti laine,23,34,PER,0.9995
+,theology and ecumenical relations,57,90,ORG,0.8548
+,finn church aid,96,111,ORG,0.6103
+,mitch mcconnelâ,125,140,PER,0.9997
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,trump,18,23,PER,0.9974
+,kizzmekia corbett,47,64,PER,0.7534
+,black,108,113,MISC,0.5523
+,fda,18,21,ORG,0.9999
+,pfizerâ€™,51,60,MISC,0.6707
+,buncombe countyâ€™,118,136,ORG,0.5683
+,raiders,17,24,ORG,0.9974
+,dailypoint,16,26,ORG,0.4317
+,covid-19,83,91,MISC,0.9918
+,bermuda,0,7,LOC,0.9992
+,ellen degeneres,0,15,PER,0.996
+,covid ward,75,85,MISC,0.6691
+,covid,104,109,ORG,0.5329
+,ltc,150,153,ORG,0.9952
+,trump,18,23,ORG,0.6404
+,mnuchin,50,57,PER,0.9995
+,cares act,81,90,MISC,0.7414
+,covid,34,39,PER,0.9744
+,kelly,21,26,PER,1.0
+,times square,58,70,LOC,0.9941
+,ny,108,110,LOC,0.9614
+,us,31,33,LOC,0.9995
+,covid,84,89,MISC,0.8168
+,pfizer,0,6,ORG,0.9991
+,acadiaðÿ,116,124,MISC,0.7338
+,pfizer,12,18,ORG,0.9996
+,us,111,113,LOC,0.9998
+,fda,119,122,ORG,1.0
+,ufrsd,0,5,ORG,0.9985
+,ess,11,14,ORG,0.4286
+,joyce clark addison,112,131,ORG,0.8125
+,ellen degeneres,17,32,PER,0.9991
+,sxsw,17,21,ORG,0.499
+,newsom,39,45,PER,0.9987
+,maryland,27,35,LOC,1.0
+,foia,36,40,ORG,0.9987
+,liverpool,70,79,ORG,0.9661
+,merseyside,80,90,ORG,0.9986
+,mitch mcconnelâ,125,140,PER,0.9997
+,vanessabeeley,44,57,PER,0.9106
+,celebrity humanitarianism,84,109,ORG,0.5138
+,icu,236,239,ORG,0.9766
+,fda,106,109,ORG,0.9926
+,pfizâ,140,145,MISC,0.969
+,republicans,33,44,MISC,1.0
+,americans,94,103,MISC,0.9998
+,covid,152,157,MISC,0.8209
+,trump administration,4,24,ORG,0.5094
+,200-person indoor party,68,91,MISC,0.8444
+,gop house,20,29,ORG,0.7881
+,dick hinch,43,53,PER,0.9895
+,gop,91,94,MISC,0.9917
+,new hampshire,110,123,LOC,0.9988
+,covid-induced,42,55,MISC,0.5716
+,keyâ,136,140,LOC,0.8065
+,derrrr,175,181,PER,0.9798
+,ontario,58,65,LOC,1.0
+,pediatric icu,86,99,ORG,0.8465
+,brexiteerâ,129,139,MISC,0.7508
+,petsmart,79,87,LOC,0.5902
+,brook,91,96,LOC,0.8938
+,glen allen,105,115,LOC,0.9822
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,pennsylvania,13,25,LOC,0.9969
+,tom wolf,35,43,PER,0.9981
+,petsmart,79,87,LOC,0.5902
+,brook,91,96,LOC,0.8938
+,glen allen,105,115,LOC,0.9822
+,kate burley,0,11,PER,0.9976
+,covid,63,68,MISC,0.6719
+,dominic cummings,79,95,PER,0.998
+,press conference,113,129,ORG,0.6194
+,rose garden,137,148,LOC,0.8393
+,borisjohnson,166,178,PER,0.9975
+,skynews,225,232,ORG,0.7077
+,senate,29,35,ORG,1.0
+,sb241,43,48,MISC,0.8718
+,covid-19,108,116,MISC,0.9545
+,human râ,132,140,MISC,0.5027
+,trump,121,126,PER,0.987
+,shamattawa first nation,0,23,ORG,0.9455
+,mike albanese,82,95,PER,0.9999
+,eric redhead,125,137,PER,0.9976
+,caf,171,174,ORG,0.9938
+,south dakotaâ,16,29,ORG,0.5793
+,ag,33,35,ORG,0.9418
+,gop,57,60,MISC,0.9992
+,fox entertainment,10,27,ORG,0.8913
+,news,33,37,ORG,0.7884
+,fox news,98,106,ORG,0.9012
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,american,58,66,MISC,0.9987
+,americans,131,140,MISC,0.9999
+,ri,24,26,LOC,0.5579
+,latinx,45,51,MISC,0.8591
+,covid-19,84,92,MISC,0.9435
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,aids,223,227,MISC,0.9998
+,rudy giuliani,16,29,PER,0.9828
+,arkansas,40,48,LOC,0.9998
+,leslie rutledge,54,69,PER,0.9985
+,modernaâ€™,20,30,ORG,0.6976
+,bmj,59,62,ORG,0.9996
+,google,0,6,ORG,0.999
+,federal govt &amp,91,108,ORG,0.9474
+,google,195,201,ORG,0.9379
+,senate,61,67,ORG,1.0
+,republican,218,228,MISC,0.9999
+,ppe,181,184,ORG,0.6438
+,ukinsweden,73,83,ORG,0.6238
+,birmingham,17,27,ORG,0.5739
+,city,100,104,LOC,0.5966
+,covid,37,42,PER,0.8413
+,colorado,62,70,LOC,0.9999
+,virginia,13,21,LOC,1.0
+,eu,25,27,ORG,1.0
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,covid-1â,132,140,MISC,0.9649
+,keywest international airportâ,73,103,ORG,0.5402
+,mcconnell,35,44,PER,1.0
+,americans,103,112,MISC,0.9955
+,rudy,65,69,PER,0.9998
+,donnie,74,80,PER,0.9999
+,jr,85,88,PER,0.8412
+,orange county,23,36,LOC,0.6776
+,oc,69,73,LOC,0.8122
+,covid-19,112,120,MISC,0.7964
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,fosterfarms,71,82,ORG,0.6243
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,chris evans,17,28,PER,1.0
+,ford,69,73,ORG,0.992
+,covid,56,61,ORG,0.741
+,exxon,14,19,ORG,0.9995
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,icu,43,46,ORG,0.6381
+,novichok,69,77,PER,0.8884
+,putin,83,88,PER,0.9997
+,ted kennedy,14,25,PER,0.9986
+,mary jo kopechne,34,50,PER,0.9994
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,aids,14,18,MISC,0.9648
+,freddie mercury,59,74,PER,0.9046
+,rock hudson,79,90,PER,0.8944
+,darth vader,153,164,PER,0.9158
+,david prowse,166,178,PER,0.9992
+,covid,189,194,PER,1.0
+,a clockwork orange,236,254,MISC,0.8949
+,treasury,0,8,ORG,0.9708
+,steven mnuchin,19,33,PER,0.9996
+,washington,30,40,ORG,0.6714
+,oregon,44,50,LOC,0.9998
+,covid-19,81,89,MISC,0.5891
+,uw,100,102,LOC,0.9514
+,blake griffin,11,24,PER,0.9999
+,whitmer,36,43,PER,0.9994
+,covid-19,46,54,MISC,0.7069
+,covid-19,97,105,MISC,0.8425
+,us,56,60,LOC,0.9995
+,n95,74,77,MISC,0.7316
+,ron,22,25,PER,0.879
+,nations fire,78,90,MISC,0.5921
+,fdr park,15,23,LOC,0.7486
+,kraken,54,60,MISC,0.6769
+,village people,280,294,MISC,0.6219
+,kevin bacon,111,122,PER,0.9995
+,pfizer,0,6,ORG,0.7295
+,democrats,16,25,MISC,0.9999
+,new years,90,99,MISC,0.6706
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,washington dc,46,59,LOC,0.9501
+,congress,92,100,ORG,0.9995
+,blake griffin,11,24,PER,0.9999
+,whitmer,36,43,PER,0.9994
+,covid-19,46,54,MISC,0.7069
+,betsy devos,0,11,PER,0.9921
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,keith fogle,63,74,PER,0.999
+,nhl,22,25,ORG,1.0
+,nhl,74,77,ORG,0.9999
+,sxsw,17,21,ORG,0.499
+,chris evans,21,32,PER,0.9993
+,"""dont look up""",93,106,MISC,0.9258
+,boston,111,117,LOC,1.0
+,barbara,40,47,PER,0.9988
+,fda,31,34,ORG,1.0
+,covid,78,83,ORG,0.5575
+,dc,108,110,LOC,0.81
+,covid contact tracing,125,146,MISC,0.834
+,us,1,3,LOC,0.9165
+,pfizerâ€™,40,49,MISC,0.714
+,kizzmekia corbett,47,64,PER,0.7534
+,black,108,113,MISC,0.5523
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,china,0,5,LOC,0.9975
+,vijay shankar,104,117,ORG,0.7098
+,chinaâ€™,120,128,ORG,0.7345
+,covid-19,185,193,MISC,0.9983
+,humanrightsday,36,50,MISC,0.7575
+,recoverbetter,54,67,ORG,0.8154
+,onpha,69,74,ORG,0.9992
+,staten island,20,33,LOC,0.8742
+,covid,55,60,MISC,0.7284
+,fox news,110,118,ORG,0.8446
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,dirkgrundy,1,11,PER,0.4298
+,covid,202,207,PER,0.5488
+,business class,106,120,MISC,0.6854
+,pakistanis,211,221,MISC,0.9993
+,americans,50,59,MISC,0.9998
+,kristof,55,62,PER,0.9996
+,exodus cry,116,126,ORG,0.8799
+,billy devine,29,41,PER,0.9998
+,americans,25,34,MISC,0.9993
+,covid,55,60,PER,0.9048
+,trump,91,96,PER,0.9989
+,sole focus,99,109,ORG,0.732
+,trump,36,41,PER,0.802
+,hawaiâ,70,76,LOC,0.9836
+,island,80,86,LOC,0.3173
+,kauaâ,90,95,LOC,0.5287
+,spacex,75,81,ORG,0.7542
+,trumpâ,33,39,ORG,0.8821
+,covid-19,59,67,MISC,0.996
+,hampshire hospitals nhs foundation trust,15,55,ORG,0.982
+,covid-19,79,87,MISC,0.7596
+,trump,18,23,ORG,0.6404
+,republicans,33,44,MISC,1.0
+,americans,94,103,MISC,0.9998
+,georgians,39,48,MISC,0.9999
+,covid-19,63,71,MISC,0.7063
+,covid19,83,90,MISC,0.9909
+,magas,19,24,ORG,0.9661
+,undies,68,74,MISC,0.6277
+,texas,109,114,LOC,0.7568
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,erie,76,80,LOC,0.9344
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,fda,21,24,ORG,0.9997
+,pfizer/biontech,49,64,ORG,0.6425
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,virginia,13,21,LOC,1.0
+,aclu,20,24,ORG,0.9761
+,waseca,30,36,LOC,0.999
+,fauci,13,18,PER,0.949
+,floridian,23,32,MISC,0.981
+,florida,98,105,LOC,0.9991
+,france,10,16,LOC,1.0
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,sdakota,19,27,LOC,0.3679
+,noem,37,41,PER,0.9259
+,texas rodeo,51,62,LOC,0.7641
+,flag,95,99,MISC,0.8518
+,south dakota,128,140,LOC,0.9956
+,covid-19,46,54,MISC,0.9977
+,gold coat,133,142,MISC,0.6943
+,maritimo,156,164,ORG,0.8044
+,microsoft office,94,110,ORG,0.9487
+,rudy,76,80,PER,0.9998
+,donnie,85,91,PER,0.9999
+,jr,96,99,PER,0.8549
+,covid-19,64,72,MISC,0.8555
+,"""the stars""",86,96,ORG,0.7751
+,us,105,107,LOC,1.0
+,tom chipley,18,29,PER,0.9607
+,mount jackson,37,50,LOC,0.9985
+,virginia,52,60,LOC,0.9998
+,daddy,89,94,PER,0.9828
+,americans,50,59,MISC,0.9997
+,americans,90,99,MISC,0.9994
+,us,15,17,LOC,0.9957
+,pfizer,36,42,ORG,0.7295
+,us food and drug administration,88,119,ORG,0.9951
+,germany,169,176,LOC,0.9725
+,italy france switzerland unitedkingdom lovestory,177,225,MISC,0.6744
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,kristenrchoi,19,31,PER,0.8924
+,nbc,86,89,ORG,0.88
+,cbs,91,94,ORG,0.4278
+,pfizer covid,169,181,MISC,0.8024
+,florida man,18,29,ORG,0.8393
+,florida,56,63,LOC,0.9998
+,florida woman,124,137,ORG,0.5072
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,port-harcourt,51,64,LOC,0.7321
+,south korean,13,25,MISC,0.9992
+,jeonju,68,74,LOC,0.9998
+,trump,18,23,ORG,0.6404
+,republicans,33,44,MISC,1.0
+,americans,94,103,MISC,0.9998
+,trump,81,86,PER,0.9994
+,us tv,21,26,ORG,0.9343
+,ellen degeneres,32,47,PER,0.9997
+,us,17,21,LOC,0.941
+,fda,22,25,ORG,0.4977
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,brandonaburley,11,25,PER,0.9996
+,manitobans,143,153,MISC,0.7759
+,ammmanitoba,196,207,ORG,0.9849
+,us,26,28,LOC,0.8284
+,uk,95,97,LOC,1.0
+,fda,16,19,ORG,1.0
+,pfizer,47,53,ORG,0.9997
+,covid-19,56,64,MISC,0.9876
+,tx,58,60,LOC,0.5385
+,scotus,74,80,MISC,0.6069
+,blm,123,126,ORG,0.9983
+,american,242,250,MISC,0.999
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,devonjhall vpd,1,15,ORG,0.6892
+,new westminster,20,35,LOC,0.944
+,nwpd,121,125,ORG,0.9997
+,covid-19,33,41,MISC,0.9344
+,republican,107,117,MISC,1.0
+,mitch mcconnell,118,133,PER,0.9998
+,trump,18,23,PER,0.996
+,new york,26,34,LOC,0.9973
+,central park west,87,104,LOC,0.9696
+,cpap,235,239,MISC,0.7052
+,msm,144,147,ORG,0.6143
+,hydroxychloroquine,239,257,MISC,0.8295
+,giuliani,96,104,PER,1.0
+,regeneron,120,129,MISC,0.9056
+,suns,21,25,ORG,0.9999
+,nba,69,72,ORG,0.9977
+,phoenix suns arena,108,126,ORG,0.6482
+,washington dc,46,59,LOC,0.9501
+,congress,92,100,ORG,0.9995
+,nhl,41,44,ORG,1.0
+,covid,83,88,MISC,0.9841
+,harmanius thatâ€™,15,32,ORG,0.8055
+,covid-19,69,77,MISC,0.7225
+,house,5,10,ORG,0.8701
+,dick hinch,19,29,PER,0.9985
+,covid-19,40,48,MISC,0.636
+,mexicans,47,55,MISC,0.9995
+,drug war,75,83,MISC,0.9858
+,cdc,23,26,ORG,1.0
+,covid-19,41,49,MISC,0.9126
+,neil ferguson,162,175,PER,0.9987
+,tennessee,21,30,LOC,0.999
+,gop,31,34,MISC,0.9871
+,rep,161,164,MISC,0.9895
+,david byrd,166,176,PER,0.9999
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,new york state assembly,21,44,ORG,0.8381
+,drchrismd,20,29,PER,0.3669
+,covid-19,66,74,MISC,0.9041
+,sxsw,17,21,ORG,0.499
+,pfizerâ€™,61,70,MISC,0.7334
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,s korea,27,34,MISC,0.8566
+,republican,45,55,MISC,0.9999
+,democracy,83,92,ORG,0.3738
+,mexicans,47,55,MISC,0.9995
+,drug war,75,83,MISC,0.9858
+,covid,87,92,MISC,0.9231
+,delaware,20,28,LOC,0.9998
+,covid-19,52,60,MISC,0.9509
+,california,43,53,LOC,1.0
+,skonie skoop,4,16,ORG,0.8534
+,wjhl news,55,64,ORG,0.9165
+,google,0,6,ORG,0.9996
+,facebook,8,16,ORG,0.9972
+,apple,18,23,ORG,0.9998
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,pfizer,46,52,ORG,0.9995
+,covid-19,55,63,MISC,0.9966
+,bell,82,86,PER,0.6143
+,fda,101,104,ORG,1.0
+,google,13,19,ORG,0.9989
+,federal govt &amp,104,121,ORG,0.9358
+,israelipm americans,35,54,MISC,0.9707
+,mcconnell,26,35,PER,0.9998
+,civil rights,52,64,ORG,0.619
+,republicans,33,44,MISC,1.0
+,americans,94,103,MISC,0.9998
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,us,38,40,LOC,0.8301
+,fda,41,44,ORG,0.9999
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,ross,11,15,PER,0.9826
+,city of morden,18,32,ORG,0.8421
+,brandon burley,39,53,PER,0.9991
+,covid-19,83,91,MISC,0.9901
+,la broqueriâ,128,140,ORG,0.7828
+,us,13,15,LOC,0.9898
+,us,42,44,LOC,0.9971
+,trump,18,23,ORG,0.6404
+,fda,23,26,ORG,0.9999
+,pfizer,68,74,ORG,0.9988
+,covid-19,77,85,MISC,0.8784
+,us,101,105,LOC,0.9999
+,ap,108,110,ORG,0.5164
+,lon chaney jr,4,17,PER,0.8982
+,covid,40,45,MISC,0.8103
+,republican party,21,37,ORG,0.9612
+,donald trump,91,103,PER,0.9962
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,iran,85,89,LOC,1.0
+,us,106,109,LOC,0.9997
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,virginia,13,21,LOC,1.0
+,the experience,118,132,MISC,0.8413
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,republican,45,55,MISC,0.9999
+,democracy,83,92,ORG,0.3738
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,biden,21,26,PER,1.0
+,walmart,2,9,ORG,0.9876
+,sky news,18,26,ORG,0.8355
+,trump,81,86,PER,0.9994
+,cyberpunk,22,31,MISC,0.8531
+,covid-19,64,72,MISC,0.8258
+,chris evans,21,32,PER,0.9993
+,"""dont look up""",93,106,MISC,0.9258
+,boston,111,117,LOC,1.0
+,toronto,18,25,LOC,0.9997
+,edmonton,61,69,LOC,0.9982
+,toronto,104,111,LOC,0.9868
+,edmoâ,135,140,MISC,0.6988
+,covid street,21,33,LOC,0.9907
+,london,35,41,LOC,1.0
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,san diego,69,78,LOC,0.9996
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,ohio,62,66,LOC,1.0
+,covid-19,96,104,MISC,0.9997
+,duke,73,77,PER,0.8453
+,covid,157,162,ORG,0.7504
+,acc,186,189,ORG,0.9999
+,mother nature,118,131,PER,0.8486
+,iraq,57,61,LOC,0.9997
+,nyc,77,80,LOC,0.9983
+,yuma,123,127,LOC,0.9994
+,arizona,129,136,LOC,0.9986
+,covid,73,78,ORG,0.5988
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,republican party,21,37,ORG,0.9612
+,donald trump,91,103,PER,0.9962
+,pennsylvania,12,24,LOC,0.9999
+,tom wolf,31,39,PER,0.8467
+,russo,37,42,PER,0.997
+,mitch mcconnelâ,125,140,PER,0.9997
+,ex-florida covid-19,50,69,MISC,0.9519
+,rebekah jones,85,98,PER,0.9995
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,mlspa,0,5,ORG,0.565
+,mls players,21,32,ORG,0.8581
+,grande prairie,36,50,LOC,0.9725
+,elders caring shelter gpab,112,138,ORG,0.8333
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,biden transition,29,45,ORG,0.8807
+,fda,90,93,ORG,1.0
+,ri,24,26,LOC,0.5579
+,latinx,45,51,MISC,0.8591
+,covid-19,84,92,MISC,0.9435
+,nevada,24,30,LOC,0.9997
+,covid-19,103,111,MISC,0.9237
+,ontario,47,54,LOC,0.9999
+,kay burley,10,20,PER,0.7369
+,sky news,22,30,ORG,0.958
+,covid,70,75,PER,0.6441
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,team apocalypse,112,127,MISC,0.9412
+,cdc,21,24,ORG,1.0
+,trumpâ€™,102,110,ORG,0.5181
+,california,11,21,LOC,0.9918
+,nba,19,22,ORG,0.9999
+,cnn,1,4,ORG,0.9007
+,covid,104,109,MISC,0.5743
+,staten island,20,33,LOC,0.8742
+,covid,55,60,MISC,0.7284
+,fox news,110,118,ORG,0.8446
+,biden,14,19,PER,0.9995
+,nejm,107,111,ORG,0.7714
+,pfizer covid,121,133,ORG,0.8264
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,wheeler,8,15,PER,0.8036
+,biden,18,23,PER,0.9999
+,covid-19,89,97,MISC,0.9614
+,jill,99,103,PER,0.9999
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,gop,53,56,MISC,0.7693
+,fascism,121,128,MISC,0.989
+,chris evans,20,31,PER,0.9999
+,boston,78,84,LOC,0.7608
+,kelly,0,5,PER,0.9944
+,pfizer,62,68,ORG,0.4529
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,uni of queensland,46,63,LOC,0.9349
+,hiv,125,128,MISC,0.9675
+,south korean,17,29,MISC,0.9996
+,jeonju,89,95,LOC,0.9995
+,covid-19,116,124,MISC,0.9846
+,hi,12,14,LOC,0.4801
+,georgia,16,23,LOC,1.0
+,mcconnell,27,36,PER,1.0
+,senate,54,60,ORG,1.0
+,covid,73,78,MISC,0.6696
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,trump,81,86,PER,0.9994
+,blake griffin,11,24,PER,0.9999
+,whitmer,36,43,PER,0.9994
+,covid-19,46,54,MISC,0.7069
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,us,60,64,LOC,0.9996
+,covid-19,106,114,MISC,0.6432
+,republicanâ,129,140,MISC,0.9982
+,us,31,33,LOC,0.9995
+,covid,84,89,MISC,0.8168
+,pfizer-biontech vaccine works,8,37,MISC,0.7692
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,pfizer,0,6,ORG,0.4934
+,kate baldwiâ,132,144,PER,0.9758
+,los angeles,18,29,LOC,0.9812
+,utlanow &amp,101,113,ORG,0.742
+,la unified,115,125,LOC,0.9291
+,pfizer,12,18,ORG,0.9996
+,us,111,113,LOC,0.9998
+,fda,119,122,ORG,1.0
+,sweden,33,39,LOC,1.0
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,white house,43,54,LOC,0.9984
+,secret service,75,89,ORG,0.7743
+,up,52,54,LOC,0.937
+,us,45,47,LOC,0.9999
+,trump,36,41,PER,0.802
+,senate,29,35,ORG,1.0
+,sb241,43,48,MISC,0.8718
+,covid-19,108,116,MISC,0.9545
+,human râ,132,140,MISC,0.5027
+,sky news,18,26,ORG,0.8355
+,spanky,35,41,PER,0.9888
+,pfizer covid,78,90,MISC,0.6844
+,broncos,14,21,ORG,0.9992
+,donatell,28,36,PER,0.9998
+,usa,15,18,LOC,0.992
+,anne frank,52,62,PER,0.7882
+,emmett till,109,120,PER,0.9424
+,gop,0,3,MISC,0.9547
+,covid,26,31,ORG,0.9105
+,hinch,77,82,PER,0.9915
+,duke,21,25,PER,0.7148
+,coach krzyzewski,39,55,PER,0.8515
+,republicanâ,129,140,MISC,0.9982
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,texas,165,170,LOC,0.9993
+,us,18,22,LOC,0.9993
+,pfizer covid-19,38,53,MISC,0.7975
+,americans,23,32,MISC,0.9305
+,barcelona zoo,57,70,ORG,0.6414
+,covid-19,96,104,MISC,0.9729
+,adam silver,19,30,PER,0.9994
+,roger goodell,40,53,PER,0.9992
+,nfl,62,65,ORG,0.9999
+,india,17,22,LOC,0.9994
+,us,106,109,LOC,0.9997
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,us,61,63,LOC,0.9998
+,bizznizz,10,18,PER,0.7676
+,mitch mcconnell,30,45,PER,0.9991
+,mcconnell,111,120,PER,1.0
+,pfizer vaccine,43,57,MISC,0.7885
+,america,81,88,LOC,0.9998
+,fauci,17,22,PER,0.9025
+,us,70,74,LOC,0.5062
+,us,69,71,LOC,0.9965
+,covid-19,72,80,MISC,0.759
+,facebook,15,23,ORG,0.6161
+,data for good,103,116,MISC,0.801
+,fda,30,33,ORG,1.0
+,pfizer,75,81,ORG,0.9995
+,covid-19,84,92,MISC,0.5871
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,sxsw,17,21,ORG,0.499
+,us,23,25,LOC,0.5886
+,fda vaccines and related biological products advisory committee,26,89,ORG,0.9166
+,vbpac,91,96,ORG,0.707
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,port-harcourt,51,64,LOC,0.7397
+,republican,45,55,MISC,0.9999
+,democracy,83,92,ORG,0.3738
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,americans,50,59,MISC,0.9997
+,americans,90,99,MISC,0.9994
+,us,23,25,LOC,0.5939
+,fda vaccines and related biological products advisory committee,26,89,ORG,0.9155
+,vbpac,91,96,ORG,0.6885
+,uncharted waters,43,59,LOC,0.7804
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,wef,177,180,ORG,0.9799
+,bullingdon,197,207,ORG,0.7122
+,holiday,107,114,MISC,0.9002
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,bc gender equality report card,23,53,MISC,0.7484
+,fda,59,62,ORG,1.0
+,pfizer covid-19,99,114,MISC,0.8799
+,fauci,29,34,PER,0.9997
+,us,38,40,LOC,1.0
+,trump,21,26,ORG,0.4619
+,pfizer,85,91,ORG,0.9994
+,us,100,104,LOC,0.9999
+,newjersey,20,29,ORG,0.9418
+,covid-19,60,68,MISC,0.998
+,manchester,86,96,LOC,0.9999
+,calgary,0,7,LOC,0.6321
+,senate,19,25,ORG,0.9989
+,mitch mcconnell,42,57,PER,0.9989
+,senate,113,119,ORG,0.9998
+,republicans,120,131,MISC,1.0
+,michaelrosenyes,102,117,PER,0.8468
+,italy,31,36,LOC,0.9996
+,covid-19,72,80,MISC,0.7476
+,italy,147,152,LOC,0.9999
+,ecmc,94,98,ORG,0.8587
+,mitch mcconnelâ,125,140,PER,0.9997
+,hi,12,14,LOC,0.4801
+,georgia,16,23,LOC,1.0
+,mcconnell,27,36,PER,1.0
+,senate,54,60,ORG,1.0
+,covid,73,78,MISC,0.6696
+,americans,7,16,MISC,0.964
+,americans,26,35,MISC,0.9992
+,americans,124,133,MISC,0.9997
+,nhl,65,68,ORG,0.9968
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,us,23,25,LOC,0.6006
+,fda vaccines and related biological products advisory committee,26,89,ORG,0.9134
+,vbpac,91,96,ORG,0.6641
+,rudy giuliani,67,80,PER,0.9996
+,icu,215,218,MISC,0.6181
+,pfizer,64,70,ORG,0.8159
+,biontech covid-19,71,88,MISC,0.7316
+,sky news,48,56,ORG,0.9824
+,kay burley,89,99,PER,0.9891
+,cdc,94,97,ORG,1.0
+,cdc,301,304,ORG,1.0
+,usa,74,77,LOC,0.9991
+,americans,179,188,MISC,0.9999
+,first5ca,33,41,ORG,0.836
+,ca,55,57,LOC,0.99
+,rudy giuliani,99,112,PER,0.9993
+,sam pollard,43,54,PER,0.9968
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,northam,17,24,PER,0.9223
+,americans,124,133,MISC,0.9998
+,monashuni,47,56,ORG,0.3946
+,athena swan committee,59,80,ORG,0.862
+,stemm,199,204,ORG,0.9482
+,way forward,39,50,MISC,0.7256
+,hayes,68,73,PER,0.8041
+,ucla,77,81,LOC,0.5452
+,fauci,20,25,PER,0.7725
+,biden transition,29,45,ORG,0.8807
+,fda,90,93,ORG,1.0
+,covid-19,66,74,MISC,0.9968
+,ny times,258,266,ORG,0.7425
+,us,0,2,LOC,0.9523
+,pfizerâ€™,39,48,MISC,0.7403
+,trump,18,23,ORG,0.6404
+,fda,50,53,ORG,1.0
+,pfizer,84,90,ORG,0.9347
+,covid-19,93,101,MISC,0.9941
+,wheeler,8,15,PER,0.8036
+,el paso,41,48,LOC,0.9999
+,texas,50,55,LOC,1.0
+,blake griffin,11,24,PER,0.9999
+,whitmer,36,43,PER,0.9994
+,covid-19,46,54,MISC,0.7069
+,ucsf,69,73,ORG,1.0
+,matthancock,1,12,PER,0.8853
+,chanukah  being covid,88,109,MISC,0.7796
+,tom chipley,18,29,PER,0.9607
+,mount jackson,37,50,LOC,0.9985
+,virginia,52,60,LOC,0.9998
+,daddy,89,94,PER,0.9828
+,us,36,40,LOC,0.9999
+,quad-cities,40,51,LOC,0.7834
+,trump,0,5,PER,0.9891
+,covid-19,15,23,MISC,0.5833
+,americans,42,51,MISC,0.9994
+,france,76,82,LOC,1.0
+,holocaust museum,85,101,LOC,0.7073
+,senator,52,59,MISC,0.9708
+,kelly loeffler,61,75,PER,0.9031
+,israel,18,24,LOC,1.0
+,eu,64,66,ORG,0.9999
+,palestinians,91,103,MISC,0.9665
+,pfizerâ€™,40,49,MISC,0.5856
+,canada,89,95,LOC,1.0
+,pfizer covid-19,20,35,MISC,0.9098
+,london,63,69,LOC,0.9987
+,englandâ,95,103,LOC,0.6401
+,new hampshireâ€™,25,41,ORG,0.8347
+,office of the chief medical examiner,43,79,ORG,0.9367
+,house,95,100,ORG,0.9997
+,dick hinch,109,119,PER,0.9976
+,kristof,55,62,PER,0.9996
+,exodus cry,116,126,ORG,0.8799
+,rona,59,63,PER,0.894
+,nstsports,0,9,ORG,0.4702
+,covid-19,41,49,MISC,0.9426
+,americans,50,59,MISC,0.9997
+,americans,90,99,MISC,0.9994
+,amitabh kant,101,113,ORG,0.7278
+,niti aayog,118,128,PER,0.87
+,fdaâ,31,35,ORG,0.9008
+,pfizer,88,94,MISC,0.9767
+,blake griffin,11,24,PER,0.9999
+,whitmer,36,43,PER,0.9994
+,covid-19,46,54,MISC,0.7069
+,covid,118,123,ORG,0.5007
+,raising voices,161,175,ORG,0.9434
+,uganda,177,183,LOC,1.0
+,covid,82,87,MISC,0.514
+,calgary,15,22,LOC,0.9819
+,covid-19,96,104,MISC,0.7373
+,katie porter,14,26,PER,0.9992
+,mcconnell,40,49,PER,1.0
+,american,84,92,MISC,0.9977
+,gop,125,128,MISC,0.9983
+,colorado,76,84,LOC,1.0
+,us,1,3,LOC,0.9159
+,pfizerâ€™,40,49,MISC,0.7239
+,lubbock independent school district,4,39,ORG,0.8301
+,lisd,118,122,ORG,0.4694
+,mccool academy,135,149,LOC,0.7918
+,lubbock high school,154,173,ORG,0.8082
+,india news,46,56,ORG,0.5226
+,india,71,76,LOC,0.9172
+,rudy,76,80,PER,0.9998
+,donnie,85,91,PER,0.9999
+,jr,96,99,PER,0.8549
+,pfizer,17,23,ORG,0.8549
+,bell,51,55,PER,0.9872
+,bell,68,72,PER,0.9998
+,covid,0,5,ORG,0.5335
+,cdc,21,24,ORG,1.0
+,trumpâ€™,102,110,ORG,0.5181
+,az prisons,18,28,ORG,0.8984
+,covidiots,38,47,ORG,0.3912
+,americans,50,59,MISC,0.9997
+,americans,90,99,MISC,0.9994
+,mitch mcconnell,79,94,PER,0.9979
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,americans,29,38,MISC,0.9975
+,pearl harbor,100,112,LOC,0.9911
+,sa,52,54,ORG,0.7034
+,covid-19,91,99,MISC,0.8805
+,ccla,53,57,ORG,0.9949
+,covid,99,104,MISC,0.7286
+,mcconnell,26,35,PER,0.9998
+,civil rights,52,64,ORG,0.619
+,florida,31,38,LOC,0.9931
+,david perdue,32,44,PER,0.9998
+,republican,45,55,MISC,0.9999
+,democracy,83,92,ORG,0.3738
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,covid,86,91,MISC,0.7474
+,matthancock,38,49,ORG,0.7199
+,republicanâ,129,140,MISC,0.9982
+,alberta,33,40,LOC,0.9994
+,kenney,98,104,PER,0.6953
+,ucp,113,116,ORG,0.9994
+,covid,143,148,PER,0.892
+,california,224,234,LOC,0.999
+,fox news,62,70,ORG,0.9663
+,americans,41,50,MISC,0.9999
+,covid-19,66,74,MISC,0.6217
+,south korean,13,25,MISC,0.9992
+,jeonju,68,74,LOC,0.9998
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,nigeria nigerianews,75,94,ORG,0.7287
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,steelers,20,28,ORG,0.9795
+,devin bush,35,45,PER,0.9998
+,vince williams,54,68,PER,0.9726
+,robert spillane,88,103,PER,0.9957
+,ulysees gilbert,118,133,PER,0.9923
+,congress,0,8,ORG,0.9973
+,mcconnell,18,27,PER,0.9995
+,st louis,63,72,LOC,0.9787
+,brexiteerâ,129,139,MISC,0.7508
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,ndp,131,134,ORG,0.8111
+,florida megachurch pastor tells evangelical,39,82,ORG,0.4353
+,presâ,141,146,ORG,0.8131
+,washington dc,46,59,LOC,0.9501
+,congress,92,100,ORG,0.9995
+,us,38,40,LOC,0.8301
+,fda,41,44,ORG,0.9999
+,mcconnell,21,30,PER,0.9999
+,covid,46,51,MISC,0.7597
+,senate,79,85,ORG,0.9992
+,ds,86,88,MISC,0.8569
+,senate,90,96,ORG,0.9954
+,georgia,120,127,LOC,0.9998
+,americans,101,110,MISC,0.9998
+,mls players,42,53,ORG,0.8835
+,covid,66,71,MISC,0.5571
+,covid-19,93,101,MISC,0.6411
+,junior synchro worlds,81,102,MISC,0.9122
+,congress,35,43,ORG,0.9998
+,american,108,116,MISC,0.9993
+,georgians,30,39,MISC,0.9998
+,hollenbeck,87,97,LOC,0.9978
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,fda,29,32,ORG,0.9474
+,cdc,35,38,ORG,0.8482
+,ellen degeneres,0,15,PER,0.7858
+,fda advisory committee,30,52,ORG,0.7982
+,fda,72,75,ORG,0.9995
+,pfizer covid-19,89,104,MISC,0.9369
+,fda,120,123,ORG,1.0
+,covid,44,49,PER,0.9429
+,us,47,49,LOC,0.9996
+,biden,21,26,PER,1.0
+,america,18,25,LOC,0.9999
+,china,148,153,LOC,0.9999
+,republicans,7,18,MISC,1.0
+,covid,185,190,ORG,0.9591
+,americans,50,59,MISC,0.9997
+,americans,90,99,MISC,0.9994
+,er,82,84,MISC,0.7398
+,covid-19,78,86,MISC,0.9656
+,rep,18,21,MISC,0.9794
+,katie porter,23,35,PER,0.9984
+,porter,99,105,PER,1.0
+,cdc,18,21,ORG,1.0
+,trumpâ€™,99,107,ORG,0.494
+,fda,23,26,ORG,1.0
+,pfizerâ€™,67,76,MISC,0.6381
+,thelastleg  dickdonald,1,23,ORG,0.9298
+,covid,108,113,PER,0.9945
+,us,0,2,LOC,0.9856
+,usâ,188,191,MISC,0.5504
+,bbcqt,66,71,ORG,0.915
+,brexit,92,98,ORG,0.7244
+,covid,108,113,MISC,0.68
+,virginia,13,21,LOC,1.0
+,pfizer,34,40,ORG,0.4965
+,pfizerâ€™,28,37,ORG,0.6191
+,fda,91,94,ORG,1.0
+,alabama covid newsletter,18,42,ORG,0.8122
+,ellen degeneres,17,32,PER,0.9991
+,barcelona zoo,57,70,ORG,0.6318
+,covid-19,96,104,MISC,0.9761
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,herman caine,45,57,PER,0.9759
+,schumer,18,25,PER,1.0
+,senate,33,39,ORG,0.9995
+,ugur sahin,64,74,PER,0.8925
+,pfizer covid,116,128,MISC,0.8711
+,raydalio,74,82,ORG,0.6876
+,americans,38,47,MISC,1.0
+,covid,83,88,PER,0.6849
+,wheeler,8,15,PER,0.8036
+,uber,72,76,ORG,0.5008
+,covid-19,112,120,MISC,0.9694
+,fda,33,36,ORG,1.0
+,covid-19,76,84,MISC,0.9709
+,us,100,104,LOC,0.9999
+,gop nh,16,22,ORG,0.7462
+,nh house,72,80,ORG,0.6037
+,covid,90,95,ORG,0.619
+,lowell,74,80,LOC,0.9792
+,bc,65,69,LOC,0.673
+,taylor,138,144,PER,0.815
+,suzy,149,153,PER,0.95
+,covid-19,30,38,MISC,0.7638
+,jimmy kimmel,19,31,PER,0.9996
+,rudy giuliani,44,57,PER,0.973
+,herman cain,108,119,PER,0.9864
+,delhi,15,20,LOC,0.8671
+,satyendar jain,37,51,PER,0.9986
+,shahrukhkhan,57,69,PER,0.9989
+,remdesivir,88,98,MISC,0.9807
+,fda advisory committee,30,52,ORG,0.7982
+,fda,72,75,ORG,0.9995
+,pfizer covid-19,89,104,MISC,0.9369
+,fda,120,123,ORG,1.0
+,nhl,9,12,ORG,1.0
+,boycottnhl,178,188,ORG,0.4675
+,nba,222,225,ORG,1.0
+,nfl,230,233,ORG,1.0
+,canadian-us border,102,120,LOC,0.6351
+,chinese,156,163,MISC,0.9994
+,canada,192,198,LOC,1.0
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,washington dc,46,59,LOC,0.9501
+,congress,92,100,ORG,0.9995
+,rivers,38,44,LOC,0.5383
+,govwike,61,68,PER,0.8744
+,covid-19,85,93,MISC,0.7877
+,us,74,76,LOC,0.9997
+,pearl harbor,112,124,LOC,0.9596
+,covid,74,79,MISC,0.6744
+,whitmer,0,7,PER,0.8269
+,biden,24,29,PER,1.0
+,white house,45,56,LOC,0.9996
+,fda,20,23,ORG,1.0
+,trump,18,23,ORG,0.6404
+,canadian forces,0,15,ORG,0.834
+,tsihanouskaya,4,17,PER,0.6316
+,lukashenka,19,29,PER,0.9988
+,belarus,54,61,LOC,1.0
+,covid,73,78,PER,0.9399
+,new hampshire house,36,55,ORG,0.9683
+,covid,82,87,MISC,0.703
+,covid,28,33,PER,0.9573
+,republicanâ,129,140,MISC,0.9982
+,spencer,12,19,PER,0.9232
+,americans,26,35,MISC,0.9993
+,covid19,44,51,MISC,0.9741
+,us,33,35,LOC,0.9991
+,jezza,66,71,PER,0.9987
+,labour,115,121,ORG,0.9105
+,keith fogle,37,48,PER,0.9978
+,tylerglaiel covid,1,18,ORG,0.8863
+,us,60,64,LOC,0.9996
+,covid-19,106,114,MISC,0.6432
+,cdc,20,23,ORG,1.0
+,trumpâ€™,101,109,ORG,0.5088
+,eu,14,16,ORG,1.0
+,damnit,115,121,PER,0.9958
+,covid,54,59,MISC,0.8261
+,sundaservice,75,87,MISC,0.7778
+,american,68,76,MISC,0.9994
+,covid,87,92,PER,0.4115
+,wto,42,45,ORG,1.0
+,covid019,125,133,MISC,0.9965
+,barcelona zoo,57,70,ORG,0.6318
+,covid-19,96,104,MISC,0.9761
+,nhl,0,3,ORG,0.9995
+,cdc,31,34,ORG,1.0
+,ellen,27,32,PER,0.9188
+,covid-1â,132,140,MISC,0.9649
+,pfizer,17,23,ORG,0.8549
+,bell,51,55,PER,0.9872
+,bell,68,72,PER,0.9998
+,wheeler,8,15,PER,0.8036
+,ellen degeneres,8,23,PER,0.9983
+,msnbc,14,19,ORG,0.9999
+,chris hayes,22,33,PER,0.9995
+,trump,43,48,PER,0.8773
+,covid,46,51,MISC,0.8159
