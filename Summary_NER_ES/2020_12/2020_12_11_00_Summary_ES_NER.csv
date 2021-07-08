@@ -1,0 +1,2276 @@
+Tweet_ID,NER_Text,Start_Pos,Eng_Pos,NER_Label,Prob
+,covid,0,5,PER,0.9999
+,oriente próximo,53,68,LOC,1.0
+,nicolasmaduro,4,17,PER,0.9969
+,venezuela,19,28,LOC,0.9999
+,pandemia del covid-19,79,100,MISC,0.9977
+,dani,1,5,PER,0.9954
+,hdez94,6,12,MISC,0.9404
+,covid,43,48,PER,0.9461
+,juan68538017,4,16,PER,0.9969
+,propiai,19,26,ORG,0.9931
+,sousa,90,95,PER,0.9999
+,fiscalía,22,30,ORG,0.9998
+,cicies,42,48,ORG,0.9968
+,bukele,60,66,PER,0.9994
+,covid-19,179,187,ORG,0.9249
+,salud,210,215,MISC,0.9999
+,agricultura,217,228,MISC,0.9998
+,seguridad pública,230,247,MISC,0.9943
+,hacienda,249,257,MISC,0.9998
+,turismo,259,266,MISC,0.9998
+,mippcivzla,4,14,ORG,0.7064
+,josé luis camero,30,46,PER,0.9999
+,covid-19,72,80,MISC,0.999
+,tonicanto1,4,14,PER,0.9014
+,illa,16,20,PER,0.9999
+,covid,53,58,PER,0.9995
+,ine,80,83,ORG,0.9995
+,"""aló presidente""",41,57,MISC,0.998
+,venezuela,105,114,LOC,0.9995
+,covid-19,174,182,MISC,0.9996
+,gtorreamione,4,16,PER,0.9965
+,covid,58,63,ORG,0.9486
+,eldestapeweb,4,16,ORG,0.9701
+,blanca osuna,18,30,PER,0.9999
+,fdt,45,48,ORG,1.0
+,covid-19,71,79,MISC,0.9999
+,músicaxmedicinas,6,22,MISC,0.3386
+,covid,116,121,MISC,0.9998
+,insumosysalariosdignos,186,208,MISC,0.9889
+,eligesolidaridad,209,225,MISC,0.846
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,mippcivzla,4,14,ORG,0.7744
+,medellín,21,29,LOC,0.9999
+,quinterocalle,32,45,PER,0.701
+,covid-19,92,100,MISC,0.9997
+,waykaperu,4,13,ORG,0.9987
+,covid,58,63,MISC,0.9996
+,shiracmaca,86,96,LOC,0.9998
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,claudiashein,1,13,PER,0.9941
+,gobcdmx,25,32,ORG,0.9999
+,coparmex,51,59,ORG,1.0
+,agencia digital de innovación pública,75,112,ORG,0.9999
+,certificado covid / empresa segura”,137,172,MISC,0.8541
+,covid-19,0,8,MISC,0.9941
+,argentina,9,18,LOC,0.9995
+,alfredodelmazo,4,18,PER,0.9742
+,conago,38,44,ORG,0.9999
+,secretaria de gobernación,60,85,PER,0.9997
+,m_olgascordero,88,102,PER,0.9973
+,gobiernomx,123,133,ORG,0.912
+,andaluciasinvox,1,16,ORG,0.766
+,covid,59,64,PER,0.9945
+,nandoreport,4,15,ORG,0.9898
+,covid,57,62,MISC,0.9984
+,armelleid,98,107,ORG,0.9991
+,majo,111,115,PER,0.44
+,foro_tv,4,11,ORG,0.9879
+,covid-19,31,39,MISC,0.9997
+,cdmx,41,45,ORG,0.9997
+,votoutil2021,4,16,MISC,0.8304
+,covid-19,86,94,MISC,0.9998
+,omalonar,4,12,PER,0.5858
+,gc,26,28,ORG,0.9956
+,aliurdiales,72,83,MISC,0.8486
+,luis,30,34,PER,0.9995
+,covid,88,93,MISC,0.9997
+,amorentiemposdepandemia,227,250,MISC,0.9995
+,pamelaamorenoo,4,18,PER,0.9921
+,ruizjuanc,4,13,PER,0.5608
+,kenia,126,131,LOC,1.0
+,tanza,134,139,LOC,0.9996
+,serric1007,4,14,PER,0.6966
+,cdmx,121,125,LOC,0.9999
+,estado de mé,127,139,LOC,0.9869
+,sinae,2,7,ORG,0.9996
+,covid19,47,54,MISC,0.9999
+,saludssrv,4,13,ORG,0.9637
+,pcr,96,99,MISC,0.9996
+,estadio municipal ángel,115,138,LOC,0.9089
+,cnnee,4,9,ORG,1.0
+,italia,11,17,LOC,1.0
+,mippcivzla,4,14,ORG,0.7064
+,josé luis camero,30,46,PER,0.9999
+,covid-19,72,80,MISC,0.999
+,cimagen,4,11,ORG,0.9965
+,secretaría de salud,87,106,ORG,0.9999
+,centro de la imagen,111,130,LOC,0.9995
+,leonvalenciaa,4,17,PER,0.9898
+,johnson,43,50,PER,0.9999
+,reino unido,56,67,ORG,0.9999
+,flacsoec,4,12,ORG,0.9999
+,urvio,44,49,ORG,1.0
+,seguridad reg,126,139,MISC,0.9919
+,nandoreport,4,15,ORG,0.9898
+,covid,57,62,MISC,0.9984
+,armelleid,98,107,ORG,0.9991
+,majo,111,115,PER,0.44
+,alfredodelmazo,4,18,PER,0.9644
+,covid,28,33,MISC,0.9988
+,edoméx,45,51,LOC,0.9986
+,escritoslana,4,16,MISC,0.4878
+,cristobustos,4,16,ORG,0.7176
+,covid,29,34,MISC,0.9998
+,colombia,38,46,LOC,1.0
+,neljulgerg16,4,16,PER,0.9626
+,henryjimenezp,19,32,PER,0.7781
+,somosvenvidrio,63,77,ORG,0.9971
+,henryjimenezp,79,92,PER,0.4417
+,anespueblo venvidrioesproduccion,105,137,MISC,0.9147
+,kaarenicole,4,15,PER,0.8243
+,kittypelwchy,4,16,PER,0.9951
+,mejoractor,20,30,MISC,0.9909
+,jaime bonilla,33,46,PER,0.9999
+,covid,59,64,MISC,0.9992
+,hospital público,86,102,ORG,0.9979
+,santism10,1,10,PER,0.9957
+,franciscofcb97,12,26,PER,0.9995
+,canaln,4,10,ORG,0.9963
+,federación médica peruana de la región piura,13,57,ORG,0.9999
+,uci,86,89,ORG,0.9997
+,alianza del pacífico,18,38,ORG,0.9998
+,gabyspepe,4,13,ORG,0.7341
+,blanca osuna,27,39,PER,0.9999
+,fdt,41,44,ORG,0.9999
+,entre ríos,46,56,LOC,0.9999
+,covid,112,117,PER,0.9998
+,vueltadpagina,4,17,ORG,0.9662
+,medios,23,29,ORG,0.9902
+,edomex,4,10,ORG,0.9999
+,covid,105,110,MISC,0.9975
+,macarenacelinaa,4,19,PER,0.9991
+,glendimar2512,4,17,PER,0.9587
+,covid-19,104,112,MISC,0.9999
+,conaleptulti,4,16,ORG,0.9979
+,apple28lady,4,15,PER,0.4746
+,covid,128,133,PER,0.9998
+,daniellefeinbe2,1,16,PER,0.9852
+,skaybryan,18,27,MISC,0.7558
+,alertanews24,29,41,ORG,0.6704
+,covid,114,119,MISC,0.9999
+,conelmazodando,4,18,ORG,0.9974
+,venezuela,20,29,LOC,0.9999
+,covid-19,79,87,MISC,0.9998
+,chavismolealtadatodaprueb,113,138,MISC,0.4498
+,mippcivzla,4,14,PER,0.5999
+,covid-19,88,96,MISC,0.9999
+,sanidad,27,34,MISC,0.5105
+,madrid,47,53,LOC,1.0
+,covid,74,79,MISC,0.9999
+,julianvalencla,4,18,PER,0.9765
+,americadecali,85,98,PER,0.8183
+,salud,78,83,MISC,0.9998
+,covid,108,113,ORG,0.9053
+,cantonieduardo,1,15,PER,0.9854
+,covid,27,32,ORG,0.9997
+,covid,0,5,PER,0.9999
+,serric1007,4,14,PER,0.6966
+,cdmx,121,125,LOC,0.9999
+,estado de mé,127,139,LOC,0.9869
+,rctagliaferro,4,17,ORG,0.7662
+,pymes,97,102,MISC,0.5936
+,subcomité técnico regional covid-19 sureste,37,80,ORG,0.9617
+,subcomitesurest,83,98,ORG,0.4093
+,fuertecoahuilaes todosporsaltillo,99,132,MISC,0.9995
+,anairam76,4,13,ORG,0.4018
+,china,0,5,ORG,0.9224
+,fda,12,15,ORG,0.9999
+,pfizer,55,61,ORG,0.9999
+,covid-19,72,80,MISC,0.9999
+,eu,113,115,LOC,0.9996
+,elimparcialcom,155,169,ORG,0.9965
+,irapuato,0,8,LOC,0.9999
+,covid19,88,95,MISC,0.9999
+,exppolitica,4,15,ORG,0.9901
+,cdmx,20,24,LOC,0.9999
+,valle de méxico,30,45,LOC,1.0
+,realbet10495621,1,16,ORG,0.9095
+,jesssurez,18,27,PER,0.976
+,betconfioficial,29,44,ORG,0.8645
+,covid,52,57,ORG,0.9993
+,alfreserramanci,4,19,ORG,0.975
+,covid,44,49,MISC,0.9995
+,ecuador,53,60,LOC,1.0
+,🇪🇨,61,63,LOC,0.4788
+,covid,97,102,MISC,0.9994
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,cnnee,4,9,ORG,1.0
+,fda,48,51,ORG,0.9999
+,pfizer,109,115,ORG,0.9993
+,waykaperu,4,13,ORG,0.9987
+,covid,58,63,MISC,0.9996
+,shiracmaca,86,96,LOC,0.9998
+,anairam76,4,13,ORG,0.425
+,aamorettivp,4,15,ORG,0.2546
+,miguel_pizarro,4,18,PER,0.9998
+,uci,42,45,ORG,0.9366
+,covid-19,57,65,MISC,0.9999
+,dip,70,73,PER,0.9806
+,@suarezbolivia,75,89,PER,0.7634
+,coronaconsultas,4,19,ORG,0.9997
+,covid-19,21,29,MISC,0.9989
+,argentina,30,39,LOC,0.9992
+,eldestapeweb,4,16,ORG,0.9701
+,blanca osuna,18,30,PER,0.9999
+,fdt,45,48,ORG,1.0
+,covid-19,71,79,MISC,0.9999
+,norabar,4,11,ORG,0.8428
+,covid,81,86,PER,0.998
+,msalnacion,92,102,ORG,0.968
+,conelmazodando,4,18,ORG,0.9991
+,colombia,20,28,LOC,0.738
+,covid-19,60,68,MISC,0.9999
+,gabriel,4,11,PER,0.9992
+,oshea,12,17,ORG,0.9064
+,covid,65,70,MISC,0.996
+,edoméxensemáforonaranja,109,132,MISC,0.9071
+,chuchencio,1,11,PER,0.6902
+,lovenursingmery,13,28,PER,0.7094
+,joancmarch,30,40,PER,0.5374
+,juliomayol,42,52,PER,0.4946
+,enfrmrasaturada,69,84,PER,0.7881
+,concienciaenf,86,99,MISC,0.8929
+,obligación,193,203,MISC,0.5387
+,ética,206,211,MISC,0.9741
+,mippcivzla,4,14,ORG,0.9672
+,covid-19,55,63,MISC,0.9998
+,covid-19,0,8,MISC,0.9992
+,tolhuin,38,45,ORG,0.9991
+,río grande,49,59,ORG,0.9999
+,ushuaia,65,72,ORG,0.9997
+,bilancieri,4,14,PER,0.9989
+,junta,30,35,ORG,0.803
+,fda,56,59,ORG,0.9999
+,elmanudechasco,4,18,ORG,0.4263
+,covid-19,30,38,MISC,0.9998
+,chascomús,42,51,LOC,1.0
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,covid 19,27,35,MISC,0.9999
+,eldestapeweb,4,16,ORG,0.9701
+,blanca osuna,18,30,PER,0.9999
+,fdt,45,48,ORG,1.0
+,covid-19,71,79,MISC,0.9999
+,ruizjuanc,4,13,PER,0.5608
+,kenia,126,131,LOC,1.0
+,tanza,134,139,LOC,0.9996
+,madrid,22,28,LOC,0.8989
+,covid,58,63,MISC,0.9944
+,tve,100,103,ORG,0.9999
+,gobierno,111,119,ORG,0.9999
+,pge,130,133,MISC,0.9996
+,b,138,139,ORG,0.9997
+,mippcivzla,4,14,ORG,0.7744
+,susanadeleonc,1,14,MISC,0.8082
+,gallomatrix,16,27,MISC,0.941
+,paulinasofiato,29,43,PER,0.9972
+,covid,75,80,PER,0.9954
+,cuba,99,103,LOC,1.0
+,anpnl05,4,11,ORG,0.9995
+,covid,47,52,PER,0.9999
+,universidad de cambridge,91,115,ORG,0.9999
+,covid-19,86,94,MISC,0.9999
+,anairam76,4,13,PER,0.4119
+,covid,34,39,LOC,0.9998
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,alfredodelmazo,4,18,PER,0.9742
+,conago,38,44,ORG,0.9999
+,secretaria de gobernación,60,85,PER,0.9997
+,m_olgascordero,88,102,PER,0.9973
+,gobiernomx,123,133,ORG,0.912
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,eldestapeweb,4,16,ORG,0.9701
+,blanca osuna,18,30,PER,0.9999
+,fdt,45,48,ORG,1.0
+,covid-19,71,79,MISC,0.9999
+,salta,12,17,LOC,0.9999
+,covid-19,42,50,MISC,0.9999
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,sudebaninforma,4,18,ORG,0.9199
+,covid-19,48,56,MISC,0.9995
+,nicolasmaduro,100,113,PER,0.8923
+,mippcivzla,116,126,ORG,0.9977
+,minsaludv,129,138,ORG,0.9996
+,rctagliaferro,4,17,ORG,0.7662
+,pymes,97,102,MISC,0.5936
+,covid,58,63,MISC,0.9993
+,armelleid,99,108,ORG,0.9997
+,majo,112,116,PER,0.3534
+,foro_tv,4,11,ORG,0.9002
+,créditos a la palabra,59,80,MISC,0.9999
+,expresodelamañana,110,127,ORG,0.9809
+,sandryluna2008,4,18,MISC,0.9783
+,jacqueline faria,20,36,PER,0.9999
+,noti capital,47,60,MISC,0.9995
+,noti_capital,62,75,MISC,0.9989
+,gobierno,102,110,ORG,0.9995
+,jacquelinepsuv,114,128,ORG,0.9448
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,carmelaniembro,4,18,PER,0.9535
+,covid,114,119,MISC,0.9999
+,vacunacovid19,3,16,MISC,0.7887
+,viruscorona,132,143,MISC,0.9901
+,covid,158,163,MISC,0.7973
+,buenjueves,169,179,MISC,0.9846
+,skyaquaklin,4,15,MISC,0.6831
+,canaloncetv,30,41,ORG,0.9994
+,estefaniaveloz,58,72,PER,0.9996
+,canal 11,106,114,ORG,0.9982
+,daniel_garcia9,4,18,PER,0.8492
+,covid - 19,53,63,MISC,0.9942
+,mippcivzla,4,14,ORG,0.5013
+,neuris díaz,30,41,PER,0.9999
+,zulia,64,69,LOC,1.0
+,covid-19,121,129,MISC,0.9999
+,mippcivzla,4,14,ORG,0.8148
+,luis pérez,30,40,PER,0.9999
+,cds,121,124,MISC,0.9854
+,cloro,136,141,MISC,0.9503
+,miguel angel aguilar,171,191,PER,1.0
+,covid,221,226,MISC,0.9989
+,glendimar2512,4,17,PER,0.9587
+,covid-19,104,112,MISC,0.9999
+,mippcivzla,4,14,ORG,0.7744
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,covid,17,22,PER,0.9999
+,icementera,4,14,ORG,0.9977
+,covid,34,39,ORG,0.9994
+,envenezuelanoscuidamos csc,66,92,ORG,0.8373
+,minindustriasve,94,109,ORG,0.9995
+,conaleptulti,4,16,ORG,0.9991
+,covid_19,50,58,MISC,0.9995
+,isceem,4,10,ORG,0.9983
+,isceem,34,40,ORG,1.0
+,divisióntejupilco,57,74,LOC,0.9895
+,jrsestaca,4,13,PER,0.6749
+,covid,67,72,MISC,0.6978
+,samuel garcia,204,217,PER,0.9999
+,samuel,249,255,PER,0.606
+,gabyspepe,4,13,ORG,0.7341
+,blanca osuna,27,39,PER,0.9999
+,fdt,41,44,ORG,0.9999
+,entre ríos,46,56,LOC,0.9999
+,covid,112,117,PER,0.9998
+,jorgecely7,4,14,PER,0.9997
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,elpatospain,4,15,ORG,0.9982
+,españa,61,67,LOC,1.0
+,ine,97,100,ORG,0.9995
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,covid,157,162,MISC,0.9997
+,cdmx,207,211,LOC,0.9922
+,covid,213,218,MISC,0.9992
+,mippcivzla,4,14,ORG,0.7643
+,pedro núñez,30,41,PER,0.9999
+,gtorreamione,4,16,PER,0.9708
+,pfizer,30,36,ORG,0.9999
+,moderna,39,46,ORG,0.9998
+,covid,59,64,MISC,0.9999
+,mindetransporte,4,19,ORG,0.8266
+,foro internacional de tran,113,139,ORG,0.9999
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,conelmazodando,4,18,ORG,0.9991
+,colombia,20,28,LOC,0.738
+,covid-19,60,68,MISC,0.9999
+,jrebeldecu,4,14,ORG,0.6604
+,la habana,24,33,LOC,1.0
+,estados unidos,100,114,ORG,0.8692
+,idiazayuso,4,14,PER,0.8493
+,tarjeta sanitaria virtual,46,71,MISC,0.9999
+,matias12985568,4,18,PER,0.9974
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,saludedomex,4,15,ORG,0.9826
+,covid,63,68,MISC,0.9997
+,edoméxensemáforonaranja,107,130,MISC,0.9143
+,músicaxmedicinas,19,35,MISC,0.9284
+,mippcivzla,4,14,ORG,0.5013
+,neuris díaz,30,41,PER,0.9999
+,zulia,64,69,LOC,1.0
+,covid-19,121,129,MISC,0.9999
+,mippcivzla,4,14,ORG,0.8148
+,luis pérez,30,40,PER,0.9999
+,covid-19,146,154,MISC,0.9997
+,caliguardalavida,173,189,MISC,0.9423
+,skyaquaklin,4,15,MISC,0.6831
+,canaloncetv,30,41,ORG,0.9994
+,estefaniaveloz,58,72,PER,0.9996
+,canal 11,106,114,ORG,0.9982
+,mippcivzla,4,14,ORG,0.5013
+,neuris díaz,30,41,PER,0.9999
+,zulia,64,69,LOC,1.0
+,covid-19,121,129,MISC,0.9999
+,fda,36,39,ORG,1.0
+,covid-19,82,90,MISC,0.9999
+,pfizer,94,100,ORG,0.9999
+,estados unidos,104,118,LOC,0.9978
+,infobae,121,128,ORG,0.9999
+,aldo,4,8,PER,0.992
+,osnar,9,14,PER,0.9998
+,enamorarte,38,48,PER,0.7179
+,titularte,50,59,PER,0.9954
+,vacunarte,62,71,PER,0.9917
+,covid,82,87,PER,0.6017
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,cristobustos,4,16,ORG,0.7176
+,covid,29,34,MISC,0.9998
+,colombia,38,46,LOC,1.0
+,comunidad de madrid,57,76,ORG,0.9987
+,idiazayuso,81,91,PER,0.961
+,escritoslana,4,16,MISC,0.4878
+,covid-19,8,16,MISC,0.9989
+,país,23,27,LOC,0.9999
+,conelmazodando,4,18,ORG,0.9991
+,colombia,20,28,LOC,0.738
+,covid-19,60,68,MISC,0.9999
+,senadomexicano,7,21,ORG,0.993
+,medallabelisariodomínguez,43,68,MISC,0.9996
+,covid-19,211,219,MISC,0.9998
+,méxico,264,270,LOC,0.9994
+,felovazquezbove,4,19,PER,0.9998
+,elcomercio,4,14,ORG,0.9982
+,peru,15,19,LOC,0.7176
+,alianza del pacífico,39,59,ORG,0.9998
+,slp,0,3,ORG,0.9924
+,slp,6,9,ORG,0.9985
+,jesusbh,4,11,ORG,0.4647
+,ffpaciente,86,96,ORG,0.995
+,coronavirusnewv,4,19,ORG,0.994
+,francia,26,33,LOC,0.9995
+,covid-19,91,99,MISC,0.9998
+,francia,115,122,LOC,0.9999
+,france,123,129,LOC,0.9997
+,covid19,130,137,MISC,0.9986
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,rebrote del covid,0,17,MISC,0.998
+,alcaldía de santa cruz,19,41,ORG,0.9998
+,acuerdo por santa cruz,114,136,MISC,0.9996
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,redlaraddhh,4,15,PER,0.9136
+,músicaxmedicinas,17,33,MISC,0.991
+,co,136,138,MISC,0.9981
+,covid-19,112,120,MISC,0.9998
+,noticiastvn,186,197,MISC,0.9891
+,cristobustos,4,16,ORG,0.7176
+,covid,29,34,MISC,0.9998
+,colombia,38,46,LOC,1.0
+,alfredodelmazo,4,18,PER,0.9742
+,conago,38,44,ORG,0.9999
+,secretaria de gobernación,60,85,PER,0.9997
+,m_olgascordero,88,102,PER,0.9973
+,gobiernomx,123,133,ORG,0.912
+,robledogabb,4,15,PER,0.9993
+,guadalupanas,16,28,MISC,0.9802
+,covid-19,43,51,MISC,0.9996
+,comercio virgendeguadalupe,100,126,MISC,0.8373
+,tradiciones,127,138,MISC,0.8625
+,cuautlahoy,139,149,MISC,0.5726
+,fda,85,88,ORG,1.0
+,china,3,8,LOC,0.9999
+,covid_19,93,101,MISC,0.9909
+,igualdad animal,112,127,ORG,0.9999
+,ia,130,132,ORG,0.9999
+,mexico,133,139,LOC,0.9846
+,regístrategratis,141,157,MISC,0.8482
+,covid,34,39,MISC,0.9984
+,cruzazul,43,51,LOC,0.9987
+,cancun,76,82,LOC,0.9091
+,quintanaroo,83,94,LOC,0.9707
+,chetumal,95,103,LOC,0.9015
+,tulum,104,109,LOC,0.9382
+,islamujeres,118,129,LOC,0.9045
+,cozumel,130,137,LOC,0.9014
+,playadelcarmen,162,176,LOC,0.9988
+,francia,0,7,ORG,0.7183
+,covid-19,81,89,MISC,0.9999
+,músicaxmedicinas,0,16,MISC,0.9953
+,covid,190,195,MISC,0.9995
+,insumosysalariosdignos,200,222,MISC,0.9993
+,eligesolidaridad,223,239,MISC,0.615
+,senadomexicano,28,42,ORG,0.9864
+,medallabelisariodomínguez,64,89,MISC,0.9998
+,gabipinamar1973,4,19,PER,0.9809
+,gerardon1001,22,34,PER,0.9988
+,danielsampero,4,17,PER,0.9995
+,covid,115,120,ORG,0.9997
+,waykaperu,4,13,ORG,0.9987
+,covid,58,63,MISC,0.9996
+,shiracmaca,86,96,LOC,0.9998
+,cnnee,4,9,ORG,0.9999
+,fda,37,40,ORG,1.0
+,pfizer,110,116,ORG,0.9998
+,reino unido,123,134,LOC,1.0
+,pfizer,13,19,ORG,0.9999
+,covid-19,30,38,MISC,0.9999
+,parálisis de bell,91,108,MISC,0.9997
+,europapress,1,12,ORG,0.9992
+,arn,181,184,MISC,0.9981
+,covid-19,215,223,MISC,0.9999
+,eric caumes,233,244,PER,0.9999
+,mira,6,10,LOC,0.2683
+,salud,12,17,ORG,0.5277
+,covid,70,75,MISC,0.9998
+,drablancapulido,108,123,PER,0.9861
+,ssa,125,128,ORG,0.9998
+,bcs,129,132,ORG,0.9999
+,puebla,12,18,LOC,1.0
+,gobernador barbosa,20,38,PER,0.9984
+,covid-19,105,113,MISC,0.9999
+,pablocast13,4,15,PER,0.9784
+,sanidad,29,36,MISC,0.9511
+,madrid,49,55,LOC,1.0
+,covid,76,81,MISC,0.9999
+,la adela,0,8,LOC,0.9714
+,centro de salud,41,56,ORG,0.9997
+,la adela,60,68,LOC,0.985
+,covid-19,105,113,MISC,0.9998
+,lillytellez,4,15,PER,0.995
+,medalla belisario domínguez,34,61,MISC,0.9999
+,covid,132,137,MISC,0.9993
+,músicaxmedicinas,0,16,MISC,0.7724
+,covid 19,119,127,MISC,0.9999
+,insumosysalariosdignos,138,160,MISC,0.915
+,eligesolidaridad,161,177,MISC,0.9154
+,elcancillercom,4,18,ORG,0.5476
+,abortolegal2020,20,35,MISC,0.8203
+,blanca osuna,36,48,PER,0.9999
+,covid-19,93,101,MISC,0.9992
+,covid-19,38,46,MISC,0.9998
+,covid,217,222,MISC,0.9998
+,undatia,228,235,ORG,0.9998
+,mippcivzla,4,14,ORG,0.7064
+,josé luis camero,30,46,PER,0.9999
+,covid-19,72,80,MISC,0.999
+,rverbalkint,4,15,ORG,0.6759
+,fa,20,22,ORG,0.9999
+,pit-cnt,132,139,ORG,0.9999
+,lillytellez,4,15,PER,0.995
+,medalla belisario domínguez,34,61,MISC,0.9999
+,covid,132,137,MISC,0.9993
+,disneyinvestorday,48,65,MISC,0.7288
+,hollywood,105,114,LOC,0.9999
+,covid,124,129,PER,0.9999
+,robledogabb,4,15,PER,0.9969
+,listindiario,4,16,ORG,0.9989
+,saludld,18,25,MISC,0.9678
+,covid-19,88,96,MISC,0.9998
+,listíndiario,123,135,ORG,0.8512
+,t13,4,7,ORG,0.9321
+,fda,26,29,ORG,0.9999
+,pfizer,60,66,ORG,0.9998
+,covid-19,77,85,MISC,0.9998
+,t13central,99,109,MISC,0.9963
+,sinembargomx,4,16,ORG,0.9905
+,covid-19,21,29,MISC,0.9999
+,oms,77,80,ORG,0.9997
+,penonomé,41,49,LOC,0.9999
+,covid-19,79,87,MISC,0.9999
+,dirección graldel sistema penitenciario,211,251,ORG,0.9999
+,penitenciariopa,253,268,ORG,0.629
+,conelmazodando,4,18,ORG,0.9991
+,colombia,20,28,LOC,0.738
+,covid-19,60,68,MISC,0.9999
+,el_universal,4,16,ORG,0.9464
+,mx,17,19,ORG,0.63
+,administración de fármacos y alimentos de estados unidos,44,100,ORG,0.9998
+,pfize,134,139,ORG,0.9955
+,minsaludcol,4,15,ORG,0.9789
+,robledogabb,4,15,PER,0.9986
+,heartsonvzla,4,16,PER,0.837
+,músicaxmedicinas,18,34,MISC,0.9865
+,🇺🇸,30,32,LOC,0.9743
+,pfizervaccine,33,46,MISC,0.9998
+,fda,49,52,ORG,0.9981
+,pfizer,77,83,ORG,0.9997
+,biontech,84,92,ORG,0.9992
+,covid-19,93,101,MISC,0.9996
+,statnews,139,147,ORG,0.9976
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,rocio2141,4,13,MISC,0.67
+,rctagliaferro,4,17,ORG,0.7662
+,pymes,97,102,MISC,0.5936
+,ecuavisa,4,12,ORG,0.9981
+,pases del niño,55,69,MISC,0.9995
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,miguel_pizarro,4,18,PER,0.9998
+,uci,42,45,ORG,0.9366
+,covid-19,57,65,MISC,0.9999
+,dip,70,73,PER,0.9806
+,@suarezbolivia,75,89,PER,0.7634
+,covid,25,30,MISC,0.9947
+,cuidemostodosdetodos,87,107,MISC,0.7386
+,edoméxensemáforonaranja,109,132,MISC,0.9878
+,jgnaredo,32,40,PER,0.8685
+,robledogabb,4,15,PER,0.9974
+,covid,48,53,MISC,0.9997
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,trabajoencasa,133,146,MISC,0.8254
+,sanadistancia,158,171,MISC,0.9942
+,covid,181,186,MISC,0.9973
+,aldo,4,8,PER,0.992
+,osnar,9,14,PER,0.9998
+,enamorarte,38,48,PER,0.7179
+,titularte,50,59,PER,0.9954
+,vacunarte,62,71,PER,0.9917
+,covid,82,87,PER,0.6017
+,nacionalcri,0,11,MISC,0.9961
+,panamá,19,25,LOC,1.0
+,lucasmmedrano07,4,19,PER,0.9931
+,covid-19,21,29,MISC,0.9996
+,suecia,31,37,LOC,0.9999
+,derrumba,100,108,LOC,0.9827
+,deniseramosm,4,16,ORG,0.529
+,brasil,0,6,LOC,0.9405
+,ptiburona,4,13,ORG,0.9999
+,estamosconjunior,15,31,MISC,0.9966
+,colombia,58,66,LOC,1.0
+,aleperz7,1,9,PER,0.8588
+,canal10cba,25,35,ORG,0.5397
+,brozoxmiswebs,4,17,ORG,0.7497
+,eu,58,60,LOC,0.9999
+,pfizer,104,110,ORG,0.9999
+,covid,118,123,MISC,0.9996
+,panamá,7,13,LOC,1.0
+,aronnax19,4,13,PER,0.6883
+,aerolíneas argentinas,15,36,ORG,0.9999
+,covid,71,76,MISC,0.9544
+,robledogabb,4,15,PER,0.9996
+,thecliniccl,4,15,ORG,0.7228
+,covid19,20,27,MISC,0.9912
+,sanidad pública,33,48,ORG,0.9999
+,inglaterra,52,62,LOC,1.0
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,valuscani12,4,15,PER,0.9865
+,covid,44,49,MISC,0.9985
+,ferras,19,25,PER,0.9999
+,nadiarodriiigue,1,16,PER,0.9186
+,asociación de maestros de montevideo,3,39,ORG,0.9999
+,covid-19,87,95,MISC,0.9998
+,miguel_pizarro,4,18,PER,0.9998
+,uci,42,45,ORG,0.9366
+,covid-19,57,65,MISC,0.9999
+,dip,70,73,PER,0.9806
+,@suarezbolivia,75,89,PER,0.7634
+,pau_oliveto,4,15,PER,0.9891
+,cristina,17,25,PER,0.9997
+,justicia,76,84,MISC,0.999
+,pau_ramirez,4,15,PER,0.9371
+,medicodelaire,19,32,ORG,0.9968
+,hdemauleon,34,44,ORG,0.6126
+,universal,49,58,ORG,0.8934
+,admisión continua,73,90,MISC,0.8325
+,la raza hospital general,103,127,ORG,0.9996
+,alecrespof,4,14,PER,0.9897
+,cdmx,44,48,ORG,0.9125
+,gabo1377,4,12,ORG,0.4406
+,músicaxmedicinas,20,36,MISC,0.7458
+,covid 19,84,92,MISC,0.9996
+,cnnee,4,9,ORG,1.0
+,italia,11,17,LOC,1.0
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,com de madrid,17,31,ORG,0.9225
+,covid,134,139,ORG,0.9995
+,sudebaninforma,4,18,ORG,0.9199
+,covid-19,48,56,MISC,0.9995
+,nicolasmaduro,100,113,PER,0.8923
+,mippcivzla,116,126,ORG,0.9977
+,minsaludv,129,138,ORG,0.9996
+,miguel_pizarro,4,18,PER,0.9998
+,uci,42,45,ORG,0.9366
+,covid-19,57,65,MISC,0.9999
+,dip,70,73,PER,0.9806
+,@suarezbolivia,75,89,PER,0.7634
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,elsa_ena,4,12,PER,0.9554
+,covid,71,76,ORG,0.9992
+,vamospormás,104,115,MISC,0.9945
+,covid seasmamon,115,130,MISC,0.9987
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,covid,58,63,MISC,0.9993
+,armelleid,99,108,ORG,0.9997
+,majo,112,116,PER,0.3534
+,unicordoba,4,14,ORG,0.9999
+,cuídamecuídate,20,34,MISC,0.9991
+,covid-19,124,132,MISC,0.9999
+,robledogabb,4,15,PER,0.9991
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,drthomaspaul,1,13,PER,0.9996
+,jacqueline29061,15,30,PER,0.9993
+,vacuna covid,48,60,MISC,0.9998
+,abcnoticiasmx,4,17,ORG,0.9979
+,gobierno del estado,24,43,ORG,0.9999
+,jaime rodríguez calderón,71,95,PER,0.9997
+,telesurtv,4,13,ORG,0.9857
+,estadosunidos🇺🇸,15,30,LOC,0.71
+,covid-19,93,101,MISC,0.9999
+,4tgloria,4,12,ORG,0.7969
+,coronaconsultas,4,19,ORG,0.9997
+,covid-19,21,29,MISC,0.9989
+,argentina,30,39,LOC,0.9992
+,romontesdeoca,4,17,PER,0.4167
+,músicaxmedicinas,19,35,MISC,0.9813
+,covid 19,83,91,MISC,0.9998
+,in,135,137,MISC,0.9801
+,covid-19,9,17,MISC,0.9997
+,yucatán,21,28,LOC,1.0
+,mippcivzla,4,14,ORG,0.998
+,eeuu,34,38,LOC,0.9999
+,pfizer,82,88,ORG,0.9999
+,biontech,91,99,ORG,0.9999
+,covid-19,107,115,MISC,0.9998
+,covid,30,35,MISC,0.9991
+,córdoba,39,46,LOC,1.0
+,cordobasalud,48,60,ORG,0.8846
+,elmeridianoteubica,90,108,ORG,0.9976
+,lillytellez,4,15,PER,0.995
+,medalla belisario domínguez,34,61,MISC,0.9999
+,covid,132,137,MISC,0.9993
+,covid,0,5,MISC,0.9988
+,san rafael,13,23,LOC,1.0
+,clauchu,4,11,PER,0.9983
+,haustec,61,68,MISC,0.9998
+,jam,114,117,MISC,0.9915
+,doctor simil,25,37,PER,0.9998
+,covid-19,61,69,MISC,0.8865
+,covid-19,22,30,MISC,0.9998
+,méxico,57,63,LOC,1.0
+,conexionwin,1,12,ORG,0.765
+,américa de cali,68,83,ORG,0.9996
+,estadio pascual guerrero,89,113,LOC,0.893
+,luis amaranto perea,211,230,PER,0.9999
+,lopezdoriga,4,15,PER,0.6055
+,basílica de guadalupe,20,41,LOC,0.9999
+,fa,54,56,ORG,1.0
+,cdmx,76,80,LOC,0.9999
+,minhacienda,4,15,ORG,0.9981
+,gobierno,20,28,ORG,0.9999
+,ecuavisainforma,4,19,ORG,0.9943
+,latam,34,39,ORG,0.9998
+,covid19,75,82,MISC,0.9999
+,ecuador,98,105,LOC,0.9999
+,mippcivzla,4,14,ORG,0.9672
+,covid-19,55,63,MISC,0.9998
+,anfpchile,4,13,ORG,0.9105
+,comisión médica de la anfp,20,46,ORG,0.9979
+,ñublense,84,92,ORG,0.9995
+,deportes temuco,95,110,ORG,0.9999
+,campeonatojuegaenlin,118,138,MISC,0.9639
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,cnnee,4,9,ORG,1.0
+,fda,35,38,ORG,1.0
+,pfizer,90,96,ORG,0.9996
+,josemacaraballo,4,19,PER,0.9534
+,covid,118,123,MISC,0.9979
+,vivianolala,4,15,PER,0.948
+,cansino,97,104,MISC,0.9999
+,covid,115,120,MISC,0.9999
+,covid-19,48,56,MISC,0.9999
+,covid,14,19,MISC,0.9861
+,mippcivzla,4,14,ORG,0.998
+,eeuu,34,38,LOC,0.9999
+,pfizer,82,88,ORG,0.9999
+,biontech,91,99,ORG,0.9999
+,covid-19,107,115,MISC,0.9998
+,covid-19,72,80,MISC,0.9999
+,covid,25,30,MISC,0.9998
+,conelmazodando,4,18,ORG,0.9991
+,colombia,20,28,LOC,0.738
+,covid-19,60,68,MISC,0.9999
+,covid-19,5,13,MISC,0.9999
+,bitácora,0,8,PER,0.9299
+,covid,149,154,MISC,0.9972
+,mongeemiliano,4,17,PER,0.9489
+,cdmx,37,41,ORG,0.9763
+,covid,122,127,MISC,0.9998
+,mippcivzla,4,14,ORG,0.998
+,eeuu,34,38,LOC,0.9999
+,pfizer,82,88,ORG,0.9999
+,biontech,91,99,ORG,0.9999
+,covid-19,107,115,MISC,0.9998
+,tvnnoticias,4,15,ORG,0.9981
+,covid-19,129,137,MISC,0.9998
+,laloup20,4,12,PER,0.9976
+,norabar,4,11,ORG,0.8428
+,covid,81,86,PER,0.998
+,msalnacion,92,102,ORG,0.968
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,lillytellez,4,15,PER,0.995
+,medalla belisario domínguez,34,61,MISC,0.9999
+,covid,132,137,MISC,0.9993
+,odavidbrizuela,4,18,PER,0.9939
+,covid-19,67,75,MISC,0.9998
+,robledogabb,4,15,PER,0.9984
+,musicaxmedicinas,20,36,MISC,0.9947
+,foro_tv,4,11,ORG,0.9973
+,covid-19,20,28,MISC,0.9999
+,eeuu,47,52,ORG,0.9822
+,lasnoticiasdeforo,85,102,MISC,0.8949
+,octaviovaldez,109,122,PER,0.8068
+,españa,18,24,LOC,1.0
+,sofiagenerali,4,17,ORG,0.9564
+,skyaquaklin,4,15,MISC,0.6831
+,canaloncetv,30,41,ORG,0.9994
+,estefaniaveloz,58,72,PER,0.9996
+,canal 11,106,114,ORG,0.9982
+,virginiaapgar3,4,18,PER,0.9989
+,@,60,61,PER,0.9082
+,alferdez,61,69,PER,0.992
+,vilma,98,103,PER,0.9998
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,caliguardalavida,137,153,MISC,0.598
+,javierpanza,4,15,PER,0.9286
+,diego_molano,1,13,PER,0.9752
+,claudialopez,15,27,PER,0.999
+,dapre,71,76,ORG,0.9998
+,palacio,178,185,ORG,0.9954
+,covid,190,195,PER,0.9999
+,administración de alimentos y medicamentos,74,116,ORG,0.9999
+,covid-19,141,149,MISC,0.9999
+,pfizer,174,180,ORG,0.9999
+,biontech,183,191,ORG,0.9999
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,rstacchiotti1,4,17,PER,0.997
+,lewis hamilton,0,14,PER,0.9993
+,gran premio,96,107,MISC,0.9997
+,abu dabi,111,119,LOC,0.9999
+,bahréin,233,240,LOC,1.0
+,noralbagarcia,4,17,PER,0.9957
+,conalep,4,11,ORG,0.9999
+,edomex,12,18,ORG,0.9997
+,covid_19,74,82,MISC,0.9996
+,neptuno92073415,4,19,MISC,0.9453
+,susanadeleonc,22,35,PER,0.9164
+,gallomatrix,37,48,PER,0.4302
+,paulinasofiato,50,64,PER,0.9993
+,covid,96,101,MISC,0.6873
+,cuba,120,124,LOC,1.0
+,covid,81,86,MISC,0.9633
+,señor javier,107,119,PER,0.9209
+,ben,4,7,PER,0.9272
+,covid19mx,16,25,MISC,0.9958
+,domínguez,71,80,PER,1.0
+,covid,128,133,ORG,0.9505
+,unam,18,22,ORG,0.9999
+,covid-19,77,85,MISC,0.9999
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,departamento de salud pública,3,32,ORG,0.999
+,condado de mecklenburg,37,59,LOC,0.9107
+,covid-19,111,119,MISC,0.9998
+,covid-19,48,56,MISC,0.9999
+,mippcivzla,4,14,ORG,0.5013
+,neuris díaz,30,41,PER,0.9999
+,zulia,64,69,LOC,1.0
+,covid-19,121,129,MISC,0.9999
+,alecrespof,4,14,PER,0.9897
+,miguel_pizarro,4,18,PER,0.9998
+,uci,42,45,ORG,0.9366
+,covid-19,57,65,MISC,0.9999
+,dip,70,73,PER,0.9806
+,@suarezbolivia,75,89,PER,0.7634
+,maleebanfield,1,14,PER,0.993
+,lopezdoriga,4,15,PER,0.775
+,covid-19,64,72,MISC,0.9999
+,covid-19,2,10,MISC,0.9986
+,la pampa,13,21,LOC,1.0
+,informeepidemiológico,86,107,MISC,0.747
+,minsaludlp,137,147,ORG,0.9998
+,gobiernolapampa,150,165,ORG,0.9998
+,mippcivzla,4,14,ORG,0.5013
+,neuris díaz,30,41,PER,0.9999
+,zulia,64,69,LOC,1.0
+,covid-19,121,129,MISC,0.9999
+,nicodelrojo,13,24,PER,0.9994
+,covid,146,151,MISC,0.9999
+,principejao covid,1,18,PER,0.9998
+,basílica de guadalupe,46,67,LOC,0.9999
+,conelmazodando,4,18,ORG,0.9991
+,colombia,20,28,LOC,0.738
+,covid-19,60,68,MISC,0.9999
+,covid 19,27,35,MISC,0.9999
+,mecho9002,4,13,ORG,0.8946
+,internet,77,85,MISC,0.9998
+,britney,66,73,PER,0.9957
+,goku,76,80,PER,0.5011
+,conelmazodando,4,18,ORG,0.9229
+,covid-19,46,54,MISC,0.9998
+,chile,64,69,LOC,0.9999
+,chavismolealtadatod,119,138,MISC,0.5638
+,mippcivzla,4,14,ORG,0.7744
+,romontesdeoca,4,17,PER,0.8613
+,músicaxmedicinas,19,35,MISC,0.9711
+,salud,18,23,MISC,0.9998
+,pilarmazzetti,24,37,PER,0.9821
+,brozoxmiswebs,4,17,ORG,0.7497
+,eu,58,60,LOC,0.9999
+,pfizer,104,110,ORG,0.9999
+,covid,118,123,MISC,0.9996
+,10dic salud brasil,0,18,ORG,0.5567
+,covid19,63,70,MISC,0.9999
+,eu,0,2,ORG,0.9953
+,covid-19,38,46,MISC,0.9999
+,pfizer,10,16,ORG,0.9999
+,covid-19,27,35,MISC,0.9998
+,eeuu,89,93,LOC,0.9999
+,conelmazodando,4,18,ORG,0.9991
+,colombia,20,28,LOC,0.738
+,covid-19,60,68,MISC,0.9999
+,robledogabb,4,15,PER,0.9991
+,eldestapeweb,4,16,ORG,0.9597
+,blanca osuna,18,30,PER,0.9999
+,covid,68,73,MISC,0.9998
+,abortolegal2020,108,123,MISC,0.999
+,carmencalvo,1,12,PER,0.9812
+,psoe,15,19,ORG,1.0
+,radio malva,28,39,ORG,0.9999
+,latinoamérica sonora,41,61,LOC,0.9988
+,españa,151,157,LOC,0.9917
+,covid-19,17,25,MISC,0.9412
+,robabramowitz,1,14,PER,0.9114
+,elazulcremamx,16,29,PER,0.743
+,pereznml,31,39,PER,0.9954
+,9pagany,41,48,PER,0.82
+,espn,59,63,ORG,0.9998
+,mckinnie,64,72,PER,0.9999
+,dest,132,136,PER,0.9991
+,sergi roberto,169,182,PER,0.9994
+,usmnt,203,208,ORG,0.9998
+,mippcivzla,4,14,ORG,0.998
+,eeuu,34,38,LOC,0.9999
+,pfizer,82,88,ORG,0.9999
+,biontech,91,99,ORG,0.9999
+,covid-19,107,115,MISC,0.9998
+,mippcivzla,4,14,PER,0.5999
+,covid-19,88,96,MISC,0.9999
+,omayravelazquez,1,16,PER,0.9993
+,drconejomaligno,4,19,PER,0.95
+,covid-19,77,85,MISC,0.9999
+,imss,118,122,ORG,0.9999
+,issste,124,130,ORG,0.9999
+,ssa,132,135,ORG,0.9995
+,leonvalenciaa,4,17,PER,0.9898
+,johnson,43,50,PER,0.9999
+,reino unido,56,67,ORG,0.9999
+,kimosab56580835,4,19,PER,0.6157
+,laboratorio biológico chino de wuhan,43,79,ORG,0.9014
+,glaxo,108,113,ORG,0.9999
+,sinlinea,4,12,ORG,0.9998
+,loret,38,43,PER,0.9998
+,belisario domínguez,59,78,MISC,0.9964
+,robledogabb,4,15,PER,0.9997
+,covid,69,74,ORG,0.9941
+,provincia,0,9,LOC,0.5791
+,sancti spíritus,13,28,LOC,0.9916
+,covid-19,55,63,MISC,0.9999
+,radiossp,95,103,ORG,0.9954
+,mrrccv,1,7,MISC,0.9347
+,rccerda,9,16,MISC,0.5208
+,plaza américa,38,51,LOC,0.9999
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,covid-19,77,85,MISC,0.9999
+,músicaxmedicinas,0,16,MISC,0.9979
+,covid,109,114,MISC,0.9998
+,insumosysalariosdignos,177,199,MISC,0.9906
+,eligesolidaridad,200,216,MISC,0.7194
+,mippcivzla,4,14,ORG,0.7064
+,josé luis camero,30,46,PER,0.9999
+,covid-19,72,80,MISC,0.999
+,jfowks,4,10,ORG,0.9659
+,covid-19,106,114,MISC,0.6267
+,unam,18,22,ORG,0.9999
+,covid-19,77,85,MISC,0.9999
+,covid,0,5,LOC,0.7851
+,antofagasta,15,26,LOC,0.9998
+,t13,1,4,MISC,0.5317
+,pedro,96,101,PER,0.9998
+,juan,103,107,PER,0.9997
+,diego,110,115,PER,0.9998
+,covid,183,188,ORG,0.6257
+,kquintanal,1,11,PER,0.8337
+,pineapplevikin,13,27,PER,0.8749
+,mov,29,32,PER,0.4423
+,usa,116,119,LOC,0.9996
+,somosnoro,4,13,ORG,0.9905
+,sonora,109,115,LOC,1.0
+,abcnoticiasmx,4,17,ORG,0.9972
+,nl,64,66,LOC,0.9816
+,senadomexicano,28,42,ORG,0.9864
+,medallabelisariodomínguez,64,89,MISC,0.9998
+,lopezdoriga,4,15,PER,0.775
+,covid-19,64,72,MISC,0.9999
+,cristobustos,4,16,ORG,0.7176
+,covid,29,34,MISC,0.9998
+,colombia,38,46,LOC,1.0
+,covid-19,13,21,MISC,0.9999
+,telesurtv,4,13,ORG,0.9857
+,estadosunidos🇺🇸,15,30,LOC,0.71
+,covid-19,93,101,MISC,0.9999
+,evaenlaradio,4,16,ORG,0.9983
+,misadelgallo del papa,21,42,MISC,0.9994
+,san pedro,46,55,LOC,0.9999
+,italia,105,111,MISC,0.9994
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,rinaldo,4,11,PER,0.9991
+,covid-19,71,79,MISC,0.9998
+,abcnoticiasmx,4,17,ORG,0.999
+,nl,28,30,ORG,0.8238
+,observa,4,11,ORG,0.9937
+,músicaxmedicinas,16,32,MISC,0.9951
+,cov,135,138,MISC,0.9995
+,mileniotv,4,13,ORG,0.9913
+,envivo,15,21,ORG,0.9965
+,méxico,48,54,LOC,0.9999
+,susana lópez,112,124,PER,0.9999
+,covid-19,61,69,MISC,0.9999
+,mippcivzla,4,14,ORG,0.998
+,eeuu,34,38,LOC,0.9999
+,pfizer,82,88,ORG,0.9999
+,biontech,91,99,ORG,0.9999
+,covid-19,107,115,MISC,0.9998
+,fifilinita,4,14,ORG,0.9832
+,caraotadigital,4,18,ORG,0.9597
+,covid-19,50,58,MISC,0.9998
+,músicaxmedicinas,20,36,MISC,0.962
+,covid 19,84,92,MISC,0.9997
+,i,136,137,MISC,0.9622
+,sandryluna2008,4,18,MISC,0.9783
+,jacqueline faria,20,36,PER,0.9999
+,noti capital,47,60,MISC,0.9995
+,noti_capital,62,75,MISC,0.9989
+,gobierno,102,110,ORG,0.9995
+,jacquelinepsuv,114,128,ORG,0.9448
+,lewis hamilton,0,14,PER,0.9996
+,covid-19,30,38,MISC,0.9999
+,mercedes,63,71,ORG,0.731
+,gran premio,78,89,MISC,0.9309
+,abu dabi,93,101,MISC,0.9843
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,mpptransporte,4,17,ORG,0.956
+,sabíasque,19,28,MISC,0.9435
+,caracas,61,68,LOC,0.8914
+,covid,103,108,ORG,0.99
+,abdiolan,1,9,PER,0.9992
+,pedroferriz,11,22,PER,0.8415
+,covid,105,110,MISC,0.9998
+,lillytellez,4,15,PER,0.995
+,medalla belisario domínguez,34,61,MISC,0.9999
+,covid,132,137,MISC,0.9993
+,conalep,4,11,ORG,0.9999
+,edomex,12,18,ORG,0.9999
+,‘manejo de pacientes positivos en covid-19’,51,94,MISC,0.8747
+,conalep,99,106,ORG,1.0
+,músicaxmedicinas,0,16,MISC,0.9974
+,covid,109,114,MISC,0.9998
+,insumosysalariosdignos,177,199,MISC,0.9925
+,eligesolidaridad,200,216,MISC,0.6706
+,covid-19,25,33,MISC,0.9997
+,coed la paz,52,63,ORG,0.9999
+,brujulanoticias,129,144,ORG,0.9995
+,cdmx,44,48,ORG,0.9125
+,ntn24,4,9,ORG,0.9999
+,brasil,11,17,LOC,0.9827
+,covid-19,57,65,MISC,0.5721
+,junta,65,70,ORG,0.9993
+,fda,91,94,ORG,0.9999
+,medalla belisario domínguez,0,27,MISC,0.9998
+,salud,53,58,MISC,0.9998
+,covid-19,79,87,MISC,0.9997
+,illa,137,141,PER,0.9998
+,covid,174,179,PER,0.9997
+,ine,201,204,ORG,0.9991
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,el_universal,4,16,ORG,0.9464
+,mx,17,19,ORG,0.63
+,administración de fármacos y alimentos de estados unidos,44,100,ORG,0.9998
+,pfize,134,139,ORG,0.9955
+,eguerraarias,4,16,ORG,0.9646
+,dezurdateam,19,30,ORG,0.6396
+,cuba,59,63,ORG,0.9998
+,marianelawyer12,4,19,PER,0.9825
+,covid-19,82,90,MISC,0.9999
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,waykaperu,4,13,ORG,0.9987
+,covid,58,63,MISC,0.9996
+,shiracmaca,86,96,LOC,0.9998
+,1oscarcampo,4,15,ORG,0.9972
+,c5n,36,39,ORG,0.9982
+,covid,78,83,ORG,0.9649
+,reserva federal,102,117,ORG,0.9996
+,luisolavarrieta,4,19,PER,0.9997
+,covid,24,29,ORG,0.9999
+,teamkendreams,4,17,ORG,0.9176
+,covid,20,25,MISC,0.9987
+,uruguay,29,36,LOC,1.0
+,paso de los toros,59,76,LOC,1.0
+,tacuarembó,144,154,LOC,0.9999
+,ministro de salud,21,38,PER,0.9992
+,argentina,78,87,LOC,0.9999
+,ministra de seguridad,112,133,PER,0.9991
+,mippcivzla,4,14,ORG,0.8409
+,📢🇻🇪,16,19,MISC,0.4948
+,sara,30,34,PER,0.9994
+,covid-19,56,64,MISC,0.9998
+,anespueblo,66,76,MISC,0.6456
+,castillohector,5,19,PER,0.9864
+,santa,24,29,LOC,0.9654
+,covid,47,52,MISC,0.9998
+,ley 100,84,91,MISC,0.9998
+,abrahan63152296,4,19,PER,0.6297
+,covid,58,63,MISC,0.9993
+,armelleid,99,108,ORG,0.9997
+,majo,112,116,PER,0.3534
+,lopezpadilla7,4,17,PER,0.4143
+,mex,60,63,LOC,0.9975
+,guadalupe,115,124,MISC,0.976
+,alfredodelmazo,4,18,PER,0.9742
+,conago,38,44,ORG,0.9999
+,secretaria de gobernación,60,85,PER,0.9997
+,m_olgascordero,88,102,PER,0.9973
+,gobiernomx,123,133,ORG,0.912
+,wghorttall,4,14,PER,0.9917
+,webmasterazul,4,17,ORG,0.586
+,covid,22,27,ORG,0.9627
+,cj,9,11,ORG,0.9995
+,callejo tv,67,77,ORG,0.9993
+,cubaminrex,1,11,ORG,0.8799
+,brunorguezp,13,24,PER,0.9999
+,diazcanelb,26,36,PER,0.9998
+,presidenciacuba,38,53,ORG,0.9998
+,cubaonu,55,62,ORG,0.9997
+,rogeliosierrad,64,78,PER,0.9999
+,anayansircamejo,80,95,PER,0.9998
+,mmedina,97,104,PER,0.9517
+,glez,105,109,PER,0.9992
+,juantoniofdez,111,124,PER,0.9994
+,covid,34,39,LOC,0.9998
+,neljulgerg16,4,16,PER,0.9626
+,henryjimenezp,19,32,PER,0.7781
+,somosvenvidrio,63,77,ORG,0.9971
+,henryjimenezp,79,92,PER,0.4417
+,anespueblo venvidrioesproduccion,105,137,MISC,0.9147
+,mippcivzla,4,14,ORG,0.998
+,eeuu,34,38,LOC,0.9999
+,pfizer,82,88,ORG,0.9999
+,biontech,91,99,ORG,0.9999
+,covid-19,107,115,MISC,0.9998
+,hospital general de méxico,0,26,ORG,0.9999
+,covid-19,65,73,MISC,0.9999
+,preparafamilia,4,18,ORG,0.9991
+,músicaxmedicinas,20,36,MISC,0.9424
+,covid-19,84,92,MISC,0.9999
+,i,136,137,MISC,0.9816
+,estados unidos,75,89,LOC,0.9865
+,cov,136,139,ORG,0.9996
+,edypoli,4,11,ORG,0.9994
+,covid-19,23,31,MISC,0.9991
+,amlo,7,11,PER,0.9977
+,hlgatell,33,41,ORG,0.9998
+,francia,44,51,ORG,0.9988
+,covid-19,125,133,MISC,0.9999
+,aristegui noticias,136,154,ORG,0.9992
+,c5n,36,39,ORG,0.9982
+,covid,78,83,ORG,0.9649
+,reserva federal,102,117,ORG,0.9996
+,waykaperu,4,13,ORG,0.9987
+,covid,58,63,MISC,0.9996
+,shiracmaca,86,96,LOC,0.9998
+,idl,4,7,ORG,0.9999
+,gustavo gorriti,21,36,PER,0.9999
+,roberto accinelli,65,82,PER,0.9999
+,exministro de defensa,88,109,PER,0.9998
+,jorge chávez cresta,111,130,PER,1.0
+,alfredodelmazo,4,18,PER,0.9483
+,covid,28,33,MISC,0.9943
+,edoméx,45,51,LOC,0.9996
+,conelmazodando,4,18,ORG,0.9991
+,colombia,20,28,LOC,0.738
+,covid-19,60,68,MISC,0.9999
+,covid,39,44,MISC,0.9998
+,petro,125,130,PER,0.9998
+,gustavo petro,150,163,PER,1.0
+,youtube,245,252,ORG,0.925
+,lucasmmedrano07,4,19,PER,0.9931
+,covid-19,21,29,MISC,0.9996
+,suecia,31,37,LOC,0.9999
+,derrumba,100,108,LOC,0.9827
+,mippcivzla,4,14,ORG,0.9672
+,covid-19,55,63,MISC,0.9998
+,elsemblante,4,15,ORG,0.9808
+,colombia,17,25,LOC,0.999
+,covid,90,95,MISC,0.9998
+,covid-19,48,56,MISC,0.9999
+,cdmx,44,48,ORG,0.9125
+,lopezdoriga,4,15,PER,0.6534
+,medalla belisario domínguez,31,58,MISC,0.9999
+,salud,88,93,MISC,0.9996
+,covid-19,114,122,MISC,0.9997
+,mippcivzla,4,14,ORG,0.998
+,eeuu,34,38,LOC,0.9999
+,pfizer,82,88,ORG,0.9999
+,biontech,91,99,ORG,0.9999
+,covid-19,107,115,MISC,0.9998
+,guadavazquez,4,16,PER,0.9938
+,covid,39,44,MISC,0.9983
+,microsoft,90,99,ORG,0.9991
+,vicente73977721,4,19,PER,0.9993
+,covid,105,110,PER,0.5904
+,co2,45,48,MISC,0.9995
+,covid-19,86,94,MISC,0.9999
+,waykaperu,4,13,ORG,0.9987
+,covid,58,63,MISC,0.9996
+,shiracmaca,86,96,LOC,0.9998
+,aldo,4,8,PER,0.992
+,osnar,9,14,PER,0.9998
+,enamorarte,38,48,PER,0.7179
+,titularte,50,59,PER,0.9954
+,vacunarte,62,71,PER,0.9917
+,covid,82,87,PER,0.6017
+,covid-19,32,40,MISC,0.9997
+,boyacá,59,65,LOC,1.0
+,tunja,85,90,LOC,1.0
+,cómbita,97,104,LOC,1.0
+,sogamoso,112,120,LOC,1.0
+,juanpablocgz,224,236,PER,0.7369
+,gyorios,238,245,MISC,0.6105
+,ricardoropina,247,260,PER,0.9993
+,ricardocipago,262,275,PER,0.9964
+,tendencia,4,13,ORG,0.9993
+,peron,14,19,PER,0.9998
+,blanca osuna,22,34,MISC,0.9955
+,pfizer,26,32,ORG,0.9999
+,covid-19,43,51,MISC,0.9999
+,eeuu,105,109,LOC,0.9997
+,justo,1,6,PER,0.9339
+,ruko,7,11,PER,0.9916
+,franco,138,144,ORG,0.4726
+,moraleja,213,221,LOC,0.9907
+,dip,0,3,PER,0.4296
+,nuñez josé carlos,5,22,PER,0.7546
+,aristeguionline,4,19,ORG,0.972
+,francia,21,28,ORG,0.9903
+,covid-19,102,110,MISC,0.9999
+,clauchu,4,11,PER,0.9983
+,haustec,61,68,MISC,0.9998
+,jam,114,117,MISC,0.9915
+,covid,180,185,MISC,0.9998
+,estebanmerchan7,4,19,PER,0.9998
+,claudia,34,41,PER,0.9998
+,covid,69,74,ORG,0.9968
+,claudia,129,136,PER,0.9997
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,telesurtv,4,13,ORG,0.9857
+,estadosunidos🇺🇸,15,30,LOC,0.71
+,covid-19,93,101,MISC,0.9999
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,apfoficial,4,14,ORG,0.9999
+,comisión médica de la apf,19,44,ORG,0.9998
+,guaraní,112,119,LOC,0.9999
+,cerro porteño,122,135,LOC,0.9999
+,lillytellez,4,15,PER,0.995
+,medalla belisario domínguez,34,61,MISC,0.9999
+,covid,132,137,MISC,0.9993
+,covid-19,48,56,MISC,0.9999
+,señor,22,27,MISC,0.5862
+,gatuk1773r,1,11,MISC,0.9455
+,telesurtv,4,13,ORG,0.9857
+,estadosunidos🇺🇸,15,30,LOC,0.71
+,covid-19,93,101,MISC,0.9999
+,kittypelwchy,4,16,PER,0.9951
+,mejoractor,20,30,MISC,0.9909
+,jaime bonilla,33,46,PER,0.9999
+,covid,59,64,MISC,0.9992
+,hospital público,86,102,ORG,0.9979
+,oculta,4,10,ORG,0.9826
+,ascuns,11,17,PER,0.4226
+,pfizer,53,59,MISC,0.9998
+,bell,87,91,MISC,0.7392
+,luiscostabonino,4,19,PER,0.9758
+,covid,58,63,MISC,0.9995
+,vidaperraome,4,16,ORG,0.9872
+,esteban restrepo,18,34,PER,0.9999
+,medellín,86,94,LOC,1.0
+,elcolombiano,100,112,ORG,0.9909
+,ilindelatorremd,4,19,ORG,0.6617
+,mis-c,73,78,MISC,0.9984
+,nicolasmaduro,12,25,PER,0.9955
+,covid-19,97,105,MISC,0.9999
+,anespueblo,241,251,ORG,0.64
+,taniapsuv,253,262,ORG,0.6322
+,ligas venezolanas,53,70,MISC,0.9999
+,javierpanza,4,15,PER,0.9286
+,ine,9,12,ORG,0.9998
+,castilla-la mancha,14,32,LOC,0.9998
+,covid,54,59,MISC,0.9999
+,españa,63,69,LOC,1.0
+,edomex,4,10,ORG,0.9999
+,covid,105,110,MISC,0.9975
+,consultapara,4,16,ORG,0.8803
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,joelmsosam1,4,15,PER,0.9998
+,prima,29,34,PER,0.8284
+,az,137,139,PER,0.9003
+,covid-19,44,52,MISC,0.9999
+,charli shield,78,91,PER,1.0
+,covidー19,95,103,MISC,0.9998
+,diazdelavega1,4,17,PER,0.4341
+,danielsampero,1,14,PER,0.9994
+,trafficaracas,4,17,ORG,0.9109
+,españa,28,34,LOC,1.0
+,barcelona,62,71,LOC,1.0
+,españa,76,82,LOC,1.0
+,johanaparrat,4,16,PER,0.995
+,gobierno,222,230,ORG,0.6731
+,tonicanto1,4,14,PER,0.9014
+,illa,16,20,PER,0.9999
+,covid,53,58,PER,0.9995
+,ine,80,83,ORG,0.9995
+,mippcivzla,4,14,ORG,0.8148
+,luis pérez,30,40,PER,0.9999
+,norabar,4,11,ORG,0.8428
+,covid,81,86,PER,0.998
+,msalnacion,92,102,ORG,0.968
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,covid,72,77,PER,0.9999
+,noticierovv,4,15,ORG,0.8976
+,tokio,23,28,LOC,0.9998
+,tokio,111,116,LOC,0.8152
+,covid salud,117,128,MISC,0.6475
+,elsemblante,4,15,ORG,0.9808
+,colombia,17,25,LOC,0.999
+,covid,90,95,MISC,0.9998
+,caraotadigital,4,18,ORG,0.9597
+,mbore,48,53,PER,0.9914
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,crestametalica,4,18,ORG,0.8601
+,músicaxmedicinas,20,36,MISC,0.8044
+,covid,130,135,ORG,0.997
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,periodicoam,4,15,ORG,0.9924
+,estado,53,59,ORG,0.9999
+,covid-19,84,92,MISC,0.9999
+,coronaviruspy,0,13,MISC,0.996
+,apf,17,20,ORG,0.9999
+,cerro,92,97,LOC,0.9997
+,guaraní,103,110,LOC,0.9998
+,la covid 19,36,47,MISC,0.9417
+,facebook,220,228,MISC,0.5983
+,mippcivzla,4,14,ORG,0.998
+,eeuu,34,38,LOC,0.9999
+,pfizer,82,88,ORG,0.9999
+,biontech,91,99,ORG,0.9999
+,covid-19,107,115,MISC,0.9998
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,suan,86,90,LOC,0.5082
+,covid,96,101,PER,0.9914
+,repelón,119,126,PER,0.5501
+,luruaco,134,141,PER,0.5007
+,mippcivzla,4,14,PER,0.5999
+,covid-19,88,96,MISC,0.9999
+,lahoragt,4,12,ORG,0.5329
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,lucasbolso1899,4,18,PER,0.9994
+,nacional,76,84,ORG,0.9631
+,mippcivzla,4,14,ORG,0.998
+,eeuu,34,38,LOC,0.9999
+,pfizer,82,88,ORG,0.9999
+,biontech,91,99,ORG,0.9999
+,covid-19,107,115,MISC,0.9998
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,bomberuminahui,4,18,ORG,0.9315
+,portiporellos,20,33,MISC,0.9983
+,covid-19,65,73,MISC,0.9998
+,hectorastudillo,4,19,PER,0.9999
+,evismosquera,1,13,PER,0.9994
+,rmayorga,15,23,PER,0.7137
+,eps,198,201,LOC,0.795
+,tonicanto1,4,14,ORG,0.3707
+,ine,19,22,ORG,0.9993
+,españa,95,101,LOC,1.0
+,mippcivzla,4,14,ORG,0.7744
+,mippcivzla,4,14,ORG,0.5013
+,neuris díaz,30,41,PER,0.9999
+,zulia,64,69,LOC,1.0
+,covid-19,121,129,MISC,0.9999
+,albertosaxofon,4,18,PER,0.9991
+,cdmx,53,57,LOC,0.9394
+,‘niño dios covid,72,88,MISC,0.8541
+,reuters,152,159,ORG,0.9999
+,noticierovv,4,15,ORG,0.8976
+,tokio,23,28,LOC,0.9998
+,tokio,111,116,LOC,0.8152
+,covid salud,117,128,MISC,0.6475
+,infobae,1,8,ORG,0.994
+,argentina,20,29,LOC,1.0
+,covid,40,45,PER,0.9999
+,elcancillercom,4,18,ORG,0.5476
+,abortolegal2020,20,35,MISC,0.8203
+,blanca osuna,36,48,PER,0.9999
+,covid-19,93,101,MISC,0.9992
+,angela merkel,22,35,PER,0.9999
+,covid-19,173,181,MISC,0.9999
+,luchoxbolivia,33,46,ORG,0.9988
+,bolivia,48,55,LOC,0.9713
+,mas,93,96,ORG,0.9998
+,arce,115,119,PER,0.95
+,pau_oliveto,4,15,PER,0.9891
+,cristina,17,25,PER,0.9997
+,justicia,76,84,MISC,0.999
+,blancaosunaok,13,26,PER,0.9996
+,brozoxmiswebs,4,17,ORG,0.7497
+,eu,58,60,LOC,0.9999
+,pfizer,104,110,ORG,0.9999
+,covid,118,123,MISC,0.9996
+,mippcivzla,4,14,ORG,0.9672
+,covid-19,55,63,MISC,0.9998
+,rmayorga,1,9,PER,0.9979
+,covid,20,25,ORG,0.9996
+,cateterdoblej,4,17,PER,0.3727
+,dolartoday,4,14,ORG,0.7462
+,covid-19,76,84,MISC,0.9998
+,covid-19,218,226,MISC,0.9999
+,fuerzahonduras,228,242,ORG,0.6278
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,smartme,4,11,ORG,0.991
+,covid,83,88,MISC,0.9998
+,mex,4,7,PER,0.6095
+,libertario,8,18,PER,0.9175
+,glendimar2512,4,17,PER,0.5381
+,pedro núñez,30,41,PER,0.9999
+,erickgimphoto4f,4,19,PER,0.8337
+,nicolasmaduro,33,46,PER,0.9275
+,covid-19,118,126,MISC,0.9998
+,televisa,4,12,ORG,0.9999
+,televisa,83,91,ORG,0.9987
+,covid-19,131,139,MISC,0.9998
+,aldo,4,8,PER,0.992
+,osnar,9,14,PER,0.9998
+,enamorarte,38,48,PER,0.7179
+,titularte,50,59,PER,0.9954
+,vacunarte,62,71,PER,0.9917
+,covid,82,87,PER,0.6017
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,mippcivzla,4,14,ORG,0.9672
+,covid-19,55,63,MISC,0.9998
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,covid 19,62,70,MISC,0.9998
+,eseoriente,92,102,ORG,0.9999
+,guardianessomostodos,105,125,ORG,0.9998
+,maria_e_medina,4,18,PER,0.9996
+,usa,42,45,LOC,1.0
+,covid,82,87,PER,0.9831
+,mippcivzla,4,14,ORG,0.9672
+,covid-19,55,63,MISC,0.9998
+,alexandra4velez,4,19,PER,0.9758
+,estados unidos,75,89,LOC,0.9865
+,cov,136,139,ORG,0.9996
+,rctagliaferro,4,17,ORG,0.7662
+,pymes,97,102,MISC,0.5936
+,pablofuente,4,15,PER,0.9834
+,covid19,17,24,MISC,0.9998
+,pfizer,108,114,ORG,0.9999
+,músicaxmedicinas,14,30,MISC,0.5326
+,covid 19,205,213,MISC,0.8084
+,insumosysalariosdignos,215,237,MISC,0.9995
+,eligesolidaridad,238,254,MISC,0.5946
+,covid-19,209,217,MISC,0.9999
+,eldestapeweb,4,16,ORG,0.9701
+,blanca osuna,18,30,PER,0.9999
+,fdt,45,48,ORG,1.0
+,covid-19,71,79,MISC,0.9999
+,desurlara,4,13,ORG,0.9934
+,centinelas permanente,15,36,ORG,0.951
+,desurlara,43,52,ORG,0.8845
+,pueblo,75,81,ORG,0.9993
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,atv,1,4,ORG,0.8847
+,perú,81,85,LOC,1.0
+,covid-19,118,126,MISC,0.9982
+,pj,292,294,ORG,0.9991
+,alecrespof,4,14,PER,0.9897
+,músicaxmedicinas,0,16,MISC,0.9982
+,covid 19,64,72,MISC,0.9997
+,insumosysalariosdignos,116,138,MISC,0.9715
+,reporte diario covid-19,7,30,MISC,0.9999
+,ricardomedicina,4,19,PER,0.9772
+,covid-19,47,55,MISC,0.9997
+,tlaxcala,31,39,LOC,1.0
+,laopinióndepozarica,140,159,ORG,0.996
+,mippcivzla,4,14,ORG,0.7643
+,pedro núñez,30,41,PER,0.9999
+,tercer_canal,4,16,ORG,0.9992
+,covid,57,62,MISC,0.9998
+,colombiana,104,114,LOC,0.6318
+,mippcivzla,4,14,ORG,0.8409
+,📢🇻🇪,16,19,MISC,0.4948
+,sara,30,34,PER,0.9994
+,covid-19,56,64,MISC,0.9998
+,anespueblo,66,76,MISC,0.6456
+,cali,0,4,LOC,0.9995
+,covid,168,173,ORG,0.9997
+,caliguardalavida,204,220,ORG,0.5626
+,alcaldiadecali,227,241,ORG,0.9576
+,mippcivzla,4,14,ORG,0.7064
+,josé luis camero,30,46,PER,0.9999
+,covid-19,72,80,MISC,0.999
+,alva,9,13,PER,0.4884
+,covid,67,72,PER,0.9861
+,mippcivzla,4,14,PER,0.5083
+,covid-19,121,129,MISC,0.9999
+,miguel_pizarro,4,18,PER,0.9998
+,uci,42,45,ORG,0.9366
+,covid-19,57,65,MISC,0.9999
+,dip,70,73,PER,0.9806
+,@suarezbolivia,75,89,PER,0.7634
+,elsa_ena,4,12,PER,0.9554
+,covid,71,76,ORG,0.9992
+,vamospormás,104,115,MISC,0.9945
+,alfredodelmazo,4,18,PER,0.9742
+,conago,38,44,ORG,0.9999
+,secretaria de gobernación,60,85,PER,0.9997
+,m_olgascordero,88,102,PER,0.9973
+,gobiernomx,123,133,ORG,0.912
+,covid,29,34,MISC,0.9999
+,gabyspepe,4,13,ORG,0.7341
+,blanca osuna,27,39,PER,0.9999
+,fdt,41,44,ORG,0.9999
+,entre ríos,46,56,LOC,0.9999
+,covid,112,117,PER,0.9998
+,jgnaredo,32,40,PER,0.8685
+,rstacchiotti1,4,17,PER,0.997
+,micamelgar,4,14,PER,0.8894
+,c,138,139,ORG,0.9951
+,sars-cov-2,3,13,MISC,0.9998
+,the new england journal of medicine,121,156,ORG,0.9999
+,unodetuiter,4,15,ORG,0.9867
+,montevideo,114,124,LOC,1.0
+,alertachiapas,4,17,ORG,0.9986
+,covid-19,65,73,MISC,0.9999
+,chiapas,77,84,LOC,1.0
+,diarioextraec,4,17,ORG,0.9986
+,bombón mayra montaño,22,42,PER,0.9959
+,hugo gavilánez,56,70,PER,0.9999
+,covid-19,94,102,MISC,0.9999
+,mippcivzla,4,14,ORG,0.8148
+,luis pérez,30,40,PER,0.9999
+,pau_oliveto,4,15,PER,0.9891
+,cristina,17,25,PER,0.9997
+,justicia,76,84,MISC,0.999
+,mippcivzla,4,14,ORG,0.7744
+,covid-19,48,56,MISC,0.9999
+,europapress,1,12,ORG,0.9994
+,arn,147,150,MISC,0.9966
+,covid-19,181,189,MISC,0.9974
+,pitié-salpêtrière,268,285,LOC,0.9948
+,exitosape,4,13,ORG,0.9967
+,salud,33,38,MISC,0.9998
+,pilarmazzetti,39,52,PER,0.9542
+,claudiashein,101,113,ORG,0.8515
+,cdmx,124,128,ORG,0.9999
+,sibiso,129,135,MISC,0.8633
+,manutención covid-19 del estado de puebla,30,71,MISC,0.9766
+,momentses,4,13,ORG,0.9916
+,agencia reguladora de medicamentos,67,101,ORG,0.9132
+,reino unido,105,116,LOC,0.6903
+,mippcivzla,4,14,ORG,0.7744
+,azul,4,8,ORG,0.8991
+,uruguay,33,40,LOC,1.0
+,covid-19,59,67,MISC,0.9999
+,gabyspepe,4,13,ORG,0.7341
+,blanca osuna,27,39,PER,0.9999
+,fdt,41,44,ORG,0.9999
+,entre ríos,46,56,LOC,0.9999
+,covid,112,117,PER,0.9998
+,ultimahoracr,12,24,ORG,0.9992
+,ivancepedacast,26,40,PER,0.9142
+,carlosholmestru,54,69,PER,0.9927
+,policiacolombia,71,86,ORG,0.9984
+,caracolradio,88,100,ORG,0.9629
+,andresggaitan,102,115,PER,0.997
+,mk-4482,100,107,MISC,0.9999
+,eidd-2801,110,119,MISC,0.9998
+,alecrespof,4,14,PER,0.9897
+,louis camilleri,0,15,PER,0.9999
+,ceo,38,41,ORG,0.9532
+,ferrari,45,52,ORG,0.9997
+,camilleri,74,83,PER,0.9999
+,covid,89,94,MISC,0.9991
+,ferrari,115,122,ORG,0.9999
+,scuderia,196,204,ORG,0.9998
+,john elkann,245,256,PER,0.9998
+,ferrari,272,279,ORG,0.9988
+,milenio,4,11,ORG,0.9779
+,argentina,27,36,LOC,0.5549
+,trafficaracas,4,17,ORG,0.9109
+,españa,28,34,LOC,1.0
+,barcelona,62,71,LOC,1.0
+,españa,76,82,LOC,1.0
+,mippcivzla,4,14,ORG,0.8148
+,luis pérez,30,40,PER,0.9999
+,mippcivzla,4,14,ORG,0.7744
+,erickgimphoto4f,4,19,PER,0.8337
+,nicolasmaduro,33,46,PER,0.9275
+,covid-19,118,126,MISC,0.9998
+,edomex,4,10,ORG,0.9999
+,covid,46,51,MISC,0.9999
+,cuidemostodosdetodos,94,114,MISC,0.9332
+,skyaquaklin,4,15,MISC,0.6831
+,canaloncetv,30,41,ORG,0.9994
+,estefaniaveloz,58,72,PER,0.9996
+,canal 11,106,114,ORG,0.9982
+,eluniversocom,1,14,ORG,0.9982
+,yahazalgonorona,4,19,PER,0.7595
+,fernandeznorona,24,39,PER,0.5959
+,covid-19,102,110,MISC,0.9999
+,elfinanciero,4,16,ORG,0.8726
+,covid-19,47,55,MISC,0.9999
+,guerrero,73,81,LOC,1.0
+,roslemusmartin,26,40,PER,0.9728
+,universidad de oxford,78,99,ORG,0.9999
+,covid,144,149,MISC,0.9998
+,azucenaxfórmula,154,169,MISC,0.9552
+,pepemon,1,8,PER,0.7249
+,nfl,9,12,MISC,0.9572
+,pepe,29,33,PER,0.5115
+,spillane,46,54,PER,1.0
+,williams,66,74,PER,0.9999
+,covid,76,81,PER,0.9998
+,haden,85,90,PER,0.9999
+,steelers,203,211,ORG,0.9999
+,bills,215,220,ORG,0.9998
+,fda,24,27,ORG,0.9999
+,pfizer,68,74,ORG,0.9999
+,covid,85,90,MISC,0.9999
+,azucenaxfórmula,190,205,MISC,0.9902
+,mippcivzla,4,14,ORG,0.7744
+,tercer_canal,4,16,ORG,0.9992
+,covid,57,62,MISC,0.9998
+,colombiana,104,114,LOC,0.6318
+,ecuavisainforma,4,19,ORG,0.9975
+,eeuu,34,38,LOC,0.9759
+,covid,85,90,MISC,0.9998
+,pfizer,94,100,ORG,0.9985
+,funesta,4,11,MISC,0.9104
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,actualidadrt,4,16,ORG,0.9955
+,fda,42,45,ORG,0.9999
+,eeuu,68,73,LOC,0.9998
+,pfizer,88,94,ORG,0.9999
+,rusia,116,121,ORG,0.9998
+,argen,134,139,ORG,0.9999
+,heartsonvzla,4,16,PER,0.837
+,músicaxmedicinas,18,34,MISC,0.9865
+,abc,1,4,ORG,0.9808
+,covid,72,77,PER,0.9999
+,mippcivzla,4,14,ORG,0.7643
+,pedro núñez,30,41,PER,0.9999
+,venezuela,13,22,LOC,0.9999
+,covid-19,34,42,MISC,0.9989
+,patricia pérez,56,70,PER,1.0
+,cne,93,96,ORG,0.9999
+,venezuela,135,144,LOC,0.9604
+,músicaxmedicinas,16,32,MISC,0.9907
+,col,34,38,LOC,0.9981
+,covid-19,77,85,MISC,0.9999
+,pfizer,100,106,ORG,0.9999
+,rtvenoticias,4,16,ORG,0.9962
+,escuela técnica superior de ingeniería,42,80,ORG,0.9999
+,diseño industrial,83,100,ORG,0.9924
+,upm,107,110,ORG,0.9999
+,lillytellez,4,15,PER,0.995
+,medalla belisario domínguez,34,61,MISC,0.9999
+,covid,132,137,MISC,0.9993
+,mippcivzla,4,14,ORG,0.998
+,eeuu,34,38,LOC,0.9999
+,pfizer,82,88,ORG,0.9999
+,biontech,91,99,ORG,0.9999
+,covid-19,107,115,MISC,0.9998
+,conalep,4,11,ORG,0.9998
+,edomex,12,18,ORG,0.9996
+,covid,96,101,PER,0.9936
+,piensapositivocem,107,124,ORG,0.9396
+,covid,19,24,LOC,0.7183
+,covid-19,51,59,MISC,0.9997
+,secretaría de salud del estado de querétaro,66,109,ORG,0.9998
+,crestametalica,4,18,ORG,0.84
+,músicaxmedicinas,20,36,MISC,0.9943
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,covid19honduras,4,19,ORG,0.9951
+,covid-19,92,100,MISC,0.9998
+,subcomité técnico regional covid-19 sureste,37,80,ORG,0.9617
+,subcomitesurest,83,98,ORG,0.4093
+,fuertecoahuilaes todosporsaltillo,99,132,MISC,0.9995
+,mippcivzla,4,14,ORG,0.8409
+,📢🇻🇪,16,19,MISC,0.4948
+,sara,30,34,PER,0.9994
+,covid-19,56,64,MISC,0.9998
+,anespueblo,66,76,MISC,0.6456
+,excubitus,4,13,ORG,0.9999
+,músicaxmedicinas,19,35,MISC,0.9959
+,neljulgerg16,4,16,PER,0.9626
+,henryjimenezp,19,32,PER,0.7781
+,somosvenvidrio,63,77,ORG,0.9971
+,henryjimenezp,79,92,PER,0.4417
+,anespueblo venvidrioesproduccion,105,137,MISC,0.9147
+,mippcivzla,4,14,PER,0.9067
+,aldo,4,8,PER,0.992
+,osnar,9,14,PER,0.9998
+,enamorarte,38,48,PER,0.7179
+,titularte,50,59,PER,0.9954
+,vacunarte,62,71,PER,0.9917
+,covid,82,87,PER,0.6017
+,jfowks,4,10,ORG,0.9792
+,micamelgar,4,14,PER,0.8894
+,c,138,139,ORG,0.9951
+,nación,60,66,ORG,0.7397
+,amba,76,80,ORG,0.986
+,covid,115,120,MISC,0.9799
+,uti,138,141,MISC,0.9993
+,alfredodelmazo,4,18,PER,0.9514
+,covid,28,33,MISC,0.9949
+,edoméx,45,51,LOC,0.9993
+,covid,23,28,MISC,0.8753
+,julicruciani,1,13,PER,0.9985
+,agusdababy,15,25,PER,0.5045
+,lillytellez,4,15,PER,0.995
+,medalla belisario domínguez,34,61,MISC,0.9999
+,covid,132,137,MISC,0.9993
+,drfrancontreras,4,19,PER,0.7908
+,brigadas contra el covid-19,40,67,ORG,0.9999
+,robsteve1981,1,13,PER,0.9991
+,dr_julio_medina,28,43,PER,0.9952
+,infectologia,45,57,MISC,0.5175
+,uy,58,60,MISC,0.5604
+,drenriqueviana,75,89,PER,0.9995
+,tertuliasliber1,91,106,PER,0.5091
+,covid,286,291,MISC,0.9995
+,gach,382,386,ORG,0.9606
+,covid-19,89,97,MISC,0.9987
+,covidー19,249,257,MISC,0.9989
+,kittypelwchy,4,16,PER,0.9951
+,mejoractor,20,30,MISC,0.9909
+,jaime bonilla,33,46,PER,0.9999
+,covid,59,64,MISC,0.9992
+,hospital público,86,102,ORG,0.9979
+,leonvalenciaa,4,17,PER,0.9898
+,johnson,43,50,PER,0.9999
+,reino unido,56,67,ORG,0.9999
+,game awards,30,41,MISC,0.9977
+,redac,4,9,ORG,0.9998
+,ddhh,10,14,MISC,0.9913
+,músicaxmedicinas,16,32,MISC,0.9966
+,cov,135,138,MISC,0.9997
+,pratseva,4,12,ORG,0.731
+,país vasco,90,100,LOC,1.0
+,niusdiario,130,140,ORG,0.9407
+,covid,29,34,MISC,0.9998
+,alecrespof,4,14,PER,0.9897
+,missnegritu,4,15,PER,0.9139
+,covid,37,42,PER,0.9999
+,diosito,0,7,MISC,0.9902
+,radio,4,9,ORG,0.9954
+,hospital general de méxico,19,45,ORG,0.9999
+,covid-19,95,103,MISC,0.9998
+,provincia,0,9,LOC,0.696
+,sancti spíritus,13,28,LOC,0.9737
+,covid-19,55,63,MISC,0.9999
+,radiossp,95,103,ORG,0.9964
+,ministrociencia,4,19,PER,0.7639
+,glendimar2512,4,17,PER,0.9587
+,covid-19,104,112,MISC,0.9999
+,julianvalencla,4,18,PER,0.9765
+,americadecali,85,98,PER,0.8183
+,p7,26,28,MISC,0.9882
+,mippcivzla,4,14,ORG,0.998
+,eeuu,34,38,LOC,0.9999
+,pfizer,82,88,ORG,0.9999
+,biontech,91,99,ORG,0.9999
+,covid-19,107,115,MISC,0.9998
+,facebook,31,39,ORG,0.9998
+,sistema,94,101,MISC,0.7047
+,covid19honduras,4,19,ORG,0.4266
+,salud,21,26,ORG,0.998
+,israel,58,64,LOC,1.0
+,eeuu,17,21,LOC,0.9999
+,covid,20,25,MISC,0.9998
+,erickgimphoto4f,4,19,PER,0.8337
+,nicolasmaduro,33,46,PER,0.9275
+,covid-19,118,126,MISC,0.9998
+,mippcivzla,4,14,ORG,0.7064
+,josé luis camero,30,46,PER,0.9999
+,covid-19,72,80,MISC,0.999
+,inacvzla,4,12,ORG,0.9999
+,inac,21,25,ORG,0.9999
+,covid-19,105,113,MISC,0.9999
+,eleconomistanet,4,19,ORG,0.8915
+,honduras,21,29,LOC,1.0
+,boeing,66,72,MISC,0.9807
+,dreamliner,81,91,MISC,0.9913
+,madrid-barajas,118,132,LOC,1.0
+,covid-19,19,27,MISC,0.9999
+,foem,32,36,ORG,1.0
+,notimex,116,123,ORG,0.9999
+,pepebrea,4,12,ORG,0.9872
+,covid,44,49,MISC,0.9993
+,argentina,102,111,LOC,0.9959
+,nayuden,4,11,MISC,0.4523
+,sexxxijjis203,74,87,PER,0.9005
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,lopezobrador,1,13,PER,0.9959
+,ángela merkel,26,39,PER,0.9999
+,covid,72,77,PER,0.7326
+,andrés manuel lópez obrador,92,119,PER,0.9999
+,gatell,131,137,PER,0.9939
+,mexico,211,217,LOC,0.9996
+,lillytellez,4,15,PER,0.995
+,medalla belisario domínguez,34,61,MISC,0.9999
+,covid,132,137,MISC,0.9993
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,redlaraddhh,4,15,ORG,0.7474
+,músicaxmedicinas,17,33,MISC,0.9973
+,covid 19,81,89,MISC,0.9998
+,insu,133,137,MISC,0.956
+,ive,133,136,ORG,0.716
+,lopezdoriga,4,15,PER,0.775
+,covid-19,64,72,MISC,0.9999
+,mippcivzla,4,14,ORG,0.7744
+,eldestapeweb,4,16,ORG,0.9701
+,blanca osuna,18,30,PER,0.9999
+,fdt,45,48,ORG,1.0
+,covid-19,71,79,MISC,0.9999
+,covid19,68,75,MISC,0.6655
+,covid,109,114,MISC,0.9969
+,noscuidamosentretodos,119,140,MISC,0.9987
+,alfredodelmazo,4,18,PER,0.9514
+,covid,28,33,MISC,0.9949
+,edoméx,45,51,LOC,0.9993
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,radio,4,9,ORG,0.9954
+,hospital general de méxico,19,45,ORG,0.9999
+,covid-19,95,103,MISC,0.9998
+,ganoelcelta,4,15,PER,0.8516
+,dépor,17,22,ORG,0.9999
+,celta,44,49,ORG,0.9997
+,covid,86,91,MISC,0.8446
+,yendrive,4,12,ORG,0.8095
+,músicaxmedicinas,14,30,MISC,0.9555
+,alfredodelmazo,4,18,PER,0.985
+,covid,82,87,ORG,0.86
+,uruguay,29,36,LOC,1.0
+,“got talent”,65,77,MISC,0.8974
+,antel arena,84,95,LOC,0.9384
+,covid,58,63,MISC,0.9993
+,armelleid,99,108,ORG,0.9997
+,majo,112,116,PER,0.3534
+,glendimar2512,4,17,PER,0.9587
+,covid-19,104,112,MISC,0.9999
+,reforma,4,11,ORG,0.9921
+,basílica de guadalupe,16,37,LOC,0.9997
+,sprmexico,4,13,ORG,0.9999
+,covid_19,53,61,MISC,0.9999
+,covid,158,163,MISC,0.9999
+,diegonoticia,1,13,PER,0.4021
+,vbarcaracol,15,26,MISC,0.9454
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,alfredodelmazo,4,18,PER,0.985
+,covid,82,87,ORG,0.86
+,mippcivzla,4,14,ORG,0.5013
+,neuris díaz,30,41,PER,0.9999
+,zulia,64,69,LOC,1.0
+,covid-19,121,129,MISC,0.9999
+,cali,0,4,LOC,0.9995
+,covid,177,182,ORG,0.9991
+,caliguardalavida,209,225,MISC,0.9334
+,aforerom,4,12,ORG,0.4608
+,claudialopez,43,55,PER,0.9974
+,covid,107,112,MISC,0.9992
+,colombi,132,139,LOC,1.0
+,conalep,4,11,ORG,0.9996
+,edomex,12,18,ORG,0.9999
+,directivo,66,75,MISC,0.9962
+,mtro,80,84,MISC,0.9732
+,enrique,87,94,PER,0.9595
+,menv,95,99,ORG,0.9997
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,erinsantacruz,4,17,ORG,0.9422
+,exvarados,25,34,MISC,0.9997
+,covid,88,93,MISC,0.9998
+,xoloelvis,4,13,PER,0.4563
+,banco de méxico,32,47,ORG,0.9999
+,covid-19,128,136,MISC,0.9999
+,mippcivzla,4,14,ORG,0.998
+,eeuu,34,38,LOC,0.9999
+,pfizer,82,88,ORG,0.9999
+,biontech,91,99,ORG,0.9999
+,covid-19,107,115,MISC,0.9998
+,yucatan,7,14,LOC,0.5676
+,gobyucatan,16,26,ORG,0.8835
+,yucatán,27,34,LOC,0.9995
+,covid19,99,106,MISC,0.9998
+,citytv,1,7,ORG,0.9997
+,claudialopez,23,35,PER,0.9997
+,plandemia,43,52,MISC,0.9999
+,covid__19,57,66,MISC,0.9855
+,onu,0,3,ORG,0.9999
+,covid-19,61,69,MISC,0.9999
+,zuletalleras,4,16,ORG,0.641
+,covid,129,134,MISC,0.9999
+,gob,136,139,ORG,0.9925
+,brozoxmiswebs,4,17,ORG,0.7497
+,eu,58,60,LOC,0.9999
+,pfizer,104,110,ORG,0.9999
+,covid,118,123,MISC,0.9996
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,covid19honduras,4,19,ORG,0.752
+,covid-19,55,63,MISC,0.9998
+,honduras,67,75,LOC,1.0
+,eduardomazo5,4,16,PER,0.9995
+,1oscarcampo,4,15,ORG,0.9972
+,mippcivzla,4,14,ORG,0.8987
+,oraima morey,30,42,PER,0.9999
+,anespueblo,90,100,MISC,0.9392
+,alfredodelmazo,4,18,PER,0.9742
+,conago,38,44,ORG,0.9999
+,secretaria de gobernación,60,85,PER,0.9997
+,m_olgascordero,88,102,PER,0.9973
+,gobiernomx,123,133,ORG,0.912
+,donativos ambientales ford,30,56,ORG,0.9998
+,covid-19,144,152,MISC,0.9998
+,fundación neotrópica,157,177,ORG,0.9999
+,la comuna de la palabra,0,23,ORG,0.9958
+,dr josé luis linaza,62,82,PER,0.999
+,"""juego",99,105,MISC,0.9885
+,"infancia y desarrollo""",107,129,MISC,0.9857
+,gidett,134,140,LOC,0.9795
+,covid,186,191,MISC,0.9996
+,mippcivzla,4,14,ORG,0.998
+,eeuu,34,38,LOC,0.9999
+,pfizer,82,88,ORG,0.9999
+,biontech,91,99,ORG,0.9999
+,covid-19,107,115,MISC,0.9998
+,tvnnoticias,1,12,ORG,0.9993
+,mippcivzla,4,14,ORG,0.7643
+,pedro núñez,30,41,PER,0.9999
+,royeratamirano,1,15,PER,0.9997
+,covid,38,43,PER,0.5067
+,kongrezoo,47,56,MISC,0.6545
+,mippcivzla,4,14,ORG,0.7744
+,alfredodelmazo,4,18,PER,0.9742
+,conago,38,44,ORG,0.9999
+,secretaria de gobernación,60,85,PER,0.9997
+,m_olgascordero,88,102,PER,0.9973
+,gobiernomx,123,133,ORG,0.912
+,covid-19,22,30,MISC,0.9994
+,panamá,34,40,LOC,1.0
+,minsa nacionales,95,111,ORG,0.9999
+,edwinle20234709,1,16,PER,0.997
+,sissu,18,23,ORG,0.9726
+,unad,24,28,ORG,0.9998
+,claucortezm,4,15,PER,0.6928
+,riveraretamal,18,31,MISC,0.5671
+,senado,36,42,ORG,0.9999
+,chile,43,48,LOC,0.9757
+,miguelm58202937,1,16,PER,0.9987
+,francis15005600,18,33,PER,0.9975
+,czgnb,4,9,ORG,0.9999
+,covid-19,32,40,MISC,0.9999
+,mippcivzla,4,14,ORG,0.5013
+,neuris díaz,30,41,PER,0.9999
+,zulia,64,69,LOC,1.0
+,covid-19,121,129,MISC,0.9999
+,123xcarmen,4,14,PER,0.6519
+,chiavos,16,23,PER,0.9997
+,covid,73,78,MISC,0.9994
+,chiavos,116,123,PER,0.9997
+,cdmx,44,48,ORG,0.9125
+,neljulgerg16,4,16,PER,0.9626
+,henryjimenezp,19,32,PER,0.7781
+,somosvenvidrio,63,77,ORG,0.9971
+,henryjimenezp,79,92,PER,0.4417
+,anespueblo venvidrioesproduccion,105,137,MISC,0.9147
+,lillytellez,4,15,PER,0.995
+,medalla belisario domínguez,34,61,MISC,0.9999
+,covid,132,137,MISC,0.9993
+,luuciannna,4,14,PER,0.9987
+,juanrodolfo,4,15,PER,0.5368
+,sg,16,18,ORG,0.9193
+,toluca,20,26,ORG,0.983
+,covid 19,98,106,MISC,0.9997
+,florlucas,4,13,PER,0.7776
+,corea del sur,0,13,LOC,0.9986
+,covid-19,77,85,MISC,0.9999
+,anespueblo,129,139,ORG,0.6438
+,vencedormrt,141,152,ORG,0.5248
+,telenocheuy,4,15,ORG,0.9555
+,gabyspepe,4,13,ORG,0.7341
+,blanca osuna,27,39,PER,0.9999
+,fdt,41,44,ORG,0.9999
+,entre ríos,46,56,LOC,0.9999
+,covid,112,117,PER,0.9998
+,madrid,22,28,LOC,0.8989
+,covid,58,63,MISC,0.9944
+,tve,100,103,ORG,0.9999
+,gobierno,111,119,ORG,0.9999
+,pge,130,133,MISC,0.9996
+,b,138,139,ORG,0.9997
+,guadavazquez,4,16,PER,0.9938
+,covid,39,44,MISC,0.9983
+,microsoft,90,99,ORG,0.9991
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,kimosab56580835,4,19,PER,0.6157
+,laboratorio biológico chino de wuhan,43,79,ORG,0.9014
+,glaxo,108,113,ORG,0.9999
+,mippcivzla,4,14,ORG,0.7064
+,josé luis camero,30,46,PER,0.9999
+,covid-19,72,80,MISC,0.999
+,eldestapeweb,4,16,ORG,0.9701
+,blanca osuna,18,30,PER,0.9999
+,fdt,45,48,ORG,1.0
+,covid-19,71,79,MISC,0.9999
+,mippcivzla,4,14,ORG,0.8409
+,📢🇻🇪,16,19,MISC,0.4948
+,sara,30,34,PER,0.9994
+,covid-19,56,64,MISC,0.9998
+,anespueblo,66,76,MISC,0.6456
+,aldo,4,8,PER,0.992
+,osnar,9,14,PER,0.9998
+,enamorarte,38,48,PER,0.7179
+,titularte,50,59,PER,0.9954
+,vacunarte,62,71,PER,0.9917
+,covid,82,87,PER,0.6017
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,redlaraddhh,4,15,ORG,0.9776
+,músicaxmedicinas,17,33,MISC,0.6828
+,americadalerojo,4,19,ORG,0.8367
+,scha,22,26,ORG,0.995
+,tulioagomez,33,44,PER,0.5455
+,donativos ambientales ford,30,56,ORG,0.9998
+,covid-19,144,152,MISC,0.9998
+,fundación neotrópica,157,177,ORG,0.9999
+,naranja,7,14,MISC,0.9989
+,ciudaddemexico,21,35,LOC,0.9998
+,claudiashein,37,49,ORG,0.9925
+,gobcdmx,52,59,ORG,0.9996
+,covid19honduras,4,19,PER,0.7361
+,latercera,4,13,ORG,0.9372
+,covid,35,40,LOC,0.9998
+,reginadelc,4,14,PER,0.6777
+,covid,96,101,MISC,0.9999
+,alfredodelmazo,4,18,PER,0.9651
+,covid,28,33,MISC,0.9961
+,edoméx,45,51,LOC,0.9899
+,dacolon,4,11,PER,0.9745
+,secretario de salud,25,44,MISC,0.9991
+,covid-19,139,147,MISC,0.9998
+,baronolivares,4,17,PER,0.9302
+,donasangre,19,29,MISC,0.8883
+,covid-19,88,96,MISC,0.9985
+,salvavidas unidossaldremosadelante,97,131,MISC,0.9998
+,ministro de salud,21,38,PER,0.9992
+,argentina,78,87,LOC,0.9999
+,ministra de seguridad,112,133,PER,0.9991
+,gabyspepe,4,13,ORG,0.7341
+,blanca osuna,27,39,PER,0.9999
+,fdt,41,44,ORG,0.9999
+,entre ríos,46,56,LOC,0.9999
+,covid,112,117,PER,0.9998
+,españa,0,6,LOC,0.9916
+,covid,109,114,MISC,0.9999
+,bce,119,122,ORG,0.9999
+,estado,159,165,ORG,0.9999
+,eldiarioes,253,263,ORG,0.8488
+,mippcivzla,4,14,ORG,0.7744
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,left for dead,0,13,MISC,0.9999
+,reforma,4,11,ORG,0.9921
+,basílica de guadalupe,16,37,LOC,0.9997
+,emrucali,4,12,PER,0.6995
+,covid-19,119,127,MISC,0.9999
+,caligua,131,138,ORG,0.6173
+,yocarisma,1,10,MISC,0.4034
+,carlosloret,12,23,PER,0.9988
+,doña,33,37,PER,0.9747
+,presidencialve,4,18,ORG,0.844
+,envivo,20,26,MISC,0.9974
+,nicolasmaduro,43,56,PER,0.7954
+,covid-19,128,136,MISC,0.9999
+,alfredodelmazo,4,18,PER,0.9742
+,conago,38,44,ORG,0.9999
+,secretaria de gobernación,60,85,PER,0.9997
+,m_olgascordero,88,102,PER,0.9973
+,gobiernomx,123,133,ORG,0.912
+,muyregiaa,4,13,ORG,0.4771
+,covid,50,55,MISC,0.994
+,mippcivzla,4,14,ORG,0.9254
+,envideo,16,23,MISC,0.7247
+,covid-19,82,90,MISC,0.9829
+,sistema público nacional de sal,107,138,ORG,0.9999
+,foro_tv,4,11,ORG,0.9002
+,créditos a la palabra,59,80,MISC,0.9999
+,expresodelamañana,110,127,ORG,0.9809
+,lopezdoriga,4,15,PER,0.6534
+,medalla belisario domínguez,31,58,MISC,0.9999
+,salud,88,93,MISC,0.9996
+,covid-19,114,122,MISC,0.9997
+,genpenaloza,4,15,ORG,0.8962
+,florida,17,24,LOC,0.9999
+,covid-19,63,71,MISC,0.9997
+,odavidbrizuela,4,18,PER,0.9939
+,covid-19,67,75,MISC,0.9998
+,vitorr,30,36,PER,0.999
+,elbomber,37,45,ORG,0.827
+,bailando,55,63,MISC,0.9987
+,covid,79,84,PER,0.9999
+,eldestapeweb,4,16,ORG,0.9701
+,blanca osuna,18,30,PER,0.9999
+,fdt,45,48,ORG,1.0
+,covid-19,71,79,MISC,0.9999
+,jrsestaca,4,13,PER,0.6749
+,covid,67,72,MISC,0.6978
+,covid,29,34,ORG,0.9998
+,erickgimphoto4f,4,19,PER,0.8337
+,nicolasmaduro,33,46,PER,0.9275
+,covid-19,118,126,MISC,0.9998
+,músicaxmedicinas,0,16,MISC,0.9953
+,covid-19  exigimos insumosysalariosdignos eligesolidaridad,119,177,MISC,0.8727
+,covid,40,45,PER,0.9967
