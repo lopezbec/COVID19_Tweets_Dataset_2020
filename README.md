@@ -1,3 +1,6 @@
+This repo only contatins the data and statistics for 2020. 
+For the data of 2021 please visit: https://github.com/lopezbec/COVID19_Tweets_Dataset
+-----------------
 -   [Data Organization](#data-organization)
 -   [Data Statistics](#data-statistics)
     -   [General Statistics](#general-statistics)
