@@ -1,4 +1,4 @@
-##   This repo only contatins the data and statistics for **2020**. For the data of other years please visit:<a href="https://github.com/lopezbec/COVID19_Tweets_Dataset" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset</a>
+##   This repo only contatins the data from **2020**. For the data and statistics of other years please visit:<a href="https://github.com/lopezbec/COVID19_Tweets_Dataset" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset</a>
 -----------------
 -   [Data Organization](#data-organization)
 -   [Data Statistics](#data-statistics)
